@@ -1,0 +1,109 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	BTO	CHMO	EFO	MI	MONDO	MS	MTBLS	NCBITaxon	NCIT	OBI	mesh
+Term Source File	http://purl.obolibrary.org/obo/bto.owl	http://purl.obolibrary.org/obo/chmo.owl	http://www.ebi.ac.uk/efo/efo.owl	http://purl.obolibrary.org/obo/mi.owl	https://purl.obolibrary.org/obo/mondo/mondo-international.owl	http://purl.obolibrary.org/obo/ms.owl	https://github.com/EBI-Metabolights/MtblsWS-Py/blob/main/resources/Metabolights.owl	http://purl.obolibrary.org/obo/ncbitaxon.owl	http://purl.obolibrary.org/obo/ncit.owl	http://purl.obolibrary.org/obo/obi.owl	https://w3id.org/biopragmatics/resources/mesh/mesh.owl.gz
+Term Source Version		2025-10-21	3.89.0		2026-05-05			2026-05-05	26.02d	2026-03-19	2025
+Term Source Description	The BRENDA Tissue Ontology (BTO)	Chemical Methods Ontology	Experimental Factor Ontology	Molecular Interactions Controlled Vocabulary	Mondo Disease Ontology	Mass spectrometry ontology	MetaboLights Controlled Vocabulary	NCBI organismal classification	NCI Thesaurus OBO Edition	Ontology for Biomedical Investigations	Medical Subject Headings
+INVESTIGATION
+Investigation Identifier	MTBLS14016
+Investigation Title	Serum Proteomic and Metabolomic Profiling of Sepsis Patients Reveals a Diagnostic Model and Mechanistic Insights into Carbapenem-Resistant Klebsiella pneumoniae Infection
+Investigation Description	
+Investigation Submission Date	2026-03-10
+Investigation Public Release Date	2026-05-18
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID
+Investigation Publication DOI
+Investigation Publication Author List
+Investigation Publication Title
+Investigation Publication Status
+Investigation Publication Status Term Accession Number
+Investigation Publication Status Term Source REF
+INVESTIGATION CONTACTS
+Investigation Person Last Name
+Investigation Person First Name
+Investigation Person Mid Initials
+Investigation Person Email
+Investigation Person Phone
+Investigation Person Fax
+Investigation Person Address
+Investigation Person Affiliation
+Investigation Person Roles
+Investigation Person Roles Term Accession Number
+Investigation Person Roles Term Source REF
+STUDY
+Study Identifier	MTBLS14016
+Study Title	Serum Proteomic and Metabolomic Profiling of Sepsis Patients Reveals a Diagnostic Model and Mechanistic Insights into Carbapenem-Resistant Klebsiella pneumoniae Infection
+Study Description	<p>Serum Proteomic and Metabolomic Profiling of Sepsis Patients Reveals a Diagnostic Model and Mechanistic Insights into Carbapenem-Resistant Klebsiella pneumoniae Infection</p>
+Study Submission Date	2026-03-10
+Study Public Release Date	2026-05-18
+Study File Name	s_MTBLS14016.txt
+Comment[Created At]	2026-03-05
+Comment[Funder]	
+Comment[Funder ROR ID]	
+Comment[Grant Identifier]	
+Comment[License]	CC0 1.0 Universal
+Comment[Linked Study Accession]	
+Comment[Revision]	1
+Comment[Revision Date]	2026-05-18
+Comment[Revision Log]	Initial revision
+Comment[Sample Template]	minimum
+Comment[Study Category]	other
+Comment[Study Template]	minimum
+Comment[Template Version]	1.0
+STUDY DESIGN DESCRIPTORS
+Study Design Type	Metabolomics	Sepsis	Carbapenem-Resistant Klebsiella pneumoniae
+Study Design Type Term Accession Number	http://id.nlm.nih.gov/mesh/D055432	http://purl.obolibrary.org/obo/HP_0100806	http://purl.obolibrary.org/obo/NCIT_C209657
+Study Design Type Term Source REF	mesh	EFO	NCIT
+STUDY PUBLICATIONS
+Study PubMed ID	
+Study Publication DOI	
+Study Publication Author List	Juan He, Siqi Luo, Wenyun Xu, Yuanzhuo Chen, Guorong Liu, Jianguo Tang, Yong Yang, Bing Zhao, Li Ma, Huiqiu Sheng, Enqiang Mao
+Study Publication Title	Please update the publication title
+Study Publication Status	submitted
+Study Publication Status Term Accession Number	http://www.ebi.ac.uk/efo/EFO_0001794
+Study Publication Status Term Source REF	EFO
+STUDY FACTORS
+Study Factor Name	Bacterial type
+Study Factor Type	disease
+Study Factor Type Term Accession Number	http://purl.obolibrary.org/obo/MONDO_0000001
+Study Factor Type Term Source REF	MONDO
+STUDY ASSAYS
+Study Assay File Name	a_MTBLS14016_LC-MS_negative__metabolite_profiling.txt	a_MTBLS14016_LC-MS_positive__metabolite_profiling.txt
+Study Assay Measurement Type	untargeted analysis	untargeted analysis
+Study Assay Measurement Type Term Accession Number	http://purl.obolibrary.org/obo/MS_1003904	http://purl.obolibrary.org/obo/MS_1003904
+Study Assay Measurement Type Term Source REF	MS	MS
+Study Assay Technology Type	mass spectrometry assay	mass spectrometry assay
+Study Assay Technology Type Term Accession Number	http://purl.obolibrary.org/obo/OBI_0000470	http://purl.obolibrary.org/obo/OBI_0000470
+Study Assay Technology Type Term Source REF	OBI	OBI
+Study Assay Technology Platform	Liquid Chromatography MS - negative	Liquid Chromatography MS - positive
+Comment[Assay Identifier]		
+Comment[Assay Type Label]	LC-MS	LC-MS
+Comment[Assay Type]	LC-MS	LC-MS
+Comment[Assay Type Term Accession Number]		
+Comment[Assay Type Term Source REF]		
+STUDY PROTOCOLS
+Study Protocol Name	Chromatography	Data transformation	Extraction	Mass spectrometry	Metabolite identification	Sample collection
+Study Protocol Type	chromatography	data transformation	Extraction	mass spectrometry	metabolite identification	Sample collection
+Study Protocol Type Term Accession Number	http://purl.obolibrary.org/obo/CHMO_0001000	http://purl.obolibrary.org/obo/OBI_0200000		http://purl.obolibrary.org/obo/CHMO_0000470	http://purl.obolibrary.org/obo/MI_2131	
+Study Protocol Type Term Source REF	CHMO	OBI	OBI	CHMO	MI	CHMO
+Study Protocol Description	<p>Chromatographic separation was performed on a Waters ACQUITY UPLC HSS T3 C18 column (1.8 μm, 2.1 × 100 mm, Waters, Milford, MA, USA) using an ExionLC AD system (Sciex, Framingham, MA, USA). The mobile phase consisted of (A) ultrapure water with 0.1% formic acid and (B) acetonitrile with 0.1% formic acid. The gradient elution was programmed as follows: 0 min, 95:5 (A:B, v/v); 2.0 min, 80:20; 5.0 min, 40:60; 6.0 min, 1:99; 7.5 min, 1:99; 7.6 min, 95:5; and 10.0 min, 95:5. The flow rate was 0.4 mL/min, the column temperature was maintained at 40 °C, and the injection volume was 2 μL.</p>	<p>Mass spectrometric detection was conducted on a QTRAP® instrument (Sciex) equipped with an electrospray ionization (ESI) source. The ESI parameters were set as follows: source temperature 500 °C; ion spray voltage 5500 V (positive) and −4500 V (negative); ion source gas I, gas II, and curtain gas at 55, 60 and 25 psi, respectively; collision gas set to high. Instrument calibration was performed using 10 and 100 μmol/L polypropylene glycol solutions. Specific MRM transitions were monitored for each metabolite according to their elution period.</p>	<p _msttexthash='32273813' _msthash='715'>Serum samples were thawed on ice and vortexed for 10 s. A 50 μL aliquot was mixed with 300 μL of extraction solution (acetonitrile:methanol = 1:4, v/v) containing internal standards. After vortexing for 3 min, the mixture was centrifuged at 12,000 rpm for 10 min at 4 °C. Then, 200 μL of supernatant was transferred to a new tube, maintained at −20 °C for 30 min, and centrifuged again at 12,000 rpm for 3 min at 4 °C. Finally, 180 μL of supernatant was collected for LC-MS analysis.</p>	<p>The sample extracts were analyzed using an LC-ESI-MS/MS system (UPLC, ExionLC AD, https://sciex.com.cn/; MS, QTRAP® System, https://sciex.com/). Chromatographic separation was performed on a Waters ACQUITY UPLC HSS T3 C18 column (1.8 μm, 2.1 × 100 mm) using an ExionLC AD system (Sciex). The mobile phase consisted of (A) ultrapure water with 0.1% formic acid and (B) acetonitrile with 0.1% formic acid. The gradient elution was as follows: 0 min, 95:5 (A:B, v/v); 2.0 min, 80:20; 5.0 min, 40:60; 6.0 min, 1:99; 7.5 min, 1:99; 7.6 min, 95:5; and 10.0 min, 95:5. The flow rate was 0.4 mL/min, column temperature was maintained at 40 °C, and the injection volume was 2 μL.</p>	<p>Metabolite profiling was conducted using Metware's widely-targeted metabolomics technology, which combines high-resolution mass spectrometry (HRMS) for broad-spectrum metabolite identification with triple quadrupole mass spectrometry operating in multiple reaction monitoring (MRM) mode for precise quantification. Identification was achieved by matching the acquired MS/MS spectra against Metware's self-built standard database (MWDB) containing over 2,000 authentic compounds for human endogenous metabolites, based on accurate precursor mass (&lt;5 ppm), retention time alignment with standards, MS/MS fragmentation patterns, and isotopic distribution. Quality control samples were analyzed throughout to ensure data reliability.</p>	<p _msttexthash='32273813' _msthash='652'>Serum samples were collected at the time of sepsis diagnosis. Residual blood samples from routine clinical testing were used to minimize additional invasive procedures. Blood smears were prepared for microbiological confirmation of CRKP or CSKP. Serum was separated and aliquoted for storage at -80 °C to preserve sample integrity for subsequent multi-omics analyses</p>
+Study Protocol URI						
+Study Protocol Version						
+Study Protocol Parameters Name	Chromatography Instrument;Autosampler model;Column model;Column type;Guard column		Post Extraction;Derivatization	Scan polarity;Scan m/z range;Instrument;Ion source;Mass analyzer		
+Study Protocol Parameters Name Term Accession Number	;;;;		;	;;;;		
+Study Protocol Parameters Name Term Source REF	;;;;		;	;;;;		
+Study Protocol Components Name						
+Study Protocol Components Type						
+Study Protocol Components Type Term Accession Number						
+Study Protocol Components Type Term Source REF						
+STUDY CONTACTS
+Study Person Last Name	Siqi	Enqiang
+Study Person First Name	Luo	Mao
+Study Person Mid Initials		
+Study Person Email	luosiqi86@163.com	maoeq@yeah.net
+Study Person Phone		
+Study Person Fax		
+Study Person Address		
+Study Person Affiliation		Ruijin Hospital, Shanghai Jiao Tong University School of Medicine
+Study Person Roles	Author	Principal Investigator
+Study Person Roles Term Accession Number	http://purl.obolibrary.org/obo/NCIT_C42781	http://purl.obolibrary.org/obo/NCIT_C19924
+Study Person Roles Term Source REF	NCIT	NCIT

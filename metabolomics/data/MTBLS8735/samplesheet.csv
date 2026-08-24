@@ -1,0 +1,7 @@
+sample,level,type,msfile
+MS_A_POS,MS1,CVD,metabolomics/data/MTBLS8735/MS_A_POS.mzML
+MS_B_POS,MS1,CTR,metabolomics/data/MTBLS8735/MS_B_POS.mzML
+MS_D_POS,MS1,CVD,metabolomics/data/MTBLS8735/MS_D_POS.mzML
+MS_E_POS,MS1,CTR,metabolomics/data/MTBLS8735/MS_E_POS.mzML
+MS_QC_POOL_1_POS,MS1,QC_POOL,metabolomics/data/MTBLS8735/MS_QC_POOL_1_POS.mzML
+MS_QC_POOL_2_POS,MS1,QC_POOL,metabolomics/data/MTBLS8735/MS_QC_POOL_2_POS.mzML

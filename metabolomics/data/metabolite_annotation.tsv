@@ -1,0 +1,416 @@
+metabolite	class_i	class_ii	formula	q1_mz	molecular_weight	adduct	identification_level	cas	pubchem_cid	hmdb	chebi	metlin	kegg_compound	kegg_map
+2-Methyllactic acid	Organic acid and Its derivatives	Organic acid and Its derivatives	C4H8O3	103.04	104.1	[M-H]-	1a	594-61-6	11671				C21297	
+(R)-2-Hydroxybutyric acid	Organic acid and Its derivatives	Organic acid and Its derivatives	C4H8O3	103.04	104.1	[M-H]-	1a	20016-85-7	449265				C05984	ko00640
+2-Methylhexanoic acid	Organic acid and Its derivatives	Organic acid and Its derivatives	C7H14O2	129.09	130.09938	[M-H]-	1b	4536-23-6	20653	HMDB0031594				
+2,2-Dimethylpentanoic acid	Organic acid and Its derivatives	Organic acid and Its derivatives	C7H14O2	129.09	130.09938	[M-H]-	1b	1185-39-3	14455					
+4-Methylhexanoic acid	Organic acid and Its derivatives	Organic acid and Its derivatives	C7H14O2	129.09	130.09938	[M-H]-	1b	1561-11-1	15271					
+2-amino-4-oxovaleric acid	Organic acid and Its derivatives	Organic acid and Its derivatives	C5H9NO3	130.05	131.05823	[M-H]-	1a	4439-83-2	11029881				C03341	ko00470,ko01100
+N-Acetyl-L-alanine	Amino acid and Its metabolites	Amino acid derivatives	C5H9NO3	130.05	131.0582	[M-H]-	1a	97-69-8	88064	HMDB0000766	40992	5733	C01073	ko00410
+N-acetyl-beta-alanine	Amino acid and Its metabolites	Amino acid derivatives	C5H9NO3	130.05	131.0582432	[M-H]-	1a	3025-95-4	76406	HMDB0061880	16682		C01073	ko00410
+Xylose	Carbohydrates and Its metabolites	Sugars	C5H10O5	149.05	150.053	[M-H]-	1b	58-86-6	135191	HMDB0000098	53455	314	C00181	ko00040,ko00520,ko01100,ko02010
+L-lyxose	Carbohydrates and Its metabolites	Carboxylic acids and derivatives	C5H10O5	149.05	150.13	[M-H]-	1b	1949-78-6	644176				C01508	ko00040
+Arabinose	Carbohydrates and Its metabolites	Sugars	C5H10O5	149.05	150.053	[M-H]-	1b	147-81-9	66308	HMDB0029942	46983		C00259	ko00040,ko00053,ko00520,ko01100,ko01250,ko02010
+3-Amino-4-Hydroxybenzoic Acid	Benzene and substituted derivatives	Phenolic acids	C7H7NO3	152.04	153.042594	[M-H]-	1b	1571-72-8	65083				C12115	ko01100
+3-Amino-5-hydroxybenzoic acid	Organic acid and Its derivatives	Organic acid and Its derivatives	C7H7NO3	152.04	153.042594	[M-H]-	1b	76045-71-1	127115				C12107	
+3-Hydroxyanthranilic Acid	Benzene and substituted derivatives	Phenolic acids	C7H7NO3	152.04	153.043	[M-H]-	1b	548-93-6	86	HMDB0001476	15793	3275	C00632	ko00380,ko01100,ko01240
+Protocatechuic Acid	Benzene and substituted derivatives	Phenolics	C7H6O4	153.02	154.027	[M-H]-	1b	99-50-3	72	HMDB0001856	36062	6350	C00230	ko00400,ko01100
+2,5-Dihydroxybenzoic acid	Benzene and substituted derivatives	Phenolic acids	C7H6O4	153.02	154.027	[M-H]-	1b	490-79-9	3469	HMDB0000152	17189	618	C00628	ko00350,ko01100
+2,3-Dihydroxybenzoic acid	Organic acid and Its derivatives	Organic acid and Its derivatives	C7H6O4	153.02	154.0266087	[M-H]-	1b	303-38-8	19	HMDB0000397	18026	5386	C00196	
+3,5-Dihydroxybenzoic acid	Organic acid and Its derivatives	Organic acid and Its derivatives	C7H6O4	153.02	154.02661	[M-H]-	1b	99-10-5	7424	HMDB0013677	39912		C00230	ko00400,ko01100
+4-hydroxyphenylglyoxylate	Benzene and substituted derivatives	Phenolic acids	C8H6O4	165.02	166.02659	[M-H]-	3	15573-67-8	355				C03590	ko01100
+Phthalic Acid	Benzene and substituted derivatives	Phenolic acids	C8H6O4	165.02	166.027	[M-H]-	3	88-99-3	1017	HMDB0002107	29069	6489	C01606	ko01100,ko02010
+Pyridine-3,4-dicarboxylic acid	Heterocyclic compounds	Pyridine and pyridine derivatives	C7H5NO4	166.01	167.021859	[M-H]-	1b	490-11-9	10273				C03722	ko00380,ko00410,ko00760,ko01100,ko01240
+2,4-Pyridinedicarboxylic acid	Heterocyclic compounds	Pyridine and pyridine derivatives	C7H5NO4	166.01	167.021859	[M-H]-	1b	499-80-9	10365					
+2-Methylhippuric acid	Organic acid and Its derivatives	Organic acid and Its derivatives	C10H11NO3	192.07	193.073898	[M-H]-	1b	42013-20-7	91637	HMDB0011723	68455		C01586	
+N-Phenylacetylglycine	Amino acid and Its metabolites	Amino acid derivatives	C10H11NO3	192.07	193.074	[M-H]-	1b	500-98-1	68144	HMDB0000821	27480	4237	C05598	ko00360
+4-tert-Octylphenol	Benzene and substituted derivatives	Phenolics	C14H22O	205.16	206.1671	[M-H]-	1a	140-66-9	8814	HMDB0013825			C14205	
+2,4-Di-tert-butylphenol	Benzene and substituted derivatives	Phenolics	C14H22O	205.16	206.1671	[M-H]-	1a	96-76-4	7311	HMDB0013816	89188			
+Phenylhydroxylamine	Benzene and substituted derivatives	Benzene and substituted derivatives	C6H7NO	110.06	109.052764	[M+H]+	1b	100-65-2	7518				C02720	
+4-Aminophenol	Benzene and substituted derivatives	Phenolics	C6H7NO	110.06	109.0527639	[M+H]+	1b	123-30-8	403	HMDB0001169	17602	6051	C02372	
+L-Valine	Amino acid and Its metabolites	Amino acids	C5H11NO2	118.09	117.079	[M+H]+	1a	72-18-4	6287	HMDB0000883	16414	5842	C00183	ko00280,ko00290,ko00770,ko00970,ko01100,ko01210,ko01230,ko01240,ko02010,ko04974,ko04978,ko05230
+L-Norvaline	Amino acid and Its metabolites	Amino acids	C5H11NO2	118.09	117.078979	[M+H]+	1a	6600-40-4	65098				C01826	
+1-Hydroxylamino-2-phenylethane	Benzene and substituted derivatives	Benzene and substituted derivatives	C8H11NO	120.08	137.0	[M-H2O+H]+	2	3217-93-4	165091					
+(R)-(-)-2-Phenylglycinol	Amino acid and Its metabolites	Amino acid derivatives	C8H11NO	120.08	137.084064	[M-H2O+H]+	2	56613-80-0	2724025					
+L-Norleucine	Amino acid and Its metabolites	Amino acids	C6H13NO2	132.1	131.0946	[M+H]+	1b	327-57-1	21236	HMDB0001645	18347	6334	C01933	
+6-Aminocaproic Acid	Amino acid and Its metabolites	Amino acid derivatives	C6H13NO2	132.1	131.095	[M+H]+	1b	60-32-2	564	HMDB0001901	16586		C02378	ko01100
+Mannose	Carbohydrates and Its metabolites	Sugars	C6H12O6	181.07	180.063	[M+H]+	1a	3458-28-4	18950	HMDB0000169	4208		C00159	ko00051,ko00052,ko00520,ko01100,ko01250,ko02010,ko04142,ko04625
+Fructose	Carbohydrates and Its metabolites	Sugars	C6H12O6	181.07	180.063	[M+H]+	1a	57-48-7	5984	HMDB0062538	48095		C10906	
+Gly-Glu	Amino acid and Its metabolites	Small Peptide	C7H12N2O5	205.08	204.07407	[M+H]+	1a	7412-78-4	99278				C00107	ko02010
+Glu-Gly	Amino acid and Its metabolites	Small Peptide	C7H12N2O5	205.08	204.07	[M+H]+	1a	1948-29-4	6427052	HMDB0028819	73505		C00107	ko02010
+Val-Leu	Amino acid and Its metabolites	Small Peptide	C11H22N2O3	231.17	230.163043	[M+H]+	1b	3989-97-7	6993118	HMDB0029131			C00107	ko02010
+Val-Ile	Amino acid and Its metabolites	Small Peptide	C11H22N2O3	231.17	230.163043	[M+H]+	1b	20556-14-3	7010532	HMDB0029130			C00107	ko02010
+Ile-Asp	Amino acid and Its metabolites	Small Peptide	C10H18N2O5	247.13	246.1214904	[M+H]+	3		14304554	HMDB0028903			C00107	ko02010
+Asp-Leu	Amino acid and Its metabolites	Small Peptide	C10H18N2O5	247.13	246.121573	[M+H]+	3	3062-14-4	6992367				C00107	ko02010
+2,4-diacetamino-2,4,6-triphenoxy-D-mannopyranose	Carbohydrates and Its metabolites	Sugar derivatives	C10H18N2O5	247.13	246.12154	[M+H]+	3		52940203				C20424	ko00520,ko01100,ko01250
+Asp-Ile	Amino acid and Its metabolites	Small Peptide	C10H18N2O5	247.13	246.12	[M+H]+	3		21845165				C00107	ko02010
+Leu-Glu	Amino acid and Its metabolites	Small Peptide	C11H20N2O5	261.14	260.137223	[M+H]+	1b	16364-31-1	7009630				C00107	ko02010
+Ile-Glu	Amino acid and Its metabolites	Small Peptide	C11H20N2O5	261.14	260.137223	[M+H]+	1b	42516-53-0	7009625				C00107	ko02010
+Thr-Phe	Amino acid and Its metabolites	Small Peptide	C13H18N2O4	267.13	266.1266571	[M+H]+	3	16875-27-7	4099799	HMDB0029068			C00107	ko02010
+Phe-Thr	Amino acid and Its metabolites	Small Peptide	C13H18N2O4	267.13	266.12611	[M+H]+	3	51352-44-4	10445608	HMDB0029005			C00107	ko02010
+1-Methyladenosine	Nucleotide and Its metabolites	Nucleotide and Its metabolites	C11H15N5O4	282.12	281.1124	[M+H]+	2	15763-06-1	27476				C02494	
+N6-methyladenosine	Nucleotide and Its metabolites	Nucleotide and Its metabolites	C11H15N5O4	282.12	281.112404	[M+H]+	2	1867-73-8	102175	HMDB0004044	21891			
+4-Hydroxybenzoic Acid	Benzene and substituted derivatives	Phenolic acids	C7H6O3	137.02	138.032	[M-H]-	1a	99-96-7	135	HMDB0000500	30763	5486	C00156	ko00130,ko00790,ko01100,ko01240
+Salicylic acid	Organic acid and Its derivatives	Organic acid and Its derivatives	C7H6O3	137.02	138.031695	[M-H]-	1a	69-72-7	338	HMDB0001895	16914	616	C00805	ko01100,ko04976
+Tyrosol	Benzene and substituted derivatives	Benzene and substituted derivatives	C8H10O2	137.06	138.0680796	[M-H]-	1a	501-94-0	10393	HMDB0004284	1879	7044	C06044	ko00350,ko01100
+Xanthine	Nucleotide and Its metabolites	Nucleotide and Its metabolites	C5H4N4O2	151.03	152.033	[M-H]-	1a	69-89-6	1188	HMDB0000292	17712	82	C00385	ko00230,ko00232,ko01100,ko01232
+4-acetoxyphenol	Benzene and substituted derivatives	Phenolics	C8H8O3	151.04	152.0473441	[M-H]-	1a	3233-32-7	96009				C13636	ko01100
+Ethylsalicylate	Organic acid and Its derivatives	Organic acid and Its derivatives	C9H10O3	165.06	166.0629942	[M-H]-	1b	118-61-6	8365	HMDB0029817				
+Ethionamide	Heterocyclic compounds	Pteridines and derivatives	C8H10N2S	165.05	166.0564	[M-H]-	1b	536-33-4	2761171	HMDB0014747	4885		C07665	
+Val-Ala	Amino acid and Its metabolites	Small Peptide	C8H16N2O3	187.11	188.116093	[M-H]-	1b	27493-61-4	6992638				C00107	ko02010
+Sedoheptulose 7-Phosphate	Carbohydrates and Its metabolites	Phosphate sugars	C7H15O10P	289.03	290.040287	[M-H]-	3	2646-35-7	22833559	HMDB0001068	15721		C05382	ko00030,ko01100,ko01200,ko01230,ko01250
+Argininosuccinic acid	Organic acid and Its derivatives	Organic acid and Its derivatives	C10H18N4O6	289.12	290.1226343	[M-H]-	3	2387-71-5	16950	HMDB0000052	15682	5115	C03406	ko00220,ko00250,ko01100,ko01230
+9,10-Epoxy-18-hydroxyoctadecanoic acid	FA	Oxidized lipids	C18H34O4	313.24	314.24571	[M-H]-	1b	3233-92-9	9818312					
+12,13-DiHOME	FA	Oxidized lipids	C18H34O4	313.24	314.2457	[M-H]-	1b	263399-35-5	10236635					
+9,10-DiHOME	FA	Oxidized lipids	C18H34O4	313.24	314.2457	[M-H]-	1b		9966640	HMDB0004704			C14828	ko00591
+DHA	FA	Oxidized lipids	C22H32O2	327.23	328.2402	[M-H]-	2	6217-54-5	445580	HMDB0002183	28125	3457	C06429	ko01040
+FFA(22:6)	FA	FFA	C22H32O2	327.23	328.2402	[M-H]-	2	25167-62-8	6442063					
+LPA(0:0/16:0)	GP	LPA	C19H39O7P	409.24	410.243342	[M-H]-	1a		53478599	HMDB0007849			C00416	ko00561,ko00564,ko01100,ko04024,ko04070,ko04072,ko04666,ko04912,ko04975,ko05200,ko05212,ko05231
+LPA(16:0/0:0)	GP	LPA	C19H39O7P	409.24	410.2433401	[M-H]-	1a	22002-85-3	89566	HMDB0007853	64023		C04036	
+LPE(0:0/16:0)	GP	LPE	C21H44NO7P	452.28	453.285541	[M-H]-	2		53480922				C04438	ko00564
+LPE(16:0/0:0)	GP	LPE	C21H44NO7P	452.28	453.285541	[M-H]-	2		9547069				C04438	ko00564
+LPE(18:2/0:0)	GP	LPE	C23H44NO7P	476.28	477.285539	[M-H]-	2	85046-18-0	52925130	HMDB0011507	83058		C04438	ko00564
+LPE(0:0/18:2)	GP	LPE	C23H44NO7P	476.28	477.285541	[M-H]-	2		53480926				C04438	ko00564
+LPE(0:0/20:4)	GP	LPE	C25H44NO7P	500.28	501.285539	[M-H]-	2		53480936	HMDB0011487	72741		C04438	ko00564
+LPE(20:4/0:0)	GP	LPE	C25H44NO7P	500.28	501.285541	[M-H]-	2		42607465				C04438	ko00564
+LPE(0:0/22:6)	GP	LPE	C27H44NO7P	524.28	525.285541	[M-H]-	3		53480945				C04438	ko00564
+LPE(22:6/0:0)	GP	LPE	C27H44NO7P	524.28	525.285541	[M-H]-	3		52925132				C04438	ko00564
+Pyrrolidine	Heterocyclic compounds	Heterocyclic compounds	C4H9N	72.08	71.07349929	[M+H]+	1b	123-75-1	31268	HMDB0031641	33135			
+Acrylamide	Alcohol and amines	Amines	C3H5NO	72.04	71.037114	[M+H]+	1b	79-06-1	6579	HMDB0004296	28619		C01659	
+Oxypurinol	Nucleotide and Its metabolites	Nucleotide and Its metabolites	C5H4N4O2	153.04	152.0334254	[M+H]+	1a	2465-59-0	135398752	HMDB0000786	28315	5752	C07599	
+8-Azaguanine	Nucleotide and Its metabolites	Nucleotide and Its metabolites	C4H4N6O	153.05	152.044659	[M+H]+	1a	134-58-7	135403646					
+(1R,6S)-6-amino-5-oxocyclohexyl-2-ene-1-carboxylic-acid-ester	Aldehyde,Ketones,Esters	Esters	C7H9NO3	156.07	155.05823	[M+H]+	3		49852389				C19831	ko01100
+N-Alpha-Acetyl-L-Asparagine	Amino acid and Its metabolites	Amino acid derivatives	C6H10N2O4	175.07	174.064056	[M+H]+	1a	4033-40-3	99715	HMDB0006028				
+L-Theanine	Amino acid and Its metabolites	Amino acids	C7H14N2O3	175.11	174.1	[M+H]+	1a	3081-61-6	439378	HMDB0034365	17394		C01047	
+Pro-Ser	Amino acid and Its metabolites	Small Peptide	C8H14N2O4	203.1	202.095358	[M+H]+	1b	71835-80-8	7408258				C00107	ko02010
+N,N-Dimethylarginine	Amino acid and Its metabolites	Amino acid derivatives	C8H18N4O2	203.15	202.143	[M+H]+	1b	30315-93-6	123831	HMDB0001539	17929	6309	C03626	
+SDMA	Organic acid and Its derivatives	Organic acid and Its derivatives	C8H18N4O2	203.15	202.142976	[M+H]+	1b	30344-00-4	169148	HMDB0003334	25682	6891		
+Phe-Gly	Amino acid and Its metabolites	Small Peptide	C11H14N2O3	223.11	222.09989	[M+H]+	1a	721-90-4	6992304				C00107	ko02010
+Gly-Phe	Amino acid and Its metabolites	Amino acid derivatives	C11H14N2O3	223.11	222.100449	[M+H]+	1a	3321-03-7	92953	HMDB0028848			C00107	ko02010
+His-Leu	Amino acid and Its metabolites	Small Peptide	C12H20N4O3	269.16	268.153541	[M+H]+	3	7763-65-7	189008	HMDB0028889			C05010	
+Ile-His	Amino acid and Its metabolites	Small Peptide	C12H20N4O3	269.16	268.15299	[M+H]+	3	97284-12-3	7019081				C00107	ko02010
+Carnitine C16-OH	FA	CAR	C23H45NO5	416.34	415.3298	[M+H]+	2	195207-76-2	71464553	HMDB0013336			C02301	ko04714
+Carnitine C15:DC	FA	CAR	C22H41NO6	416.3	415.293389	[M+H]+	2						C02301	ko04714
+Carnitine ph-C14	FA	CAR	C27H45NO4	448.34	447.334859	[M+H]+	3						C02301	ko04714
+2,22-Dideoxy-3-dehydroecdysone	Hormones and hormone related compounds	Hormones and hormone related compounds	C27H42O4	448.34	430.30831	[M+NH4]+	3		23724770					
+LPC(15:0/0:0)	GP	LPC	C23H48NO7P	482.32	481.316841	[M+H]+	2		24779458	HMDB0010381	580912		C04230	ko00564,ko04148,ko05231
+2-Hexadecanoylthio-1-ethylphosphorylcholine	FA	FA	C23H48NO5PS	482.31	481.299081	[M+H]+	2	60793-01-3	194114					
+LPC(0:0/15:0)	GP	LPC	C23H48NO7P	482.32	481.3168	[M+H]+	2	108273-89-8	165415602				C04230	ko00564,ko04148,ko05231
+LPC(16:2/0:0)	GP	LPC	C24H46NO7P	492.31	491.30119	[M+H]+	2		154573513				C04230	ko00564,ko04148,ko05231
+LPC(0:0/16:2)	GP	LPC	C24H46NO7P	492.31	491.30119	[M+H]+	2						C04230	ko00564,ko04148,ko05231
+LPC(0:0/16:0)	GP	LPC	C24H50NO7P	496.34	495.332491	[M+H]+	2	66757-27-5	15061532				C04230	ko00564,ko04148,ko05231
+LPC(16:0/0:0)	GP	LPC	C24H50NO7P	496.34	495.332491	[M+H]+	2	17364-16-8	460602	HMDB0010382	72998		C04230	ko00564,ko04148,ko05231
+PC(O-1:0/O-16:0)	GP	PC-O	C25H54NO6P	496.38	495.368876	[M+H]+	2						C00157	ko00564,ko00590,ko00591,ko00592,ko01100,ko04723,ko05231
+LPC(17:0/0:0)	GP	LPC	C25H52NO7P	510.36	509.348141	[M+H]+	2	50930-23-9	24779463	HMDB0012108	74340		C04230	ko00564,ko04148,ko05231
+LPC(0:0/17:0)	GP	LPC	C25H52NO7P	510.36	509.348141	[M+H]+	2		165415680				C04230	ko00564,ko04148,ko05231
+LPC(18:2/0:0)	GP	LPC	C26H50NO7P	520.34	519.332491	[M+H]+	1a		11005824	HMDB0010386	28733		C04230	ko00564,ko04148,ko05231
+LPC(0:0/18:2)	GP	LPC	C26H50NO7P	520.34	519.332491	[M+H]+	1a	27304-12-7	71768169				C04230	ko00564,ko04148,ko05231
+LPC(18:1/0:0)	GP	LPC	C26H52NO7P	522.36	521.348141	[M+H]+	1a	3542-29-8	53480465	HMDB0010385	86255		C04230	ko00564,ko04148,ko05231
+LPC(0:0/18:1)	GP	LPC	C26H52NO7P	522.36	521.348141	[M+H]+	1a	22248-65-3	24779494				C04230	ko00564,ko04148,ko05231
+2-Thio-PAF	FA	FA	C26H54NO6PS	522.34	539.340946	[M+H-H2O]+	1a		10347222					
+LPC(0:0/20:4)	GP	LPC	C28H50NO7P	544.34	543.332491	[M+H]+	2		52924038				C04230	ko00564,ko04148,ko05231
+LPC(20:4/0:0)	GP	LPC	C28H50NO7P	544.34	543.332491	[M+H]+	2	60701-99-7	24779476				C04230	ko00564,ko04148,ko05231
+LPC(20:2/0:0)	GP	LPC	C28H54NO7P	548.37	547.363791	[M+H]+	2		52924053	HMDB0010392	83055		C04230	ko00564,ko04148,ko05231
+LPC(0:0/20:2)	GP	LPC	C28H54NO7P	548.37	547.363791	[M+H]+	2						C04230	ko00564,ko04148,ko05231
+LPC(0:0/22:6)	GP	LPC	C30H50NO7P	568.34	567.332491	[M+H]+	2		71768157				C04230	ko00564,ko04148,ko05231
+LPC(22:6/0:0)	GP	LPC	C30H50NO7P	568.34	567.332491	[M+H]+	2		10415542				C04230	ko00564,ko04148,ko05231
+LPC(22:5/0:0)	GP	LPC	C30H52NO7P	570.36	569.348141	[M+H]+	2		53480475				C04230	ko00564,ko04148,ko05231
+LPC(0:0/22:5)	GP	LPC	C30H52NO7P	570.36	569.348141	[M+H]+	2		165415626				C04230	ko00564,ko04148,ko05231
+Aspartic Acid	Amino acid and Its metabolites	Amino acids	C4H7NO4	132.03	133.038	[M-H]-	1b	56-84-8	5960	HMDB0000191	17053	5206	C00049	ko00220,ko00250,ko00260,ko00270,ko00340,ko00410,ko00470,ko00760,ko00770,ko00970,ko01100,ko01200,ko01210,ko01230,ko01240,ko02010,ko04080,ko04974,ko05230
+L-Citrulline	Amino acid and Its metabolites	Amino acids	C6H13N3O3	174.09	175.096	[M-H]-	1a	372-75-8	9750	HMDB0000904	16349	16	C00327	ko00220,ko01100,ko01230
+Histidine	Amino acid and Its metabolites	Amino acids	C6H9N3O2	154.06	155.07	[M-H]-	1a	71-00-1	6274	HMDB0000177	15971	21	C00135	ko00340,ko00410,ko00470,ko00970,ko01100,ko01230,ko02010,ko04974,ko05230
+L-Serine	Amino acid and Its metabolites	Amino acids	C3H7NO3	104.04	105.043	[M-H]-	1a	56-45-1	5951	HMDB0000187	17115	5203	C00065	ko00260,ko00270,ko00470,ko00564,ko00600,ko00630,ko00920,ko00970,ko01100,ko01200,ko01230,ko01240,ko02010,ko04071,ko04974,ko04978,ko05230
+L-Tryptophan	Amino acid and Its metabolites	Amino acids	C11H12N2O2	203.08	204.09	[M-H]-	1a	73-22-3	6305	HMDB0000929	16828	5879	C00078	ko00260,ko00380,ko00400,ko00970,ko01100,ko01210,ko01230,ko01240,ko04726,ko04974,ko04978,ko05143,ko05230
+3-Hydroxy-3-Methylpentane-1,5-Dioic Acid	Amino acid and Its metabolites	Amino acid derivatives	C6H10O5	161.05	162.053	[M-H]-	1b	503-49-1	1662	HMDB0000355	16831	5344	C03761	
+L-Asparagine Anhydrous	Amino acid and Its metabolites	Amino acids	C4H8N2O3	131.05	132.054	[M-H]-	1b	70-47-3	6267	HMDB0000168	17196	14	C00152	ko00250,ko00970,ko01100,ko01230,ko04974,ko04978,ko05230
+L-Glutamine	Amino acid and Its metabolites	Amino acids	C5H10N2O3	145.06	146.069	[M-H]-	1a	56-85-9	5961	HMDB0000641	18050	5614	C00064	ko00220,ko00230,ko00240,ko00250,ko00470,ko00630,ko00750,ko00910,ko00970,ko01100,ko01230,ko01232,ko01240,ko02010,ko04724,ko04727,ko04964,ko04974,ko04978,ko05230
+N-Propionylglycine	Amino acid and Its metabolites	Amino acid derivatives	C5H9NO3	130.05	131.058	[M-H]-	1b	21709-90-0	98681	HMDB0000783	89836	5749		
+O-Phospho-L-Serine	Amino acid and Its metabolites	Amino acid derivatives	C3H8NO6P	184.0	185.009	[M-H]-	1b	407-41-0	68841	HMDB0000272	15811	5270	C01005	ko00260,ko00270,ko00970,ko01100,ko01200,ko01230
+S-(5-Adenosy)-L-Homocysteine	Amino acid and Its metabolites	Amino acid derivatives	C14H20N6O5S	383.11	384.122	[M-H]-	1b	979-92-0	439155	HMDB0000939	16680	296	C00021	ko00270,ko01100,ko01230,ko01240,ko05208
+4-Hydroxy-3-methoxybenzaldehyde	Benzene and substituted derivatives	Phenolics	C8H8O3	151.04	152.047	[M-H]-	1a	121-33-5	1183	HMDB0012308	18346		C00755	ko01100
+5-Methylcytosine	Nucleotide and Its metabolites	Nucleotide and Its metabolites	C5H7N3O	124.05	125.059	[M-H]-	1a	554-01-8	65040	HMDB0002894	27551	3247	C02376	ko00240,ko01100
+Hypoxanthine	Nucleotide and Its metabolites	Nucleotide and Its metabolites	C5H4N4O	135.03	136.039	[M-H]-	1a	68-94-0	135398638	HMDB0000157	17368	83	C00262	ko00230,ko01100,ko01232
+Succinic Acid	Organic acid and Its derivatives	Organic acid and Its derivatives	C4H6O4	117.02	118.027	[M-H]-	1a	110-15-6	1110	HMDB0000254			C00042	ko00020,ko00190,ko00250,ko00310,ko00350,ko00360,ko00620,ko00630,ko00640,ko00650,ko00760,ko00920,ko01100,ko01200,ko04024,ko04727,ko04922,ko05230
+Pyruvic Acid	Organic acid and Its derivatives	Organic acid and Its derivatives	C3H4O3	87.01	88.016	[M-H]-	1b	127-17-3	1060	HMDB0000243			C00022	ko00010,ko00020,ko00030,ko00040,ko00053,ko00250,ko00260,ko00270,ko00290,ko00330,ko00350,ko00360,ko00430,ko00440,ko00470,ko00620,ko00630,ko00650,ko00730,ko00760,ko00770,ko00785,ko00900,ko01100,ko01200,ko01210,ko01230,ko01240,ko04066,ko04152,ko04911,ko04922,ko04930,ko04931,ko05230,ko05415
+Melatonin	Hormones and hormone related compounds	Hormones and hormone related compounds	C13H16N2O2	231.11	232.121	[M-H]-	1b	73-31-4	896	HMDB0001389	16796	73	C01598	ko00380,ko01100,ko04080,ko04713
+Glucoronic Acid	Carbohydrates and Its metabolites	Sugar acids	C6H10O7	193.04	194.043	[M-H]-	1b	6556-12-3	65041	HMDB0000127	42717	161	C00191	ko00040,ko00053,ko00520,ko00562,ko01100,ko01240,ko01250
+2-Aminoethanesulfinic Acid	Organic acid and Its derivatives	Sulfonic acids	C2H7NO2S	108.01	109.02	[M-H]-	1b	300-84-5	107812	HMDB0000965	16668	281	C00519	ko00430,ko01100
+Taurine	Organic acid and Its derivatives	Sulfonic acids	C2H7NO3S	124.01	125.015	[M-H]-	1a	107-35-7	1123	HMDB0000251	15891	31	C00245	ko00120,ko00430,ko00920,ko01100,ko02010,ko04080
+3-Hydroxy-3-Methyl Butyric Acid	Organic acid and Its derivatives	Organic acid and Its derivatives	C5H10O3	117.06	118.063	[M-H]-	1a	625-08-1	69362	HMDB0000754	37084	5722	C20827	ko00280,ko01100
+4-Hydroxy-2-Oxoglutaric Acid	Organic acid and Its derivatives	Organic acid and Its derivatives	C5H6O6	161.01	162.016	[M-H]-	1b	1187-99-1	599	HMDB0002070	30923	6471	C01127	ko00630,ko01100
+Dodecanedioic Acid	FA	FFA	C12H22O4	229.14	230.152	[M-H]-	1a	693-23-2	12736	HMDB0000623	4676	5596	C02678	
+Tartaric acid	Organic acid and Its derivatives	Organic acid and Its derivatives	C4H6O6	149.01	150.016	[M-H]-	1b	87-69-4	444305	HMDB0000956	15671		C00898	ko00630,ko01100
+Methylmalonic Acid	Organic acid and Its derivatives	Organic acid and Its derivatives	C4H6O4	117.02	118.027	[M-H]-	1a	516-05-2	487	HMDB0000202	30860	3712	C02170	ko00240,ko00280,ko00640,ko01100
+N-γ-Acetyl-N-2-Formyl-5-Methoxykynurenamine	Amino acid and Its metabolites	Amino acid derivatives	C13H16N2O4	263.1	264.111	[M-H]-	1b	52450-38-1	171161	HMDB0004259			C05642	ko00380
+Sebacate	Organic acid and Its derivatives	Organic acid and Its derivatives	C10H18O4	201.11	202.121	[M-H]-	1a	111-20-6	5192	HMDB0000792	41865	4240	C08277	
+FFA(20:2)	FA	FFA	C20H36O2	307.26	308.27	[M-H]-	1a	2091-39-6	6439848	HMDB0005060	73731		C16525	ko01040
+Β-Pseudouridine	Nucleotide and Its metabolites	Nucleotide and Its metabolites	C9H12N2O6	243.06	244.07	[M-H]-	1a	1445-07-4	15047	HMDB0000767	17802	5734	C02067	ko00240,ko01100
+N-Acetylthreonine	Amino acid and Its metabolites	Amino acid derivatives	C6H11NO4	160.06	161.069	[M-H]-	1b	17093-74-2	152204	HMDB0062557	45826			
+Dl-3,4-Dihydroxymandelic Acid	Organic acid and Its derivatives	Organic acid and Its derivatives	C8H8O5	183.03	184.037	[M-H]-	1b	775-01-9	85782	HMDB0001866	27637	696	C05580	ko00350,ko01100
+8,15-DiHETE	FA	FFA	C20H32O4	335.22	336.2300595	[M-H]-	2	80234-65-7	53480358	HMDB0010219	88456			
+2-Deoxyribose 1-Phosphate	Carbohydrates and Its metabolites	Phosphate sugars	C5H11O7P	213.02	214.0242392	[M-H]-	3	17210-42-3	439287	HMDB0001351	28542	6182	C00672	ko00030,ko00240,ko01100
+N-Acetylglucosamine 1-Phosphate	Carbohydrates and Its metabolites	Phosphate sugars	C8H16NO9P	300.05	301.0562676	[M-H]-	1b	6866-69-9	440272	HMDB0001367	7125	6194	C04256	
+DL-3,4-Dihydroxyphenyl glycol	Benzene and substituted derivatives	Benzene and substituted derivatives	C8H10O4	169.05	170.0579088	[M-H]-	3	28822-73-3	20096867	HMDB0000318	1387	5307	C05576	ko00350,ko01100
+Marmesin	Aldehyde,Ketones,Esters	Esters	C14H14O4	245.08	246.0892089	[M-H]-	3	13849-08-6	334704	HMDB0030786	49080		C09276	
+Indole 3-carbinol	Heterocyclic compounds	Indole and Its derivatives	C9H9NO	146.06	147.0684139	[M-H]-	1a	700-06-1	3712	HMDB0005785	24814			
+N-lactoyl-phenylalanine	Amino acid and Its metabolites	Amino acid derivatives	C12H15NO4	236.09	237.100108	[M-H]-	1a		11075454	HMDB0062175				
+Indoxylsulfuric acid	Heterocyclic compounds	Indole and Its derivatives	C8H7NO4S	212.0	213.009581	[M-H]-	1a	487-94-5	10258	HMDB0000682	43355	524		
+Porphobilinogen	Organic acid and Its derivatives	Organic acid and Its derivatives	C10H14N2O4	225.09	226.0953569	[M-H]-	1b	487-90-1	1021	HMDB0000245			C00931	ko00860,ko01100,ko01240
+Succinic anhydride	Organic acid and Its derivatives	Organic acid and Its derivatives	C4H4O3	99.01	100.016044	[M-H]-	1a	108-30-5	7922	HMDB0032523	36595		C19524	
+Indoleacetaldehyde	Heterocyclic compounds	Indole and Its derivatives	C10H9NO	158.06	159.0684139	[M-H]-	2	2591-98-2	800	HMDB0001190	18086	6068	C00637	ko00380,ko01100
+Methylstearate	Aldehyde,Ketones,Esters	Esters	C19H38O2	297.28	298.2871805	[M-H]-	1b	112-61-8	8201	HMDB0034154				
+Oxaloacetic acid	Organic acid and Its derivatives	Organic acid and Its derivatives	C4H4O5	131.0	132.07	[M-H]-	1b	328-42-7	970	HMDB0000223	30744	123	C00036	ko00010,ko00020,ko00250,ko00470,ko00620,ko00630,ko01100,ko01200,ko01210,ko01230,ko01240,ko04922,ko04964,ko05230
+12,13-EpOME	FA	Oxidized lipids	C18H32O3	295.23	296.2351449	[M-H]-	1a		5356421	HMDB0004702	38299		C14826	ko00591,ko01100
+5-F2t-IsoP	FA	Oxidized lipids	C20H34O5	353.23	354.2406	[M-H]-	1b	180469-63-0	11035626					
+PGF3α	FA	Oxidized lipids	C20H32O5	351.22	352.225	[M-H]-	1b	745-64-2	5280940				C06476	
+FFA(14:0)	FA	FFA	C14H28O2	227.2	228.20893	[M-H]-	1b	544-63-8	11005	HMDB0000806	28875	196	C06424	ko00061,ko01100
+FFA(9:0)	FA	FFA	C9H18O2	157.12	158.1306798	[M-H]-	1b	112-05-0	8158	HMDB0000847	29019	5810	C01601	
+D-Glucuronolactone	Aldehyde,Ketones,Esters	Esters	C6H8O6	175.02	176.032088	[M-H]-	1b	32449-92-6	2724333	HMDB0006355	18268		C02670	ko00053,ko01100
+3-Ureidopropionate	Organic acid and Its derivatives	Organic acid and Its derivatives	C4H8N2O3	131.05	132.0535	[M-H]-	1a	462-88-4	111				C02642	ko00240,ko00410,ko00770,ko01100
+13(R)-HODE	FA	Oxidized lipids	C18H32O3	295.23	296.2351449	[M-H]-	2	10219-69-9	13723970					
+Iminodiacetic acid	Organic acid and Its derivatives	Organic acid and Its derivatives	C4H7NO4	132.03	133.0375	[M-H]-	1b	142-73-4	8897	HMDB0011753	24786		C19911	
+FFA(17:1)	FA	FFA	C17H32O2	267.23	268.2402	[M-H]-	1b	29743-97-3	5312435					
+Flavanone	Benzene and substituted derivatives	Benzene and substituted derivatives	C15H12O2	223.08	224.0837	[M-H]-	1b	487-26-3	10251				C00766	
+1,6-anhydro-β-D-glucose	Carbohydrates and Its metabolites	Sugars	C6H10O5	161.05	162.0528	[M-H]-	1b	498-07-7	2724705	HMDB0000640	30997	5613		
+12-Hydroxydodecanoic acid	FA	FFA	C12H24O3	215.17	216.1725	[M-H]-	1b	505-95-3	79034	HMDB0002059	39567	6465	C08317	
+Heparin	Alcohol and amines	Alcohols	C19H40O3	315.29	316.2977451	[M-H]-	3	6145-69-3	72733	HMDB0001394			C00374	ko04664,ko05133
+9(S)-HODE	FA	Oxidized lipids	C18H32O3	295.23	296.2351449	[M-H]-	2	73543-67-6	5312830				C14767	ko00591,ko03320
+Ketoleucine	Organic acid and Its derivatives	Organic acid and Its derivatives	C6H10O3	129.06	130.063	[M-H]-	1a	816-66-0	70	HMDB0000695	48430	5663	C00233	ko00280,ko00290,ko00785,ko01100,ko01210,ko01230
+FFA(15:1)	FA	FFA	C15H28O2	239.2	240.2089	[M-H]-	1b	84743-29-3	5312411				C00162	ko00062,ko00071,ko00561,ko04148,ko04152,ko04714,ko04911,ko04920,ko04923,ko04930,ko04931,ko04932,ko04975,ko04977,ko04979,ko05231,ko05415
+5-nitrobenzimidazole	Heterocyclic compounds	Heterocyclic compounds	C7H5N3O2	162.03	163.0382	[M-H]-	1b	94-52-0	7195					
+Multifidol	Benzene and substituted derivatives	Phenolics	C11H14O4	209.08	210.08919	[M-H]-	3	125074-06-8	442919				C10709	
+Furfural diacetal	Others	Others	C9H14O3	169.09	170.09428	[M-H]-	3	13529-27-6	83553				C14280	
+3-(pyrazol-1-yl)-L-alanine	Amino acid and Its metabolites	Amino acid derivatives	C6H9N3O2	154.06	155.06946	[M-H]-	3	2734-48-7	151491				C01162	
+2-Hydroxy-2-Methyl Butyric acid	Organic acid and Its derivatives	Organic acid and Its derivatives	C5H10O3	117.06	118.0629942	[M-H]-	1a	3739-30-8	95433	HMDB0001987	68454	6416	C20827	ko00280,ko01100
+2-Hydroxy-4-methylpentanoic acid	Organic acid and Its derivatives	Organic acid and Its derivatives	C6H12O3	131.07	132.0786442	[M-H]-	1b	13748-90-8	83697	HMDB0000746	44510	5714		
+4-Methoxysalicylic Acid	Benzene and substituted derivatives	Phenolic acids	C8H8O4	167.03	168.04226	[M-H]-	1b	2237-36-7	75231					
+Tridecanedioic acid	FA	FFA	C13H24O4	243.16	244.16746	[M-H]-	1a	505-52-2	10458					
+12-HHT	FA	Oxidized lipids	C17H28O3	279.2	280.203845	[M-H]-	1a	54397-84-1	5312765	HMDB0012535	63977		C20388	
+9(S)-HOTrE	FA	Oxidized lipids	C18H30O3	293.21	294.219495	[M-H]-	1b	89886-42-0	6439873	HMDB0031934			C16326	ko00592
+3-(4-Hydroxyphenyl)-1-propanol	Organic acid and Its derivatives	Organic acid and Its derivatives	C9H12O2	151.08	152.08373	[M-H]-	1b	10210-17-0	82452	HMDB0032599				
+3-Hydroxycinnamic acid	Organic acid and Its derivatives	Organic acid and Its derivatives	C9H8O3	163.04	164.047345	[M-H]-	1b	14755-02-3	637541	HMDB0001713	32357	305	C12621	ko00360,ko01100
+5,6-Dihydrouridine	Nucleotide and Its metabolites	Nucleotide and Its metabolites	C9H14N2O6	245.08	246.085188	[M-H]-	1b	5627-05-4	94312	HMDB0000497	23774	5483		
+5-Hydroxy-2'-deoxyuridine	Nucleotide and Its metabolites	Nucleotide and Its metabolites	C9H12N2O6	243.06	244.069538	[M-H]-	1b	5168-36-5	96622					
+Acetylvaline	Amino acid and Its metabolites	Amino acid derivatives	C7H13NO3	158.08	159.089544	[M-H]-	1b	96-81-1	66789	HMDB0011757				
+Aleuritic Acid	Organic acid and Its derivatives	Organic acid and Its derivatives	C16H32O5	303.22	304.224975	[M-H]-	1b	533-87-9	222178					
+Antineoplaston A10	Amino acid and Its metabolites	Amino acid derivatives	C13H14N2O3	245.09	246.100443	[M-H]-	1b	91531-30-5	56260					
+Galacturonic acid	Carbohydrates and Its metabolites	Sugar acids	C6H10O7	193.04	194.042655	[M-H]-	1b	685-73-4	439215	HMDB0002545	47962	6713	C00333	ko00040,ko00053,ko00520,ko01100,ko01240,ko01250,ko02010
+Hydroumbellic acid	Benzene and substituted derivatives	Phenolics	C9H10O4	181.05	182.05791	[M-H]-	1b	5631-68-5	96384	HMDB0126386			C05582	ko00350,ko01100,ko04728
+Imidazoleacetic acid	Heterocyclic compounds	Indole and Its derivatives	C5H6N2O2	125.04	126.042928	[M-H]-	1b	645-65-8	96215	HMDB0002024	16974	6445	C02835	ko00340,ko01100
+L-Ascorbyl 6-palmitate	Aldehyde,Ketones,Esters	Esters	C22H38O7	413.25	414.261755	[M-H]-	1b	137-66-6	54680660	HMDB0039883			D02412	
+Rhapontigenin	Organic acid and Its derivatives	Organic acid and Its derivatives	C15H14O4	257.08	258.08921	[M-H]-	1b	500-65-2	5320954	HMDB0031842				
+Tert-Butylhydroquinone	Benzene and substituted derivatives	Benzene and substituted derivatives	C10H14O2	165.09	166.09938	[M-H]-	1b	1948-33-0	16043	HMDB0032062	78886			
+Acetanilide	Benzene and substituted derivatives	Benzene and substituted derivatives	C8H9NO	134.06	135.0684104	[M-H]-	3	103-84-4	904	HMDB0001250	28884	6107	C07565	
+2,4-Quinolinediol	Heterocyclic compounds	Heterocyclic compounds	C9H7NO2	160.04	161.0477	[M-H]-	3	86-95-3	54680871				C16716	
+Hydroxypiperazic acid	Heterocyclic compounds	Heterocyclic compounds	C5H10N2O3	145.06	146.1055277	[M-H]-	2		129859924				C00739	ko00310,ko00470,ko01100
+N-Acetyl-D-Tryptophan	Amino acid and Its metabolites	Amino acid derivatives	C13H14N2O3	245.09	246.1004423	[M-H]-	3	2280-01-5	439917				C03137	
+3-(2-Naphthyl)-L-alanine	Amino acid and Its metabolites	Amino acid derivatives	C13H13NO2	214.09	215.0946287	[M-H]-	3	58438-03-2	185915					
+3-Hydroxypyruvic acid	Organic acid and Its derivatives	Organic acid and Its derivatives	C3H4O4	103.0	104.01096	[M-H]-	1a	1113-60-6	964	HMDB0001352	30841	482	C00168	ko00260,ko00630,ko01100,ko01200
+Piperonylic acid	Organic acid and Its derivatives	Organic acid and Its derivatives	C8H6O4	165.02	166.02661	[M-H]-	1b	94-53-1	7196	HMDB0032613			C04599	ko05012,ko05022
+3-Methoxysalicylic Acid	Benzene and substituted derivatives	Benzene and substituted derivatives	C8H8O4	167.03	168.04226	[M-H]-	1a	877-22-5	70140	HMDB0059713	68496			
+3-Methoxycatechol	Benzene and substituted derivatives	Benzene and substituted derivatives	C7H8O3	139.04	140.047345	[M-H]-	1b	934-00-9	13622				C16401	
+2-(10-Heptadecenyl)-6-hydroxybenzoic acid	FA	FA	C24H38O3	373.27	374.282095	[M-H]-	1b	111047-30-4	5469634	HMDB0038522				
+3,4-Dimethoxycinnamic acid	Benzene and substituted derivatives	Benzene and substituted derivatives	C11H12O4	207.07	208.07356	[M-H]-	1b	2316-26-9	717531	HMDB0034315	86549			
+Zereno	Benzene and substituted derivatives	Benzene and substituted derivatives	C18H26O5	321.17	322.178025	[M-H]-	1b	26538-44-3	2999413	HMDB0032702			C14752	
+LY223982	Benzene and substituted derivatives	Benzene and substituted derivatives	C30H30O7	501.19	502.199155	[M-H]-	1b	117423-74-2	6444688					
+2,6-Di-tert-butyl-4-(hydroxymethyl)phenol	Benzene and substituted derivatives	Benzene and substituted derivatives	C15H24O2	235.17	236.17818	[M-H]-	1a	88-26-6	6929	HMDB0032048				
+CAY-10550	Benzene and substituted derivatives	Benzene and substituted derivatives	C15H11N3O3	280.07	281.080042	[M-H]-	1b	34320-83-7	2750328					
+(R)-3-Hydroxy-tetradecanoic acid	Organic acid and Its derivatives	Organic acid and Its derivatives	C14H28O3	243.2	244.203845	[M-H]-	1b	28715-21-1	5288266	HMDB0010731	42539		C22001	
+N-Myristoylglycine	Amino acid and Its metabolites	Amino acid derivatives	C16H31NO3	284.22	285.230394	[M-H]-	1b	14246-55-0	72348	HMDB0013250	87142			
+4-Methoxysalicylaldehyde	Benzene and substituted derivatives	Benzene and substituted derivatives	C8H8O3	151.04	152.047345	[M-H]-	1b	673-22-3	69600					
+Cys-Pro	Amino acid and Its metabolites	Small Peptide	C8H14N2O3S	217.07	218.072513	[M-H]-	1b		3037777				C00107	ko02010
+Ribonic acid	Carbohydrates and Its metabolites	Sugars	C5H10O6	165.04	166.13	[M-H]-	1b	642-98-8	5460677	HMDB0000867	21077	3290	C01685	
+D-Glucaro-1,4-lactone	Carbohydrates and Its metabolites	Sugars	C6H8O7	191.02	192.12	[M-H]-	1b	389-36-6	122306				C21095	
+Ile-Ala	Amino acid and Its metabolites	Small Peptide	C9H18N2O3	201.12	202.131743	[M-H]-	1b	24787-73-3	7009577				C00107	ko02010
+cyclo(glu-glu)	Amino acid and Its metabolites	Small Peptide	C10H14N2O6	257.08	258.08573	[M-H]-	1b	16691-00-2	7408481				C00107	ko02010
+2-Hydroxy-3-Methyl Butanoic Acid	Organic acid and Its derivatives	Organic acid and Its derivatives	C5H10O3	117.06	118.063	[M-H]-	1a	4026-18-0	99823				C20827	ko00280,ko01100
+Trp-Leu	Amino acid and Its metabolites	Small Peptide	C17H23N3O3	316.17	317.173942	[M-H]-	1b	13123-35-8	6997510				C00107	ko02010
+(±)-Camphoric acid	Organic acid and Its derivatives	Organic acid and Its derivatives	C10H16O4	199.1	200.10486	[M-H]-	1b	124-83-4	101807	HMDB0034491				
+5-chloroindole-2-carboxylic acid	Organic acid and Its derivatives	Organic acid and Its derivatives	C9H6ClNO2	194.0	195.008704	[M-H]-	1b	10517-21-2	82693					
+Rhamnonic acid	Carbohydrates and Its metabolites	Sugar acids	C6H12O6	179.06	180.06339	[M-H]-	1b	6422-34-0	6602429				C01934	ko00051,ko01100
+3-phenylphenol	Benzene and substituted derivatives	Phenolics	C12H10O	169.07	170.073165	[M-H]-	1b	580-51-8	11381				C14342	
+Salidroside	Benzene and substituted derivatives	Benzene and substituted derivatives	C14H20O7	281.1	300.120905	[M-H2O-H]-	3	10338-51-9	159278				C06046	ko00350,ko01100
+Norethindrone acetate	Hormones and hormone related compounds	Hormones and hormone related compounds	C22H28O3	339.2	340.203845	[M-H]-	3	51-98-9	5832	HMDB0255731				
+Arachidonoyl LPA	GP	LPA	C23H39O7P	457.24	458.243342	[M-H]-	3		136212577				C00681	ko00561,ko00564,ko01100,ko04072,ko04080,ko04540,ko04810,ko04975,ko04977,ko05130,ko05200
+5-Acetylamino-6-formylamino-3-methyluracil	Benzene and substituted derivatives	Benzene and substituted derivatives	C8H10N4O4	225.06	226.070206	[M-H]-	3	85438-96-6	108214				C16365	ko00232,ko01100
+5-Hydroxyisourate	Organic acid and Its derivatives	Organic acid and Its derivatives	C5H4N4O4	183.02	184.023256	[M-H]-	3	6960-30-1	250388	HMDB0030097	18072		C11821	ko00230,ko01100
+Propofol Glucuronide	Organic acid and Its derivatives	Organic acid and Its derivatives	C18H26O7	353.16	354.167855	[M-H]-	1b	114991-26-3	71751823	HMDB0060933				
+3-Oxocholic acid	Bile acids	Bile acids	C24H38O5	405.26	406.271925	[M-H]-	1b	2304-89-4	5283956	HMDB0000502	88108	5488		
+FFA(15:0)	FA	FFA	C15H30O2	241.22	242.22458	[M-H]-	2		13849	HMDB0000826	42504	5789	C16537	
+LPG(16:0)	GP	LPG	C22H45O9P	483.27	484.280122	[M-H]-	3		42607483				C18126	ko00564
+LPS(18:0)	GP	LPS	C24H48NO9P	524.3	525.306671	[M-H]-	3	119786-67-3	42607474	HMDB0240606			C05974	ko00564
+LPS(20:0)	GP	LPS	C26H52NO9P	552.33	553.337971	[M-H]-	3		52926280				C05974	ko00564
+LPA(0:0/18:2)	GP	LPA	C21H39O7P	433.24	434.243343	[M-H]-	3		20835023	HMDB0007856			C00681	ko00561,ko00564,ko01100,ko04072,ko04080,ko04540,ko04810,ko04975,ko04977,ko05130,ko05200
+LPA(20:4)	GP	LPA	C23H39O7P	457.24	458.243343	[M-H]-	3		42607498				C00681	ko00561,ko00564,ko01100,ko04072,ko04080,ko04540,ko04810,ko04975,ko04977,ko05130,ko05200
+FFA(16:4)	FA	FFA	C16H24O2	247.17	248.17763	[M-H]-	3		5312433				C00162	ko00062,ko00071,ko00561,ko04148,ko04152,ko04714,ko04911,ko04920,ko04923,ko04930,ko04931,ko04932,ko04975,ko04977,ko04979,ko05231,ko05415
+Lysine	Amino acid and Its metabolites	Amino acids	C6H14N2O2	147.11	146.106	[M+H]+	1a	56-87-1	5962	HMDB0000182	18019	5200	C00047	ko00310,ko00470,ko00780,ko00970,ko01100,ko01210,ko01230,ko02010,ko04974
+L-Methionine	Amino acid and Its metabolites	Amino acids	C5H11NO2S	150.06	149.051	[M+H]+	1a	63-68-3	6137	HMDB0000696	16643	5664	C00073	ko00270,ko00470,ko00970,ko01100,ko01210,ko01230,ko01240,ko01523,ko04148,ko04974,ko04978,ko04980,ko05230
+L-Homocystine	Amino acid and Its metabolites	Amino acids	C8H16N2O4S2	269.06	268.055	[M+H]+	1b	626-72-2	439579	HMDB0000676	89698		C01817	ko00270
+Phe-Phe	Amino acid and Its metabolites	Small Peptide	C18H20N2O3	313.15	312.147	[M+H]+	1a	2577-40-4	65104	HMDB0013302	356630		C00107	ko02010
+N-Acetylhistamine	Alcohol and amines	Amines	C7H11N3O	154.1	153.090212	[M+H]+	1a	673-49-4	69602	HMDB0013253	28483		C05135	ko00340
+1,4-Dihydro-1-Methyl-4-Oxo-3-Pyridinecarboxamide	Heterocyclic compounds	Pteridines and derivatives	C7H8N2O2	153.07	152.059	[M+H]+	1a	769-49-3	440810	HMDB0004194	27838		C05843	ko00760,ko01100
+Biotin	CoEnzyme and vitamins	CoEnzyme and vitamins	C10H16N2O3S	245.1	244.088	[M+H]+	1b	58-85-5	171548	HMDB0000030	15956	243	C00120	ko00780,ko01100,ko01240,ko02010,ko04977
+5,6-Dihydro-5-Methyluracil	Nucleotide and Its metabolites	Nucleotide and Its metabolites	C5H8N2O2	129.07	128.059	[M+H]+	1b	696-04-8	93556	HMDB0000079	27468	5135	C00906	
+Uracil	Nucleotide and Its metabolites	Nucleotide and Its metabolites	C4H4N2O2	113.03	112.027	[M+H]+	1a	66-22-8	1174	HMDB0000300	17568	258	C00106	ko00240,ko00410,ko00770,ko01100,ko01232
+3,3',5-Triiodo-L-Thyronine	Hormones and hormone related compounds	Hormones and hormone related compounds	C15H12I3NO4	651.8	650.79	[M+H]+	1b	6893-02-3	5920	HMDB0000265			C02465	ko00350,ko01100,ko04080,ko04714,ko04918,ko04919,ko04976,ko05320
+L-Thyroxine	Hormones and hormone related compounds	Hormones and hormone related compounds	C15H11I4NO4	777.69	776.687	[M+H]+	1a	51-48-9	5819	HMDB0000248			C01829	ko00350,ko01100,ko04080,ko04918,ko04919,ko04976,ko05320
+Nicotinamide	CoEnzyme and vitamins	CoEnzyme and vitamins	C6H6N2O	123.06	122.048013	[M+H]+	1a	98-92-0	936	HMDB0001406	17154	1497	C00153	ko00760,ko01100,ko01240,ko04977
+5-Hydroxytryptophol	Heterocyclic compounds	Indole and Its derivatives	C10H11NO2	178.09	177.079	[M+H]+	1b	154-02-9	9061	HMDB0001855		5730		
+1,3,7-Trimethyluric Acid	Organic acid and Its derivatives	Organic acid and Its derivatives	C8H10N4O3	211.08	210.075	[M+H]+	1b	5415-44-1	79437	HMDB0002123	691622		C16361	ko00232
+5-Aminovaleric Acid	Amino acid and Its metabolites	Amino acid derivatives	C5H11NO2	118.09	117.079	[M+H]+	1b	660-88-8	138	HMDB0003355	15887	6902	C00431	ko00310,ko00330,ko00470,ko01100
+Azelaic Acid	Organic acid and Its derivatives	Organic acid and Its derivatives	C9H16O4	189.11	188.105	[M+H]+	1b	123-99-9	2266	HMDB0000784	48131	5750	C08261	
+Guanidineacetic Acid	Organic acid and Its derivatives	Organic acid and Its derivatives	C3H7N3O2	118.06	117.054	[M+H]+	1b	352-97-6	763	HMDB0000128	16344	5163	C00581	ko00260,ko00330,ko01100
+Subericacid	Organic acid and Its derivatives	Organic acid and Its derivatives	C8H14O4	175.1	174.089	[M+H]+	1b	505-48-6	10457	HMDB0000893	9300	4243	C08278	
+Isoxanthopterin	Heterocyclic compounds	Pteridines and derivatives	C6H5N5O2	180.05	179.044	[M+H]+	1b	529-69-1	135398700	HMDB0000704	16713	5672	C03975	
+5'-Deoxy-5'-(Methylthio) Adenosine	Nucleotide and Its metabolites	Nucleotide and Its metabolites	C11H15N5O3S	298.1	297.09	[M+H]+	1a	2457-80-9	439176	HMDB0001173	17509	3425	C00170	ko00270,ko01100
+Ergothioneine	Organic acid and Its derivatives	Organic acid and Its derivatives	C9H15N3O2S	230.11	229.0884974	[M+H]+	3	497-30-3	5351619	HMDB0003045	4828	53	C05570	ko00340,ko01100
+Sn-Glycero-3-Phosphocholine	Tryptamines,Cholines,Pigments	Cholines	C8H20NO6P	258.11	257.1028239	[M+H]+	1a	28319-77-9	657272	HMDB0000086	16870	370	C00670	ko00564,ko00565,ko05231
+Indole	Heterocyclic compounds	Indole and Its derivatives	C8H7N	118.07	117.0578492	[M+H]+	1a	120-72-9	798	HMDB0000738	16881	286	C00463	ko00380,ko00400,ko01100,ko04974
+Piperidine	Heterocyclic compounds	Heterocyclic compounds	C5H11N	86.1	85.08914936	[M+H]+	1a	110-89-4	8082	HMDB0034301	18049		C01746	ko04974
+Carnitine C2:0	FA	CAR	C9H17NO4	204.12	203.1158	[M+H]+	1a	14992-62-2	1	HMDB0000201	57589		C02571	ko04931
+Hexadecanamide	Alcohol and amines	Amines	C16H33NO	256.26	255.2562	[M+H]+	1a	629-54-9	69421	HMDB0012273	74475			
+Triethyl-phosphate	Organic acid and Its derivatives	Phosphoric acids	C6H15O4P	183.08	182.0707955	[M+H]+	1b	78-40-0	6335	HMDB0012228	42383			
+Oxindole	Heterocyclic compounds	Indole and Its derivatives	C8H7NO	134.06	133.0527639	[M+H]+	1a	59-48-3	321710	HMDB0061918	31697		C12312	ko01100
+Benzylcinnamate	Aldehyde,Ketones,Esters	Esters	C16H14O2	239.11	238.0993797	[M+H]+	1b	103-41-3	5273469	HMDB0040286				
+2-Acetyl-5-methylfuran	Heterocyclic compounds	Heterocyclic compounds	C7H8O2	125.06	124.0524295	[M+H]+	1b	1193-79-9	14514	HMDB0035226	562752			
+2-Pentadecanone	Aldehyde,Ketones,Esters	Ketones	C15H30O	227.24	226.22966	[M+H]+	1b	2345-28-0	61303	HMDB0031081				
+DL-Leucine	Amino acid and Its metabolites	Amino acids	C6H13NO2	132.1	131.094635	[M+H]+	1a	328-39-2	857	HMDB0062203			C00123	ko00280,ko00290,ko00970,ko01100,ko01210,ko01230,ko02010,ko04150,ko04974,ko04978,ko05131,ko05230
+18β-Glycyrrhetinic acid	Others	Hydrocarbon derivatives	C30H46O4	471.35	470.3396	[M+H]+	1b	471-53-4	10114	HMDB0011628	30853		C02283	
+2-Undecanone	Aldehyde,Ketones,Esters	Ketones	C11H22O	171.17	170.1670653	[M+H]+	1b	112-12-9	8163	HMDB0033713	17700		C01875	
+2,6,6-Trimethyl-2-cyclohexene-1,4-dione	Aldehyde,Ketones,Esters	Ketones	C9H12O2	153.09	152.0837296	[M+H]+	1b	1125-21-9	62374	HMDB0040216				
+Dibutyl-phthalate	Aldehyde,Ketones,Esters	Esters	C16H22O4	279.16	278.1518	[M+H]+	1a	84-74-2	3026	HMDB0033244	34687		C14214	
+SPH(d18:0)	SP	SPH	C18H39NO2	302.31	301.2980795	[M+H]+	1a	764-22-7	91486	HMDB0000269			C00836	ko00600,ko01100,ko04071
+Hypaphorine	Organic acid and Its derivatives	Organic acid and Its derivatives	C14H18N2O2	247.14	246.1368278	[M+H]+	1a	487-58-1	442106	HMDB0061115	5832		C09213	
+N-Amidino-L-Aspartate	Amino acid and Its metabolites	Amino acid derivatives	C5H9N3O4	176.07	175.0593	[M+H]+	1b	6133-30-8	439918	HMDB0003157	17072	10	C03139	
+L-Tryptophanamide	Amino acid and Its metabolites	Amino acid derivatives	C11H13N3O	204.11	203.1058621	[M+H]+	1b	20696-57-5	439356	HMDB0013318	791437		C00977	
+Dethiobiotin	CoEnzyme and vitamins	CoEnzyme and vitamins	C10H18N2O3	215.14	214.1317425	[M+H]+	1b	533-48-2	445027	HMDB0003581	42280	3351	C01909	ko00780,ko01100,ko01240
+Benzaldehyde	Benzene and substituted derivatives	Benzene and substituted derivatives	C7H6O	107.05	106.0418648	[M+H]+	2	100-52-7	240	HMDB0006115	17169		C00261	ko01100
+Hydroxyquinoline	Heterocyclic compounds	Heterocyclic compounds	C9H7NO	146.06	145.0527639	[M+H]+	2	148-24-3	1923				C19434	
+Carnitine C12:0	FA	CAR	C19H37NO4	344.28	343.2722442	[M+H]+	2	25518-54-1	168381				C02301	ko04714
+2-Aminomethylpyrimidine	Nucleotide and Its metabolites	Nucleotide and Its metabolites	C5H7N3	110.07	109.0639972	[M+H]+	2	372118-67-7	4658047					
+1-acetylindole	Heterocyclic compounds	Indole and Its derivatives	C10H9NO	160.08	159.0684	[M+H]+	3	576-15-8	68470				C00637	ko00380,ko01100
+L-Isoleucine	Amino acid and Its metabolites	Amino acids	C6H13NO2	132.1	131.0946287	[M+H]+	2	73-32-5	6306	HMDB0000172	17191	5193	C00407	ko00280,ko00290,ko00970,ko01100,ko01210,ko01230,ko02010,ko04974,ko04978,ko05131,ko05230
+N-Acetylcadaverine	Alcohol and amines	Polyamines	C7H16N2O	145.13	144.126263	[M+H]+	3	32343-73-0	189087	HMDB0002284	88824			
+3-methyl-4-pentenoic acid	Organic acid and Its derivatives	Organic acid and Its derivatives	C6H10O2	115.08	114.06808	[M+H]+	3	1879-03-4	3456032					
+1-Deoxyvaleric acid	Organic acid and Its derivatives	Organic acid and Its derivatives	C15H22O2	235.17	234.16197	[M+H]+	2		71448993				C20404	ko01100
+2-Mercaptobenzothiazole	Heterocyclic compounds	Heterocyclic compounds	C7H5NS2	167.99	166.986339	[M+H]+	2	149-30-4	697993				C14437	
+20,26-dihydroxyecdysone	Hormones and hormone related compounds	Hormones and hormone related compounds	C27H44O8	497.31	496.30358	[M+H]+	3	19458-46-9	21123946				C16500	
+10-deoxyformamycin	Others	Others	C25H43NO6	454.32	453.30901	[M+H]+	2	11091-33-1	14155				C11994	ko01100
+S-Adenosyl-L-Methionine	Amino acid and Its metabolites	Amino acid derivatives	C15H22N6O5S	399.14	398.137239	[M+H]+	1b	17176-17-9	34755	HMDB0001185	15414	6064	C00019	ko00270,ko00330,ko01100,ko01230,ko01240,ko04122,ko04148,ko05208
+LPC(18:0/0:0)	GP	LPC	C26H54NO7P	524.37	523.363791	[M+H]+	1a		497299	HMDB0010384	73858		C04230	ko00564,ko04148,ko05231
+Carnitine C20:1	FA	CAR	C27H51NO4	454.39	453.381809	[M+H]+	2		71464507				C02301	ko04714
+Carnitine C20:2	FA	CAR	C27H49NO4	452.37	451.366159	[M+H]+	2		71464509				C02301	ko04714
+Carnitine C17:1:DC	FA	CAR	C24H43NO6	442.32	441.309039	[M+H]+	3						C02301	ko04714
+Carnitine C18:2-OH	FA	CAR	C25H45NO5	440.34	439.329774	[M+H]+	2		71464556				C02301	ko04714
+Carnitine C18:0	FA	CAR	C25H49NO4	428.37	427.366159	[M+H]+	2		52922056				C02301	ko04714
+Carnitine C18:1	FA	CAR	C25H47NO4	426.36	425.350509	[M+H]+	2		46907933				C02301	ko04714
+Carnitine C18:2	FA	CAR	C25H45NO4	424.34	423.334859	[M+H]+	2	36816-10-1	6450015	HMDB0006469	84098		C02301	ko04714
+Carnitine C18:3	FA	CAR	C25H43NO4	422.33	421.319209	[M+H]+	3		134812245				C02301	ko04714
+Carnitine C18:4	FA	CAR	C25H41NO4	420.31	419.303559	[M+H]+	3						C02301	ko04714
+Carnitine C17:0	FA	CAR	C24H47NO4	414.36	413.350509	[M+H]+	2		53477803				C02301	ko04714
+Carnitine C16:0	FA	CAR	C23H45NO4	400.34	399.334859	[M+H]+	2	2364-67-2	11953816				C02990	ko00071,ko01212
+Carnitine C16:1	FA	CAR	C23H43NO4	398.33	397.319209	[M+H]+	3		53477817				C02301	ko04714
+Carnitine C16:2	FA	CAR	C23H41NO4	396.31	395.303559	[M+H]+	2		156908015				C02301	ko04714
+Carnitine C14-OH	FA	CAR	C21H41NO5	388.31	387.298474	[M+H]+	2		71464541				C02301	ko04714
+Carnitine C15:1	FA	CAR	C22H41NO4	384.31	383.303559	[M+H]+	3						C02301	ko04714
+Carnitine C14:0	FA	CAR	C21H41NO4	372.31	371.303559	[M+H]+	3		53477791				C02301	ko04714
+Carnitine C14:1	FA	CAR	C21H39NO4	370.3	369.287909	[M+H]+	2		22833575				C02301	ko04714
+Carnitine C13:1	FA	CAR	C20H37NO4	356.28	355.272259	[M+H]+	3		139920227				C02301	ko04714
+Carnitine C8:1	FA	CAR	C15H27NO4	286.2	285.194009	[M+H]+	2		70679121				C02301	ko04714
+Carnitine C4:DC	FA	CAR	C11H19NO6	262.13	261.121239	[M+H]+	3						C02301	ko04714
+N'-Methyl-2-pyridone-5-carboxamide	Heterocyclic compounds	Pteridines and derivatives	C7H8N2O2	153.07	152.0585775	[M+H]+	1a	701-44-0	69698	HMDB0004193	27410	7025	C05842	ko00760,ko01100
+1-Methyl-hydantoin	Heterocyclic compounds	Heterocyclic compounds	C4H6N2O2	115.05	114.0429274	[M+H]+	1a	616-04-6	69217	HMDB0003646	16354		C02565	ko00330,ko01100
+Menadiol-Diacetate	CoEnzyme and vitamins	CoEnzyme and vitamins	C15H14O4	259.1	258.08921	[M+H]+	1b	573-20-6	11310	HMDB0032725			D01676	
+Phe-Val	Amino acid and Its metabolites	Small Peptide	C14H20N2O3	265.15	264.1473925	[M+H]+	1b	3918-90-9	7359122	HMDB0029008			C00107	ko02010
+Carnitine C10:1	FA	CAR	C17H31NO4	314.23	313.2253085	[M+H]+	2	98930-66-6	71464497				C02301	ko04714
+Carnitine C15	FA	CAR	C22H43NO4	386.33	385.3192089	[M+H]+	2						C02301	ko04714
+Carnitine C18:1-OH	FA	CAR	C25H47NO5	442.36	441.3454236	[M+H]+	2		53481699				C02301	ko04714
+Carnitine C14:2:DC	FA	CAR	C21H35NO6	398.25	397.2464378	[M+H]+	2						C02301	ko04714
+Carnitine C18-OH	FA	CAR	C25H49NO5	444.37	443.3610737	[M+H]+	2						C02301	ko04714
+LPC(O-16:0)	GP	LPC-O	C24H52NO6P	482.36	481.353226	[M+H]+	2	52691-62-0	162126				C13903	
+LPC(O-16:1)	GP	LPC-O	C24H50NO6P	480.34	479.3376	[M+H]+	2	97802-53-4	10917802				C04230	ko00564,ko04148,ko05231
+Methyldopa	Amino acid and Its metabolites	Amino acid derivatives	C10H13NO4	212.09	211.084459	[M+H]+	1b	555-30-6	38853	HMDB0011754	61058		C07194	
+3-Amino-4-methylpentanoic acid	Organic acid and Its derivatives	Organic acid and Its derivatives	C6H13NO2	132.1	131.094629	[M+H]+	1a	5699-54-7	193411	HMDB0003640	86261		C02486	
+Agmatine	Alcohol and amines	Polyamines	C5H14N4	131.13	130.121846	[M+H]+	1a	306-60-5	199	HMDB0001432	17431	3523	C00179	ko00330,ko01100
+Ala-Phe	Amino acid and Its metabolites	Small Peptide	C12H16N2O3	237.12	236.116093	[M+H]+	1b	3061-90-3	96814	HMDB0028694	73807		C00107	ko02010
+Canrenone	Hormones and hormone related compounds	Hormones and hormone related compounds	C22H28O3	341.21	340.203845	[M+H]+	1b	976-71-6	13789	HMDB0003033	987229		D03363	
+Hexylresorcinol	Benzene and substituted derivatives	Phenolics	C12H18O2	195.14	194.13068	[M+H]+	1b	136-77-6	3610	HMDB0032567			D04441	
+Leu-Ala	Amino acid and Its metabolites	Small Peptide	C9H18N2O3	203.14	202.131743	[M+H]+	1b	7298-84-2	81721	HMDB0028922				
+Leu-Phe	Amino acid and Its metabolites	Small Peptide	C15H22N2O3	279.17	278.163043	[M+H]+	1a	3063-05-6	6992310	HMDB0013243	73585		C00107	ko02010
+N1,N8-diacetylspermidine	Alcohol and amines	Amines	C11H23N3O2	230.19	229.179027	[M+H]+	1b	82414-35-5	389613	HMDB0041947				
+Palmitoylethanolamide（PEA）	Alcohol and amines	Amines	C18H37NO2	300.29	299.282429	[M+H]+	1b	544-31-0	4671	HMDB0002100	71464		C16512	ko04080
+TriacetonaMine	Heterocyclic compounds	Heterocyclic compounds	C9H17NO	156.14	155.131014	[M+H]+	1b	826-36-8	13220	HMDB0031179	292773			
+Urolithin A	Benzene and substituted derivatives	Benzene and substituted derivatives	C13H8O4	229.05	228.04226	[M+H]+	1b	1143-70-0	5488186	HMDB0013695	1280327			
+CAP-palmitate	Organic acid and Its derivatives	Organic acid and Its derivatives	C27H42Cl2N2O6	543.24	560.241993	[M-H2O+H]+	3	530-43-8	443382				C11726	
+Eicosanoyl-EA	Organic acid and Its derivatives	Organic acid and Its derivatives	C22H45NO2	356.35	355.345029	[M+H]+	3	94421-69-9	3787294					
+Gly-His	Amino acid and Its metabolites	Small Peptide	C8H12N4O3	195.09	212.090941	[M-H2O+H]+	3		417360	HMDB0028843			C00107	ko02010
+Gly-Phe-Phe	Amino acid and Its metabolites	Small Peptide	C20H23N3O4	370.18	369.168857	[M+H]+	2	13116-21-7	83153				C00098	ko02010
+Phe-Trp	Amino acid and Its metabolites	Small Peptide	C20H21N3O3	352.17	351.158292	[M+H]+	3	24587-41-5	134906	HMDB0029006			C00107	ko02010
+Cyclo(Pro-Val)	Amino acid and Its metabolites	Small Peptide	C10H16N2O2	197.13	196.121178	[M+H]+	3	5654-87-5	98951				C00107	ko02010
+5-Aminoimidazole ribonucleotide	Nucleotide and Its metabolites	Nucleotide and Its metabolites	C8H14N3O7P	296.06	295.05615	[M+H]+	2	25635-88-5	161500	HMDB0001235	138560	6097	C03373	ko00230,ko00730,ko00860,ko01100,ko01240
+N6-(2-Hydroxyethyl)adenosine	Nucleotide and Its metabolites	Nucleotide and Its metabolites	C12H17N5O5	312.13	311.1229687	[M+H]+	2	4338-48-1	96124					
+N-(3-Indolylacetyl)-L-alanine	Amino acid and Its metabolites	Amino acid derivatives	C13H14N2O3	247.11	246.10045	[M+H]+	3	57105-39-2	644225					
+2-Methyl-1-Pyrroline	Heterocyclic compounds	Heterocyclic compounds	C5H9N	84.08	83.07349929	[M+H]+	2	872-32-2	70103				C20808	
+O-Desmethylnaproxen	Others	Medicine	C13H12O3	217.09	216.078645	[M+H]+	1b	52079-10-4	13393711	HMDB0013989				
+Androstenediol	Hormones and hormone related compounds	Hormones and hormone related compounds	C19H30O2	291.23	290.22458	[M+H]+	1b	521-17-5	10634	HMDB0003818	2710	6983	C04295	ko00140,ko01100,ko04913
+Geranic acid	Organic acid and Its derivatives	Organic acid and Its derivatives	C10H16O2	169.12	168.11503	[M+H]+	1b	459-80-3	5275520	HMDB0036103			C16461	
+4-Methyl-3-nitroaniline	Benzene and substituted derivatives	Benzene and substituted derivatives	C7H8N2O2	153.07	152.058578	[M+H]+	1b	119-32-4	8390				C18320	
+3-Aminoquinoline	Benzene and substituted derivatives	Benzene and substituted derivatives	C9H8N2	145.08	144.068748	[M+H]+	1b	580-17-6	11375	HMDB0036827	9053		C09183	
+3-(4-Fluorobenzoyl)propionic acid	Organic acid and Its derivatives	Organic acid and Its derivatives	C10H9FO3	197.06	196.05357	[M+H]+	1b	366-77-8	101359					
+11-Carbonyl-beta-acetyl-boswellic acid	Organic acid and Its derivatives	Organic acid and Its derivatives	C32H48O5	513.36	512.350175	[M+H]+	1b	67416-61-9	11168203	HMDB0036672				
+2,6-Pyridinedicarboxylic acid	Heterocyclic compounds	Heterocyclic compounds	C7H5NO4	168.03	167.021859	[M+H]+	1b	499-83-2	10367	HMDB0033161	46837			
+N,N-Bis(2-hydroxyethyl)dodecanamide	FA	FA	C16H33NO3	288.25	287.246044	[M+H]+	1a	120-40-1	8430	HMDB0032358			C06179	ko01100
+Vanillylamine	Benzene and substituted derivatives	Benzene and substituted derivatives	C8H11NO2	154.09	153.078979	[M+H]+	1b	1196-92-5	70966	HMDB0012309	46958		C16666	ko01100
+Meestrol	Hormones and hormone related compounds	Hormones and hormone related compounds	C21H26O2	311.2	310.19328	[M+H]+	1b	72-33-3	6291	HMDB0015446	6784		C07618	
+5-Hydroxyindole	Heterocyclic compounds	Indole and Its derivatives	C8H7NO	134.06	133.052764	[M+H]+	1b	1953-54-4	16054	HMDB0059805				
+Meleagrin	Benzene and substituted derivatives	Benzene and substituted derivatives	C23H23N5O4	434.18	433.175005	[M+H]+	1b	71751-77-4	23728435					
+S-methyl-L-thiocitrulline	Amino acid and Its metabolites	Amino acid derivatives	C7H15N3O2S	206.1	205.088497	[M+H]+	1a	209589-59-3	107968					
+N(6),N(6)-Dimethyl-L-lysine	Amino acid and Its metabolites	Amino acids	C8H18N2O2	175.14	174.136828	[M+H]+	1b	2259-86-1	193344					
+Cyclocreatine	Nucleotide and Its metabolites	Nucleotide and Its metabolites	C5H9N3O2	144.08	143.069477	[M+H]+	1b	35404-50-3	2896					
+Val-Arg	Amino acid and Its metabolites	Small Peptide	C11H23N5O3	274.19	273.18009	[M+H]+	1b	37682-75-0	444523	HMDB0029121			C00107	ko02010
+Asn-Trp	Amino acid and Its metabolites	Small Peptide	C15H18N4O4	319.14	318.13226	[M+H]+	1b		18218187				C00107	ko02010
+4-Aminomethylpyrimidine	Heterocyclic compounds	Heterocyclic compounds	C5H7N3	110.07	109.063997	[M+H]+	1a	45588-79-2	12933348					
+3-Guanidinopropionic acid	Organic acid and Its derivatives	Organic acid and Its derivatives	C4H9N3O2	132.08	131.069477	[M+H]+	1a	353-09-3	67701	HMDB0013222	15968		C03065	
+3-(imidazol-4-yl)propionic acid	Heterocyclic compounds	Heterocyclic compounds	C6H8N2O2	141.07	140.058578	[M+H]+	1a	1074-59-5	70630	HMDB0002271	73087	6585	C20522	ko00340
+Ser-Val	Amino acid and Its metabolites	Small Peptide	C8H16N2O4	205.12	204.111008	[M+H]+	1b	51782-06-0	7020159	HMDB0029052	74823		C00107	ko02010
+O-Phospho-L-tyrosine	Amino acid and Its metabolites	Amino acid derivatives	C9H12NO6P	262.05	261.040226	[M+H]+	1b	21820-51-9	30819	HMDB0006049	37788		C06501	
+Tyr-Ser	Amino acid and Its metabolites	Small Peptide	C12H16N2O5	269.11	268.105923	[M+H]+	1b	13588-99-3	54564570				C00107	ko02010
+Ile-Ser	Amino acid and Its metabolites	Small Peptide	C9H18N2O4	219.13	218.126658	[M+H]+	1b	6403-14-1	7021816				C00107	ko02010
+His-Phe-Ala	Amino acid and Its metabolites	Small Peptide	C18H23N5O4	374.18	373.175005	[M+H]+	1b		145455927				C00098	ko02010
+N-(2-hydroxyethyl)-3-pyridinecarboxamide	Heterocyclic compounds	Heterocyclic compounds	C8H10N2O2	167.08	166.074228	[M+H]+	1b	6265-73-2	72663					
+Proline-Hydroxyproline	Amino acid and Its metabolites	Small Peptide	C10H16N2O4	229.12	228.11046	[M+H]+	1b	18684-24-7	11902893	HMDB0006695	74767		C00107	ko02010
+Cyclo(Ala-Pro)	Amino acid and Its metabolites	Small Peptide	C8H12N2O2	169.1	168.089878	[M+H]+	1b	36357-32-1	13879951				C00107	ko02010
+Triethylene glycol-monomethyl ether	Alcohol and amines	Alcohols	C7H16O4	165.11	164.10486	[M+H]+	1b	112-35-6	8178	HMDB0062666	84233			
+Trp-Ile	Amino acid and Its metabolites	Small Peptide	C17H23N3O3	318.18	317.17	[M+H]+	1b	64339-42-0	11681245				C00107	ko02010
+Cys-Arg	Amino acid and Its metabolites	Small Peptide	C9H19N5O3S	278.13	277.12031	[M+H]+	1b		9835322				C00107	ko02010
+2-pyrimidin-2-yl-propionic acid	Heterocyclic compounds	Heterocyclic compounds	C7H8N2O2	153.07	152.058578	[M+H]+	1b	819850-16-3	17937042					
+Thr-Arg	Amino acid and Its metabolites	Small Peptide	C10H21N5O4	276.17	275.159355	[M+H]+	1b	13448-26-5	7016110				C00107	ko02010
+4-Amino-3-hydroxybutyric acid	Others	Medicine	C4H9NO3	120.07	119.05769	[M+H]+	1a	924-49-2	2149				C03678	
+D-Alloisoleucine	Amino acid and Its metabolites	Amino acids	C6H13NO2	132.1	131.094629	[M+H]+	1a	1509-35-9	94206				C21092	
+Pro-Asn	Amino acid and Its metabolites	Small Peptide	C9H15N3O4	230.11	229.10571	[M+H]+	1b	107856-82-6	7408193				C00107	ko02010
+Pro-Asp	Amino acid and Its metabolites	Small Peptide	C9H14N2O5	231.1	230.08972	[M+H]+	1b	85227-98-1	7079450				C00107	ko02010
+Losartan carboxylic acid	Others	Medicine	C22H21ClN6O2	437.15	436.141449	[M+H]+	1b	124750-92-1	108185					
+Methyltrienolone	Others	Medicine	C19H24O2	285.18	284.17763	[M+H]+	1b	965-93-5	261000					
+(2E,4E)-6-(2-aminophenyl)-2-hydroxy-6-oxohexa-2,4-dienoic acid	Organic acid and Its derivatives	Organic acid and Its derivatives	C12H11NO4	251.1	233.068809	[M+NH4]+	3		5281097				C08062	ko01100
+LPC(O-18:3)	GP	LPC	C26H50NO6P	504.34	503.337576	[M+H]+	3		164331423				C04230	ko00564,ko04148,ko05231
+1-desoxymethylsphinganine	SP	SM	C17H37NO	272.29	271.287514	[M+H]+	3	1219484-98-6	70678793					
+N-(2-Hydroxyethyl)pentadecanamide	FA	FA	C17H35NO2	286.27	285.266779	[M+H]+	3	53832-58-9	14455157					
+Cortisone	Hormones and hormone related compounds	Hormones and hormone related compounds	C21H28O5	361.2	360.193675	[M+H]+	1a	53-06-5	222786	HMDB0002802	16962	271	C00762	ko00140,ko01100,ko04960,ko05200,ko05215
+gamma-Glu-Phe	Amino acid and Its metabolites	polypeptide	C14H18N2O5	295.13	294.121573	[M+H]+	1b	7432-24-8	111299	HMDB0000594	89582	5573	C00107	ko02010
+Linoleamide	Alcohol and amines	Amines	C18H33NO	280.26	279.256214	[M+H]+	1b	3999-01-7	6435901	HMDB0062656	82984			
+Carnitine C16:1-2OH	FA	CAR	C23H43NO6	430.32	429.309039	[M+H]+	3	42150-38-9	566787	HMDB0000712	73081	5680	C02301	ko04714
+SPH(d16:1)	SP	SPH	C16H33NO2	272.26	271.251129	[M+H]+	3		14767871					
+S1P(d16:1)	SP	SPH	C16H34NO5P	352.22	351.217461	[M+H]+	3		5283560					
+S1P(d18:2)	SP	SPH	C18H36NO5P	378.24	377.233111	[M+H]+	3		125295219					
+LPC(17:1/0:0)	GP	LPC	C25H50NO7P	508.34	507.332491	[M+H]+	3		42607442				C04230	ko00564,ko04148,ko05231
+LPC(O-14:0)	GP	LPC-O	C22H48NO6P	454.33	453.321926	[M+H]+	3		15298292				C04230	ko00564,ko04148,ko05231
+LPC(O-18:0)	GP	LPC-O	C26H56NO6P	510.39	509.384526	[M+H]+	2	74430-89-0	3985	HMDB0011149	75216		C04317	ko00565,ko01100
+LPC(O-18:2)	GP	LPC-O	C26H52NO6P	506.36	505.353226	[M+H]+	3		24779513	HMDB0010408	84753		C04230	ko00564,ko04148,ko05231
+LPC(O-20:2)	GP	LPC-O	C28H56NO6P	534.39	533.384526	[M+H]+	3		164509946				C04230	ko00564,ko04148,ko05231
+LPC(O-20:3)	GP	LPC-O	C28H54NO6P	532.38	531.368876	[M+H]+	3		164421545				C04230	ko00564,ko04148,ko05231
+LPE(P-16:0)	GP	LPE-P	C21H44NO6P	438.3	437.290626	[M+H]+	3	174062-72-7	42607469	HMDB0011152			C04438	ko00564
+Carnitine C17:1	FA	CAR	C24H45NO4	412.34	411.334859	[M+H]+	3						C02301	ko04714
+Carnitine C20:3	FA	CAR	C27H47NO4	450.36	449.350509	[M+H]+	3						C02301	ko04714
+Carnitine C22:3	FA	CAR	C29H51NO4	478.39	477.381809	[M+H]+	3						C02301	ko04714
+Carnitine C20:4	FA	CAR	C27H45NO4	448.34	447.334859	[M+H]+	3		71464486				C02301	ko04714
+Carnitine C22:4	FA	CAR	C29H49NO4	476.37	475.366159	[M+H]+	3		71464592				C02301	ko04714
+Ochratoxin A	Benzene and substituted derivatives	Benzene and substituted derivatives	C20H18ClNO6	404.09	403.082264	[M+H]+	1b	303-47-9	442530	HMDB0029399	7719		C09955	ko04976

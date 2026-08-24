@@ -1,0 +1,4 @@
+pathway	matched_features	pathway_size	expected	hits	p_value	p_holm	fdr	impact
+Cysteine and methionine metabolism	hsa:27430; cpd:C00019; cpd:C00022	120	0.46875	3	0.01128	1	0.56561	0.17431
+One carbon pool by folate	hsa:27430; cpd:C00019	65	0.25391	2	0.026482	1	0.77459	0.11494
+Efferocytosis	hsa:102; cpd:C00019	178	0.69531	2	0.15296	1	1.0	0.023438

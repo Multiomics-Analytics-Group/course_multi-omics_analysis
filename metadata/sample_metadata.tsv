@@ -1,0 +1,46 @@
+sample_id	group	group_label	group_order	sex	sex_code	age	bmi	total_bilirubin	alt	ast	creatinine	blood_urea_nitrogen	neutrophil_lymphocyte_ratio	procalcitonin	c_reactive_protein	wbc_count	rbc_count	haemoglobin	red_cell_distribution_width	platelet_count	inr	diabetes	heart_disease	copd	liver_disease	cerebrovascular_disease	kidney_disease
+Con1	Con	Culture-negative sepsis	0	Female	1	55	17.71541950113379	15.7	28	30	65	6.0	0.7487922705314011	0.05	1.0	4.12	3.11	93	16.5	220	1.03	0	0	0	0	0	0
+Con2	Con	Culture-negative sepsis	0	Male	0	30	27.471688898385274	10.0	12	16	80	3.2	1.9753086419753085	0.03	3.0	5.7	3.86	113	13.5	333	1.24	1	0	0	1	1	0
+Con3	Con	Culture-negative sepsis	0	Male	0	59	25.15589569160998	10.5	99	57	68	10.0	2.503067484662577	0.07	5.0	6.61	4.65	150	12.1	218	0.96	0	0	0	1	0	0
+Con4	Con	Culture-negative sepsis	0	Female	1	70	18.730489073881373	10.1	14	14	48	6.4	1.5867768595041323	0.16	4.0	3.64	2.93	88	16.5	558	1.02	1	1	0	1	1	0
+Con5	Con	Culture-negative sepsis	0	Female	1	23	24.034609838166958	9.9	22	23	395	19.2	2.5546875	0.2	6.0	5.14	3.22	81	14.9	258	1.01	1	1	1	0	1	0
+Con6	Con	Culture-negative sepsis	0	Female	1	35	25.536703601108034	9.3	11	17	43	2.0	1.5477386934673367	0.07	1.0	5.56	3.77	111	13.9	427	0.97	1	0	0	0	1	0
+Con7	Con	Culture-negative sepsis	0	Male	0	32	32.29786616344898	13.4	91	64	64	4.4	3.6837606837606836	0.05	5.0	6.59	4.67	135	12.7	247	0.96	0	0	0	1	1	0
+Con8	Con	Culture-negative sepsis	0	Male	0	34	20.515086478979924	11.8	11	19	69	2.0	2.2546583850931676	0.03	10.0	5.73	4.56	145	13.3	173	0.96	0	0	0	0	0	1
+Con9	Con	Culture-negative sepsis	0	Female	1	57	22.151022507021082	28.5	9	18	55	3.2	0.6196078431372549	0.04	3.0	4.85	4.87	146	12.1	262	1.09	0	0	0	0	0	0
+Con10	Con	Culture-negative sepsis	0	Male	0	46	27.815881725346742	16.0	15	23	77	5.3	2.8188976377952755	0.05	9.0	5.37	5.14	157	11.6	285	1.08	1	0	0	0	1	0
+Con11	Con	Culture-negative sepsis	0	Male	0	40	28.068918152229088	15.5	14	16	82	5.9	6.430107526881721	2.75	238.0	7.72	4.7	135	13.3	166	1.07	1	0	0	0	1	0
+Con12	Con	Culture-negative sepsis	0	Male	0	48	23.054562464499313	29.5	97	58	84	4.8	2.6782608695652175	0.25	55.0	4.85	4.82	145	12.5	221	1.1	1	0	0	0	1	0
+Con13	Con	Culture-negative sepsis	0	Male	0	39	38.062283737024224	20.8	41	32	77	3.9	2.239130434782609	0.04	2.0	3.27	4.02	115	14.0	240	1.05	1	0	0	0	1	0
+Con14	Con	Culture-negative sepsis	0	Male	0	40	20.244897959183675	17.6	39	40	64	4.5	1.148471615720524	0.42	32.0	6.04	4.17	133	12.1	239	1.02	1	0	0	1	1	0
+Con15	Con	Culture-negative sepsis	0	Male	0	62	21.04804761213529	17.8	42	46	67	3.5	2.4611650485436893	0.07	8.0	7.82	4.39	135	13.4	182	0.97	0	0	0	0	0	0
+KP1	CSKP	Carbapenem-susceptible K. pneumoniae sepsis	1	Male	0	51	24.212293388429753	11.7	22	18	94	4.4	1.7426470588235294	0.08	1.9	4.3	4.21	125	13.2	346	1.04	0	0	0	1	0	0
+KP2	CSKP	Carbapenem-susceptible K. pneumoniae sepsis	1	Female	1	35	22.77318640955005	13.8	16	23	68	4.4	4.991666666666667	0.02	1.2	7.75	4.01	126	13.0	182	0.92	0	0	0	0	0	0
+KP3	CSKP	Carbapenem-susceptible K. pneumoniae sepsis	1	Female	1	58	17.647058823529413	15.2	13	16	38	4.3	18.0	0.18	72.3	0.01	1.53	49	13.1	7	1.0	0	1	0	0	1	0
+KP4	CSKP	Carbapenem-susceptible K. pneumoniae sepsis	1	Male	0	70	25.86451247165533	24.6	68	35	58	4.5	6.5200000000000005	0.83	75.4	10.24	3.71	115	21.7	173	0.95	0	0	0	0	1	0
+KP5	CSKP	Carbapenem-susceptible K. pneumoniae sepsis	1	Male	0	30	18.699780861943022	36.6	170	220	103	16.4		89.23	236.0	0.01	1.51	42	13.5	18	1.09	0	0	0	0	0	0
+KP6	CSKP	Carbapenem-susceptible K. pneumoniae sepsis	1	Male	0	34	16.541306451109516	12.4	7	11	131	4.9	92.33333333333334	3.37	242.6	0.1	1.6	51	17.2	27	0.95	0	0	0	0	0	0
+KP7	CSKP	Carbapenem-susceptible K. pneumoniae sepsis	1	Male	0	36	21.71806608974573	34.2	40	44	45	7.1	17.136363636363637	0.27	171.0	8.72	2.31	65	13.7	388	1.14	0	0	0	0	0	0
+KP8	CSKP	Carbapenem-susceptible K. pneumoniae sepsis	1	Female	1	40	16.901027582477017	13.4	9	20	108	11.1		0.22	101.4	0.01	2.0	66	15.0	2	1.12	0	0	0	0	0	1
+KP9	CSKP	Carbapenem-susceptible K. pneumoniae sepsis	1	Male	0	55	19.721036967980208	11.4	6	12	61	4.3	6.911764705882352	0.72	14.6	0.11	2.97	91	12.6	15	1.04	0	0	1	1	0	0
+KP10	CSKP	Carbapenem-susceptible K. pneumoniae sepsis	1	Male	0	50	23.875114784205696	209.3	144	51	75	11.7	11.802816901408452	23.56	1.1	9.94	4.08	129	12.1	25	52.0	0	0	0	1	0	1
+KP11	CSKP	Carbapenem-susceptible K. pneumoniae sepsis	1	Male	0	56	20.761245674740486	16.4	39	45	38	1.7	24.91111111111111	0.12	37.0	14.9	3.63	104	13.0	248	0.99	1	0	1	1	0	0
+KP12	CSKP	Carbapenem-susceptible K. pneumoniae sepsis	1	Female	1	68	18.359374999999996	55.8	26	87	62	8.2	2.4564796905222437	0.17	17.0	18.67	3.3	105	19.2	124	1.38	0	1	0	0	0	0
+KP13	CSKP	Carbapenem-susceptible K. pneumoniae sepsis	1	Male	0	65	24.609733700642796	10.3	71	40	102	4.9	8.476744186046512	0.81	149.0	9.0	3.55	109	11.7	373	1.18	1	1	0	1	1	0
+KP14	CSKP	Carbapenem-susceptible K. pneumoniae sepsis	1	Male	0	64	20.761245674740486	154.6	325	591	233	22.2	10.0	78.1	3.2	8.2	2.5	76	13.2	10	1.2	1	0	0	1	0	0
+KP15	CSKP	Carbapenem-susceptible K. pneumoniae sepsis	1	Male	0	72	23.046874999999996	328.3	14	64	197	27.5	15.671874999999998	1.07	40.16	11.43	1.55	56	14.2	290	1.18	1	0	0	1	1	0
+CRKP1	CRKP	Carbapenem-resistant K. pneumoniae sepsis	2	Male	0	53	27.68166089965398	19.6	46	38	254	25.1	53.66666666666667	4.35	217.0	17.0	3.3	97	15.7	193	1.21	0	0	0	0	1	0
+CRKP2	CRKP	Carbapenem-resistant K. pneumoniae sepsis	2	Female	1	33	18.82711103989745	14.9	19	9	42	4.8	299.0	1.25	174.1	0.01	1.64	47	14.5	15	1.35	0	0	0	0	0	0
+CRKP3	CRKP	Carbapenem-resistant K. pneumoniae sepsis	2	Female	1	64	24.167162403331353	18.8	25	23	58	7.9	11.727272727272727	0.39	36.0	7.24	2.18	63	12.9	150	1.13	1	0	0	0	0	1
+CRKP4	CRKP	Carbapenem-resistant K. pneumoniae sepsis	2	Male	0	67	24.801587301587304	27.0	44	41	117	13.1	38.56	11.92	105.0	16.79	2.01	58	17.4	113	1.21	0	0	0	0	0	0
+CRKP5	CRKP	Carbapenem-resistant K. pneumoniae sepsis	2	Female	1	30	29.387755102040817	10.0	17	34	40	4.4	17.57894736842105	0.5	123.0	12.72	3.04	91	12.3	425	1.11	0	0	1	0	1	0
+CRKP6	CRKP	Carbapenem-resistant K. pneumoniae sepsis	2	Male	0	33	20.202020202020204	15.5	137	52	47	8.3	22.12280701754386	83.09	158.0	14.2	2.29	68	13.5	254	1.07	1	0	0	0	0	0
+CRKP7	CRKP	Carbapenem-resistant K. pneumoniae sepsis	2	Male	0	36	14.532871972318341	10.5	2	5	321	29.9	4.361111111111112	38.09	88.0	4.51	2.6	78	13.9	62	1.19	1	0	0	1	0	1
+CRKP8	CRKP	Carbapenem-resistant K. pneumoniae sepsis	2	Male	0	40	18.93700290367378	32.1	4	7	134	37.9	9.333333333333334	2.33	90.2	6.7	2.99	72	20.9	154	1.36	0	1	0	0	1	0
+CRKP9	CRKP	Carbapenem-resistant K. pneumoniae sepsis	2	Male	0	55	19.2671714440238	31.1	14	26	65	4.1	12.882812499999998	11.92	78.0	18.89	2.35	71	15.1	478	1.21	0	0	0	0	1	0
+CRKP10	CRKP	Carbapenem-resistant K. pneumoniae sepsis	2	Male	0	50	22.093170054286073	16.7	45	51	316	21.5	18.5	0.66	122.2	8.6	2.5	77	13.0	202	1.35	0	1	0	0	1	0
+CRKP11	CRKP	Carbapenem-resistant K. pneumoniae sepsis	2	Male	0	41	24.801587301587304	8.3	124	121	32	4.6	7.956043956043956	0.13	105.0	8.47	3.15	92	12.6	281	1.31	0	0	0	0	1	0
+CRKP12	CRKP	Carbapenem-resistant K. pneumoniae sepsis	2	Female	1	69	20.569329660238754	134.7	93	118	66	3.9	3.226086956521739	0.21	11.2	5.47	3.5	116	13.3	136	1.28	0	0	0	1	0	0
+CRKP13	CRKP	Carbapenem-resistant K. pneumoniae sepsis	2	Female	1	69	24.238227146814403	15.2	9	17	38	5.4	2.347058823529412	0.07	57.0	6.0	2.2	67	16.6	203	0.92	0	0	0	0	1	0
+CRKP14	CRKP	Carbapenem-resistant K. pneumoniae sepsis	2	Male	0	67	28.344671201814062	27.0	44	41	117	13.1	38.56	11.92	105.0	10.81	3.37	105	14.6	92	1.21	0	0	0	0	0	0
+CRKP15	CRKP	Carbapenem-resistant K. pneumoniae sepsis	2	Male	0	68	23.030045351473927	27.0	44	41	117	13.1	38.56	11.92	105.0	3.41	3.09	80	15.4	60	1.21	0	0	0	0	0	0

@@ -1,0 +1,393 @@
+comparison	kegg_pathway	ko_id	significant_compounds	pathway_compounds	significant_compounds_total	compounds_total	metabolite_index_list	kegg_compound_list	kegg_url
+KP_vs_Con	D-Amino acid metabolism	ko00470	10	19	185	562	MEDN1226*010;MEDN0009;MEDN0012;MEDN0018;MEDN0046;MEDN0704;MEDN1656;MEDP0011;MEDP0020;MEDP0297	C03341+C00049+C00135+C00065+C00064+C00036+C00739+C00047+C00073+C00431	https:\\www.genome.jp\dbget-bin\www_bget?map00470
+KP_vs_Con	Metabolic pathways	ko01100	75	257	185	562	MEDN1226*010;MEDP0026*110;MEDP0298*114;MEDP0227*128;MEDN1909*186;MEDN2338*186;MEDN0554*186;MEDN0461*203;MEDN0499*203;MEDN0372*210;MEDP1203*239;MEDP2792*272;MEDN0009;MEDN0012;MEDN0018;MEDN0019;MEDN0042;MEDN0046;MEDN0065;MEDN0068;MEDN0128;MEDN0147;MEDN0163;MEDN0208;MEDN0237;MEDN0280;MEDN0297;MEDN0326;MEDN0335;MEDN0434;MEDN0473;MEDN0541;MEDN0622;MEDN0656;MEDN0704;MEDN0767;MEDN0835;MEDN0841;MEDN1155;MEDN1504;MEDN1532;MEDN1551;MEDN1656;MEDN1695;MEDN2102;MEDN2260;MEDN2325;MEDN2326;MEDN2393;MEDN2394;MEDP0011;MEDP0020;MEDP0143;MEDP0184;MEDP0186;MEDP0242;MEDP0297;MEDP0313;MEDP0401;MEDP0437;MEDP0453;MEDP0546;MEDP0752;MEDP0871;MEDP1127;MEDP1144;MEDP1273;MEDP1280;MEDP1475;MEDP1741;MEDP1949;MEDP2059;MEDP2143;MEDP2719;MEDP2798	C03341+C00183+C02378+C00159+C00156+C00805+C06044+C05382+C03406+C00416+C19831+C00157+C00049+C00135+C00065+C00078+C00152+C00064+C01005+C00021+C00755+C02376+C00262+C01598+C00191+C00245+C01127+C00898+C02170+C02067+C05580+C05576+C00931+C00637+C00036+C14826+C02670+C02642+C00233+C12621+C00333+C02835+C00739+C00168+C01934+C06046+C16365+C11821+C00681+C00681+C00047+C00073+C00120+C02465+C01829+C00153+C00431+C00581+C00170+C05570+C00463+C12312+C00123+C00836+C00637+C00407+C11994+C00019+C02565+C00179+C03373+C04295+C06179+C08062+C00762	https:\\www.genome.jp\dbget-bin\www_bget?map01100
+KP_vs_Con	beta-Alanine metabolism	ko00410	5	13	185	562	MEDN0586*010;MEDN0818*010;MEDN0009;MEDN0012;MEDN0841	C01073+C01073+C00049+C00135+C02642	https:\\www.genome.jp\dbget-bin\www_bget?map00410
+KP_vs_Con	Phenylalanine metabolism	ko00360	2	12	185	562	MEDN0061*037;MEDN1504	C05598+C12621	https:\\www.genome.jp\dbget-bin\www_bget?map00360
+KP_vs_Con	Valine, leucine and isoleucine degradation	ko00280	5	8	185	562	MEDP0026*110;MEDN0335;MEDN1155;MEDP0752;MEDP1144	C00183+C02170+C00233+C00123+C00407	https:\\www.genome.jp\dbget-bin\www_bget?map00280
+KP_vs_Con	Valine, leucine and isoleucine biosynthesis	ko00290	4	5	185	562	MEDP0026*110;MEDN1155;MEDP0752;MEDP1144	C00183+C00233+C00123+C00407	https:\\www.genome.jp\dbget-bin\www_bget?map00290
+KP_vs_Con	Pantothenate and CoA biosynthesis	ko00770	3	8	185	562	MEDP0026*110;MEDN0009;MEDN0841	C00183+C00049+C02642	https:\\www.genome.jp\dbget-bin\www_bget?map00770
+KP_vs_Con	Aminoacyl-tRNA biosynthesis	ko00970	12	17	185	562	MEDP0026*110;MEDN0009;MEDN0012;MEDN0018;MEDN0019;MEDN0042;MEDN0046;MEDN0065;MEDP0011;MEDP0020;MEDP0752;MEDP1144	C00183+C00049+C00135+C00065+C00078+C00152+C00064+C01005+C00047+C00073+C00123+C00407	https:\\www.genome.jp\dbget-bin\www_bget?map00970
+KP_vs_Con	2-Oxocarboxylic acid metabolism	ko01210	9	18	185	562	MEDP0026*110;MEDN0009;MEDN0019;MEDN0704;MEDN1155;MEDP0011;MEDP0020;MEDP0752;MEDP1144	C00183+C00049+C00078+C00036+C00233+C00047+C00073+C00123+C00407	https:\\www.genome.jp\dbget-bin\www_bget?map01210
+KP_vs_Con	Biosynthesis of amino acids	ko01230	18	36	185	562	MEDP0026*110;MEDN0461*203;MEDN0499*203;MEDN0009;MEDN0012;MEDN0018;MEDN0019;MEDN0042;MEDN0046;MEDN0065;MEDN0068;MEDN0704;MEDN1155;MEDP0011;MEDP0020;MEDP0752;MEDP1144;MEDP1280	C00183+C05382+C03406+C00049+C00135+C00065+C00078+C00152+C00064+C01005+C00021+C00036+C00233+C00047+C00073+C00123+C00407+C00019	https:\\www.genome.jp\dbget-bin\www_bget?map01230
+KP_vs_Con	Biosynthesis of cofactors	ko01240	16	36	185	562	MEDP0026*110;MEDN1909*186;MEDN0009;MEDN0018;MEDN0019;MEDN0046;MEDN0068;MEDN0237;MEDN0622;MEDN0704;MEDN1532;MEDP0020;MEDP0143;MEDP0242;MEDP1280;MEDP1949	C00183+C00156+C00049+C00065+C00078+C00064+C00021+C00191+C00931+C00036+C00333+C00073+C00120+C00153+C00019+C03373	https:\\www.genome.jp\dbget-bin\www_bget?map01240
+KP_vs_Con	ABC transporters	ko02010	42	139	185	562	MEDP0026*110;MEDP0227*128;MEDP2546*135;MEDP2355*135;MEDP2434*138;MEDP2433*138;MEDP1022*153;MEDP2584*153;MEDN1548*199;MEDP2339*243;MEDP2431*245;MEDP0859*245;MEDP2585*251;MEDN0009;MEDN0012;MEDN0018;MEDN0046;MEDN0280;MEDN1532;MEDN1910;MEDN1969;MEDP0011;MEDP0078;MEDP0143;MEDP0752;MEDP1144;MEDP1512;MEDP1742;MEDP1780;MEDP1863;MEDP1911;MEDP2327;MEDP2328;MEDP2378;MEDP2383;MEDP2411;MEDP2426;MEDP2470;MEDP2494;MEDP2555;MEDP2556;MEDP2805	C00183+C00159+C00107+C00107+C00107+C00107+C00107+C00107+C00107+C00107+C00107+C00107+C00107+C00049+C00135+C00065+C00064+C00245+C00333+C00107+C00107+C00047+C00107+C00120+C00123+C00407+C00107+C00107+C00107+C00107+C00107+C00107+C00107+C00107+C00107+C00098+C00107+C00107+C00107+C00107+C00107+C00107	https:\\www.genome.jp\dbget-bin\www_bget?map02010
+KP_vs_Con	Protein digestion and absorption	ko04974	13	19	185	562	MEDP0026*110;MEDN0009;MEDN0012;MEDN0018;MEDN0019;MEDN0042;MEDN0046;MEDP0011;MEDP0020;MEDP0453;MEDP0456;MEDP0752;MEDP1144	C00183+C00049+C00135+C00065+C00078+C00152+C00064+C00047+C00073+C00463+C01746+C00123+C00407	https:\\www.genome.jp\dbget-bin\www_bget?map04974
+KP_vs_Con	Mineral absorption	ko04978	8	9	185	562	MEDP0026*110;MEDN0018;MEDN0019;MEDN0042;MEDN0046;MEDP0020;MEDP0752;MEDP1144	C00183+C00065+C00078+C00152+C00064+C00073+C00123+C00407	https:\\www.genome.jp\dbget-bin\www_bget?map04978
+KP_vs_Con	Central carbon metabolism in cancer	ko05230	11	20	185	562	MEDP0026*110;MEDN0009;MEDN0012;MEDN0018;MEDN0019;MEDN0042;MEDN0046;MEDN0704;MEDP0020;MEDP0752;MEDP1144	C00183+C00049+C00135+C00065+C00078+C00152+C00064+C00036+C00073+C00123+C00407	https:\\www.genome.jp\dbget-bin\www_bget?map05230
+KP_vs_Con	Fructose and mannose metabolism	ko00051	2	6	185	562	MEDP0227*128;MEDN2102	C00159+C01934	https:\\www.genome.jp\dbget-bin\www_bget?map00051
+KP_vs_Con	Galactose metabolism	ko00052	1	7	185	562	MEDP0227*128	C00159	https:\\www.genome.jp\dbget-bin\www_bget?map00052
+KP_vs_Con	Amino sugar and nucleotide sugar metabolism	ko00520	3	7	185	562	MEDP0227*128;MEDN0237;MEDN1532	C00159+C00191+C00333	https:\\www.genome.jp\dbget-bin\www_bget?map00520
+KP_vs_Con	Biosynthesis of nucleotide sugars	ko01250	4	7	185	562	MEDP0227*128;MEDN0461*203;MEDN0237;MEDN1532	C00159+C05382+C00191+C00333	https:\\www.genome.jp\dbget-bin\www_bget?map01250
+KP_vs_Con	Lysosome	ko04142	1	2	185	562	MEDP0227*128	C00159	https:\\www.genome.jp\dbget-bin\www_bget?map04142
+KP_vs_Con	C-type lectin receptor signaling pathway	ko04625	1	2	185	562	MEDP0227*128	C00159	https:\\www.genome.jp\dbget-bin\www_bget?map04625
+KP_vs_Con	Ubiquinone and other terpenoid-quinone biosynthesis	ko00130	1	3	185	562	MEDN1909*186	C00156	https:\\www.genome.jp\dbget-bin\www_bget?map00130
+KP_vs_Con	Folate biosynthesis	ko00790	1	1	185	562	MEDN1909*186	C00156	https:\\www.genome.jp\dbget-bin\www_bget?map00790
+KP_vs_Con	Bile secretion	ko04976	3	20	185	562	MEDN2338*186;MEDP0184;MEDP0186	C00805+C02465+C01829	https:\\www.genome.jp\dbget-bin\www_bget?map04976
+KP_vs_Con	Tyrosine metabolism	ko00350	6	16	185	562	MEDN0554*186;MEDN0473;MEDN0541;MEDN2260;MEDP0184;MEDP0186	C06044+C05580+C05576+C06046+C02465+C01829	https:\\www.genome.jp\dbget-bin\www_bget?map00350
+KP_vs_Con	Pentose phosphate pathway	ko00030	1	7	185	562	MEDN0461*203	C05382	https:\\www.genome.jp\dbget-bin\www_bget?map00030
+KP_vs_Con	Carbon metabolism	ko01200	6	16	185	562	MEDN0461*203;MEDN0009;MEDN0018;MEDN0065;MEDN0704;MEDN1695	C05382+C00049+C00065+C01005+C00036+C00168	https:\\www.genome.jp\dbget-bin\www_bget?map01200
+KP_vs_Con	Arginine biosynthesis	ko00220	3	9	185	562	MEDN0499*203;MEDN0009;MEDN0046	C03406+C00049+C00064	https:\\www.genome.jp\dbget-bin\www_bget?map00220
+KP_vs_Con	Alanine, aspartate and glutamate metabolism	ko00250	5	12	185	562	MEDN0499*203;MEDN0009;MEDN0042;MEDN0046;MEDN0704	C03406+C00049+C00152+C00064+C00036	https:\\www.genome.jp\dbget-bin\www_bget?map00250
+KP_vs_Con	Biosynthesis of unsaturated fatty acids	ko01040	2	6	185	562	MEDN0391*206;MEDN0394	C06429+C16525	https:\\www.genome.jp\dbget-bin\www_bget?map01040
+KP_vs_Con	Glycerolipid metabolism	ko00561	3	16	185	562	MEDN0372*210;MEDN2393;MEDN2394	C00416+C00681+C00681	https:\\www.genome.jp\dbget-bin\www_bget?map00561
+KP_vs_Con	Glycerophospholipid metabolism	ko00564	38	89	185	562	MEDN0372*210;MEDN1285*215;MEDN0366*215;MEDN2369*217;MEDN1282*217;MEDN2372*221;MEDN1276*221;MEDN1269*225;MEDN1270*225;MEDP0494*269;MEDP1692*269;MEDP1346*272;MEDP0338*272;MEDP2792*272;MEDP1341*275;MEDP0495*275;MEDP1333*280;MEDP1334*280;MEDP1328*282;MEDP1330*282;MEDP2784*285;MEDP1325*285;MEDP1322*286;MEDP1321*286;MEDN0018;MEDN2373;MEDN2384;MEDN2385;MEDN2393;MEDN2394;MEDP0442;MEDP1337;MEDP1695;MEDP2746;MEDP2840;MEDP2846;MEDP2848;MEDP2849	C00416+C04438+C04438+C04438+C04438+C04438+C04438+C04438+C04438+C04230+C04230+C04230+C04230+C00157+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C00065+C18126+C05974+C05974+C00681+C00681+C00670+C04230+C04230+C04230+C04230+C04230+C04230+C04438	https:\\www.genome.jp\dbget-bin\www_bget?map00564
+KP_vs_Con	cAMP signaling pathway	ko04024	1	8	185	562	MEDN0372*210	C00416	https:\\www.genome.jp\dbget-bin\www_bget?map04024
+KP_vs_Con	Phosphatidylinositol signaling system	ko04070	1	1	185	562	MEDN0372*210	C00416	https:\\www.genome.jp\dbget-bin\www_bget?map04070
+KP_vs_Con	Phospholipase D signaling pathway	ko04072	3	8	185	562	MEDN0372*210;MEDN2393;MEDN2394	C00416+C00681+C00681	https:\\www.genome.jp\dbget-bin\www_bget?map04072
+KP_vs_Con	Fc gamma R-mediated phagocytosis	ko04666	1	2	185	562	MEDN0372*210	C00416	https:\\www.genome.jp\dbget-bin\www_bget?map04666
+KP_vs_Con	GnRH signaling pathway	ko04912	1	3	185	562	MEDN0372*210	C00416	https:\\www.genome.jp\dbget-bin\www_bget?map04912
+KP_vs_Con	Fat digestion and absorption	ko04975	3	16	185	562	MEDN0372*210;MEDN2393;MEDN2394	C00416+C00681+C00681	https:\\www.genome.jp\dbget-bin\www_bget?map04975
+KP_vs_Con	Pathways in cancer	ko05200	4	13	185	562	MEDN0372*210;MEDN2393;MEDN2394;MEDP2798	C00416+C00681+C00681+C00762	https:\\www.genome.jp\dbget-bin\www_bget?map05200
+KP_vs_Con	Pancreatic cancer	ko05212	1	1	185	562	MEDN0372*210	C00416	https:\\www.genome.jp\dbget-bin\www_bget?map05212
+KP_vs_Con	Choline metabolism in cancer	ko05231	23	56	185	562	MEDN0372*210;MEDP0494*269;MEDP1692*269;MEDP1346*272;MEDP0338*272;MEDP2792*272;MEDP1341*275;MEDP0495*275;MEDP1333*280;MEDP1334*280;MEDP1328*282;MEDP1330*282;MEDP2784*285;MEDP1325*285;MEDP1322*286;MEDP1321*286;MEDP0442;MEDP1337;MEDP1695;MEDP2746;MEDP2840;MEDP2846;MEDP2848	C00416+C04230+C04230+C04230+C04230+C00157+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C00670+C04230+C04230+C04230+C04230+C04230+C04230	https:\\www.genome.jp\dbget-bin\www_bget?map05231
+KP_vs_Con	Thermogenesis	ko04714	31	74	185	562	MEDP1656*264;MEDP1394*264;MEDP1382*266;MEDP0184;MEDP1084;MEDP1380;MEDP1381;MEDP1385;MEDP1386;MEDP1389;MEDP1390;MEDP1391;MEDP1393;MEDP1395;MEDP1398;MEDP1399;MEDP1401;MEDP1403;MEDP1405;MEDP1412;MEDP1434;MEDP1526;MEDP1528;MEDP1529;MEDP1530;MEDP2822;MEDP2861;MEDP2866;MEDP2867;MEDP2868;MEDP2869	C02301+C02301+C02301+C02465+C02301+C02301+C02301+C02301+C02301+C02301+C02301+C02301+C02301+C02301+C02301+C02301+C02301+C02301+C02301+C02301+C02301+C02301+C02301+C02301+C02301+C02301+C02301+C02301+C02301+C02301+C02301	https:\\www.genome.jp\dbget-bin\www_bget?map04714
+KP_vs_Con	Efferocytosis	ko04148	22	59	185	562	MEDP0494*269;MEDP1692*269;MEDP1346*272;MEDP0338*272;MEDP1341*275;MEDP0495*275;MEDP1333*280;MEDP1334*280;MEDP1328*282;MEDP1330*282;MEDP2784*285;MEDP1325*285;MEDP1322*286;MEDP1321*286;MEDP0020;MEDP1280;MEDP1337;MEDP1695;MEDP2746;MEDP2840;MEDP2846;MEDP2848	C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C00073+C00019+C04230+C04230+C04230+C04230+C04230+C04230	https:\\www.genome.jp\dbget-bin\www_bget?map04148
+KP_vs_Con	Arachidonic acid metabolism	ko00590	1	7	185	562	MEDP2792*272	C00157	https:\\www.genome.jp\dbget-bin\www_bget?map00590
+KP_vs_Con	Linoleic acid metabolism	ko00591	3	9	185	562	MEDP2792*272;MEDN0767;MEDN1144	C00157+C14826+C14767	https:\\www.genome.jp\dbget-bin\www_bget?map00591
+KP_vs_Con	alpha-Linolenic acid metabolism	ko00592	2	4	185	562	MEDP2792*272;MEDN1416	C00157+C16326	https:\\www.genome.jp\dbget-bin\www_bget?map00592
+KP_vs_Con	Retrograde endocannabinoid signaling	ko04723	1	4	185	562	MEDP2792*272	C00157	https:\\www.genome.jp\dbget-bin\www_bget?map04723
+KP_vs_Con	Glycine, serine and threonine metabolism	ko00260	6	13	185	562	MEDN0009;MEDN0018;MEDN0019;MEDN0065;MEDN1695;MEDP0313	C00049+C00065+C00078+C01005+C00168+C00581	https:\\www.genome.jp\dbget-bin\www_bget?map00260
+KP_vs_Con	Cysteine and methionine metabolism	ko00270	8	17	185	562	MEDN0009;MEDN0018;MEDN0065;MEDN0068;MEDP0020;MEDP0056;MEDP0401;MEDP1280	C00049+C00065+C01005+C00021+C00073+C01817+C00170+C00019	https:\\www.genome.jp\dbget-bin\www_bget?map00270
+KP_vs_Con	Histidine metabolism	ko00340	5	8	185	562	MEDN0009;MEDN0012;MEDN1551;MEDP0437;MEDP2361	C00049+C00135+C02835+C05570+C20522	https:\\www.genome.jp\dbget-bin\www_bget?map00340
+KP_vs_Con	Nicotinate and nicotinamide metabolism	ko00760	2	14	185	562	MEDN0009;MEDP0242	C00049+C00153	https:\\www.genome.jp\dbget-bin\www_bget?map00760
+KP_vs_Con	Neuroactive ligand-receptor interaction	ko04080	8	20	185	562	MEDN0009;MEDN0208;MEDN0280;MEDN2393;MEDN2394;MEDP0184;MEDP0186;MEDP1795	C00049+C01598+C00245+C00681+C00681+C02465+C01829+C16512	https:\\www.genome.jp\dbget-bin\www_bget?map04080
+KP_vs_Con	Sphingolipid metabolism	ko00600	2	3	185	562	MEDN0018;MEDP0871	C00065+C00836	https:\\www.genome.jp\dbget-bin\www_bget?map00600
+KP_vs_Con	Glyoxylate and dicarboxylate metabolism	ko00630	6	11	185	562	MEDN0018;MEDN0046;MEDN0297;MEDN0326;MEDN0704;MEDN1695	C00065+C00064+C01127+C00898+C00036+C00168	https:\\www.genome.jp\dbget-bin\www_bget?map00630
+KP_vs_Con	Sulfur metabolism	ko00920	2	7	185	562	MEDN0018;MEDN0280	C00065+C00245	https:\\www.genome.jp\dbget-bin\www_bget?map00920
+KP_vs_Con	Sphingolipid signaling pathway	ko04071	2	3	185	562	MEDN0018;MEDP0871	C00065+C00836	https:\\www.genome.jp\dbget-bin\www_bget?map04071
+KP_vs_Con	Tryptophan metabolism	ko00380	6	13	185	562	MEDN0019;MEDN0208;MEDN0337;MEDN0656;MEDP0453;MEDP1127	C00078+C01598+C05642+C00637+C00463+C00637	https:\\www.genome.jp\dbget-bin\www_bget?map00380
+KP_vs_Con	Phenylalanine, tyrosine and tryptophan biosynthesis	ko00400	2	6	185	562	MEDN0019;MEDP0453	C00078+C00463	https:\\www.genome.jp\dbget-bin\www_bget?map00400
+KP_vs_Con	Serotonergic synapse	ko04726	1	6	185	562	MEDN0019	C00078	https:\\www.genome.jp\dbget-bin\www_bget?map04726
+KP_vs_Con	African trypanosomiasis	ko05143	1	1	185	562	MEDN0019	C00078	https:\\www.genome.jp\dbget-bin\www_bget?map05143
+KP_vs_Con	Purine metabolism	ko00230	4	10	185	562	MEDN0046;MEDN0163;MEDN2326;MEDP1949	C00064+C00262+C11821+C03373	https:\\www.genome.jp\dbget-bin\www_bget?map00230
+KP_vs_Con	Pyrimidine metabolism	ko00240	5	15	185	562	MEDN0046;MEDN0147;MEDN0335;MEDN0434;MEDN0841	C00064+C02376+C02170+C02067+C02642	https:\\www.genome.jp\dbget-bin\www_bget?map00240
+KP_vs_Con	Vitamin B6 metabolism	ko00750	1	2	185	562	MEDN0046	C00064	https:\\www.genome.jp\dbget-bin\www_bget?map00750
+KP_vs_Con	Nitrogen metabolism	ko00910	1	1	185	562	MEDN0046	C00064	https:\\www.genome.jp\dbget-bin\www_bget?map00910
+KP_vs_Con	Nucleotide metabolism	ko01232	2	10	185	562	MEDN0046;MEDN0163	C00064+C00262	https:\\www.genome.jp\dbget-bin\www_bget?map01232
+KP_vs_Con	Glutamatergic synapse	ko04724	1	2	185	562	MEDN0046	C00064	https:\\www.genome.jp\dbget-bin\www_bget?map04724
+KP_vs_Con	GABAergic synapse	ko04727	1	4	185	562	MEDN0046	C00064	https:\\www.genome.jp\dbget-bin\www_bget?map04727
+KP_vs_Con	Proximal tubule bicarbonate reclamation	ko04964	2	2	185	562	MEDN0046;MEDN0704	C00064+C00036	https:\\www.genome.jp\dbget-bin\www_bget?map04964
+KP_vs_Con	Chemical carcinogenesis - reactive oxygen species	ko05208	2	2	185	562	MEDN0068;MEDP1280	C00021+C00019	https:\\www.genome.jp\dbget-bin\www_bget?map05208
+KP_vs_Con	Circadian entrainment	ko04713	1	2	185	562	MEDN0208	C01598	https:\\www.genome.jp\dbget-bin\www_bget?map04713
+KP_vs_Con	Pentose and glucuronate interconversions	ko00040	2	7	185	562	MEDN0237;MEDN1532	C00191+C00333	https:\\www.genome.jp\dbget-bin\www_bget?map00040
+KP_vs_Con	Ascorbate and aldarate metabolism	ko00053	3	6	185	562	MEDN0237;MEDN0835;MEDN1532	C00191+C02670+C00333	https:\\www.genome.jp\dbget-bin\www_bget?map00053
+KP_vs_Con	Inositol phosphate metabolism	ko00562	1	1	185	562	MEDN0237	C00191	https:\\www.genome.jp\dbget-bin\www_bget?map00562
+KP_vs_Con	Primary bile acid biosynthesis	ko00120	1	7	185	562	MEDN0280	C00245	https:\\www.genome.jp\dbget-bin\www_bget?map00120
+KP_vs_Con	Taurine and hypotaurine metabolism	ko00430	1	7	185	562	MEDN0280	C00245	https:\\www.genome.jp\dbget-bin\www_bget?map00430
+KP_vs_Con	Propanoate metabolism	ko00640	1	5	185	562	MEDN0335	C02170	https:\\www.genome.jp\dbget-bin\www_bget?map00640
+KP_vs_Con	Porphyrin metabolism	ko00860	2	7	185	562	MEDN0622;MEDP1949	C00931+C03373	https:\\www.genome.jp\dbget-bin\www_bget?map00860
+KP_vs_Con	Glycolysis / Gluconeogenesis	ko00010	1	3	185	562	MEDN0704	C00036	https:\\www.genome.jp\dbget-bin\www_bget?map00010
+KP_vs_Con	Citrate cycle (TCA cycle)	ko00020	1	5	185	562	MEDN0704	C00036	https:\\www.genome.jp\dbget-bin\www_bget?map00020
+KP_vs_Con	Pyruvate metabolism	ko00620	1	4	185	562	MEDN0704	C00036	https:\\www.genome.jp\dbget-bin\www_bget?map00620
+KP_vs_Con	Glucagon signaling pathway	ko04922	1	7	185	562	MEDN0704	C00036	https:\\www.genome.jp\dbget-bin\www_bget?map04922
+KP_vs_Con	Fc epsilon RI signaling pathway	ko04664	1	2	185	562	MEDN1135	C00374	https:\\www.genome.jp\dbget-bin\www_bget?map04664
+KP_vs_Con	Pertussis	ko05133	1	3	185	562	MEDN1135	C00374	https:\\www.genome.jp\dbget-bin\www_bget?map05133
+KP_vs_Con	PPAR signaling pathway	ko03320	1	1	185	562	MEDN1144	C14767	https:\\www.genome.jp\dbget-bin\www_bget?map03320
+KP_vs_Con	Lipoic acid metabolism	ko00785	1	2	185	562	MEDN1155	C00233	https:\\www.genome.jp\dbget-bin\www_bget?map00785
+KP_vs_Con	Lysine degradation	ko00310	3	10	185	562	MEDN1656;MEDP0011;MEDP0297	C00739+C00047+C00431	https:\\www.genome.jp\dbget-bin\www_bget?map00310
+KP_vs_Con	Parkinson disease	ko05012	1	3	185	562	MEDN1722	C04599	https:\\www.genome.jp\dbget-bin\www_bget?map05012
+KP_vs_Con	Pathways of neurodegeneration - multiple diseases	ko05022	1	2	185	562	MEDN1722	C04599	https:\\www.genome.jp\dbget-bin\www_bget?map05022
+KP_vs_Con	Caffeine metabolism	ko00232	2	8	185	562	MEDN2325;MEDP0280	C16365+C16361	https:\\www.genome.jp\dbget-bin\www_bget?map00232
+KP_vs_Con	Gap junction	ko04540	2	6	185	562	MEDN2393;MEDN2394	C00681+C00681	https:\\www.genome.jp\dbget-bin\www_bget?map04540
+KP_vs_Con	Regulation of actin cytoskeleton	ko04810	2	5	185	562	MEDN2393;MEDN2394	C00681+C00681	https:\\www.genome.jp\dbget-bin\www_bget?map04810
+KP_vs_Con	Vitamin digestion and absorption	ko04977	4	21	185	562	MEDN2393;MEDN2394;MEDP0143;MEDP0242	C00681+C00681+C00120+C00153	https:\\www.genome.jp\dbget-bin\www_bget?map04977
+KP_vs_Con	Pathogenic Escherichia coli infection	ko05130	2	5	185	562	MEDN2393;MEDN2394	C00681+C00681	https:\\www.genome.jp\dbget-bin\www_bget?map05130
+KP_vs_Con	Biotin metabolism	ko00780	2	5	185	562	MEDP0011;MEDP0143	C00047+C00120	https:\\www.genome.jp\dbget-bin\www_bget?map00780
+KP_vs_Con	Antifolate resistance	ko01523	1	3	185	562	MEDP0020	C00073	https:\\www.genome.jp\dbget-bin\www_bget?map01523
+KP_vs_Con	Cobalamin transport and metabolism	ko04980	1	2	185	562	MEDP0020	C00073	https:\\www.genome.jp\dbget-bin\www_bget?map04980
+KP_vs_Con	Thyroid hormone synthesis	ko04918	2	4	185	562	MEDP0184;MEDP0186	C02465+C01829	https:\\www.genome.jp\dbget-bin\www_bget?map04918
+KP_vs_Con	Thyroid hormone signaling pathway	ko04919	2	3	185	562	MEDP0184;MEDP0186	C02465+C01829	https:\\www.genome.jp\dbget-bin\www_bget?map04919
+KP_vs_Con	Autoimmune thyroid disease	ko05320	2	2	185	562	MEDP0184;MEDP0186	C02465+C01829	https:\\www.genome.jp\dbget-bin\www_bget?map05320
+KP_vs_Con	Arginine and proline metabolism	ko00330	5	15	185	562	MEDP0297;MEDP0313;MEDP1280;MEDP1475;MEDP1741	C00431+C00581+C00019+C02565+C00179	https:\\www.genome.jp\dbget-bin\www_bget?map00330
+KP_vs_Con	Ether lipid metabolism	ko00565	1	2	185	562	MEDP0442	C00670	https:\\www.genome.jp\dbget-bin\www_bget?map00565
+KP_vs_Con	Insulin resistance	ko04931	1	11	185	562	MEDP0510	C02571	https:\\www.genome.jp\dbget-bin\www_bget?map04931
+KP_vs_Con	mTOR signaling pathway	ko04150	1	2	185	562	MEDP0752	C00123	https:\\www.genome.jp\dbget-bin\www_bget?map04150
+KP_vs_Con	Shigellosis	ko05131	2	2	185	562	MEDP0752;MEDP1144	C00123+C00407	https:\\www.genome.jp\dbget-bin\www_bget?map05131
+KP_vs_Con	Sulfur relay system	ko04122	1	3	185	562	MEDP1280	C00019	https:\\www.genome.jp\dbget-bin\www_bget?map04122
+KP_vs_Con	Fatty acid degradation	ko00071	1	10	185	562	MEDP1397	C02990	https:\\www.genome.jp\dbget-bin\www_bget?map00071
+KP_vs_Con	Fatty acid metabolism	ko01212	1	2	185	562	MEDP1397	C02990	https:\\www.genome.jp\dbget-bin\www_bget?map01212
+KP_vs_Con	Thiamine metabolism	ko00730	1	5	185	562	MEDP1949	C03373	https:\\www.genome.jp\dbget-bin\www_bget?map00730
+KP_vs_Con	Steroid hormone biosynthesis	ko00140	2	15	185	562	MEDP2059;MEDP2798	C04295+C00762	https:\\www.genome.jp\dbget-bin\www_bget?map00140
+KP_vs_Con	Ovarian steroidogenesis	ko04913	1	9	185	562	MEDP2059	C04295	https:\\www.genome.jp\dbget-bin\www_bget?map04913
+KP_vs_Con	Aldosterone-regulated sodium reabsorption	ko04960	1	3	185	562	MEDP2798	C00762	https:\\www.genome.jp\dbget-bin\www_bget?map04960
+KP_vs_Con	Prostate cancer	ko05215	1	5	185	562	MEDP2798	C00762	https:\\www.genome.jp\dbget-bin\www_bget?map05215
+CRKP_vs_Con	Metabolic pathways	ko01100	63	257	139	562	MEDN0852*023;MEDN0093*023;MEDN0124*024;MEDN0089*024;MEDN1701*024;MEDN1957*030;MEDP0298*114;MEDP0227*128;MEDN1909*186;MEDN2338*186;MEDN0554*186;MEDN0140*189;MEDN1092*189;MEDN0461*203;MEDN0499*203;MEDN0372*210;MEDP1203*239;MEDP2792*272;MEDN0009;MEDN0010;MEDN0012;MEDN0018;MEDN0128;MEDN0147;MEDN0163;MEDN0201;MEDN0204;MEDN0208;MEDN0279;MEDN0280;MEDN0290;MEDN0335;MEDN0502;MEDN0541;MEDN0622;MEDN0767;MEDN1155;MEDN1320;MEDN1504;MEDN1549;MEDN1551;MEDN2009;MEDN2310;MEDN2325;MEDN2394;MEDP0115;MEDP0178;MEDP0184;MEDP0186;MEDP0242;MEDP0871;MEDP0895;MEDP1033;MEDP1127;MEDP1144;MEDP1247;MEDP1472;MEDP1741;MEDP1949;MEDP2059;MEDP2143;MEDP2179;MEDP2841	C12115+C00632+C00230+C00628+C00230+C03722+C02378+C00159+C00156+C00805+C06044+C00385+C13636+C05382+C03406+C00416+C19831+C00157+C00049+C00327+C00135+C00065+C00755+C02376+C00262+C00042+C00022+C01598+C00519+C00245+C20827+C02170+C00672+C05576+C00931+C14826+C00233+C20827+C12621+C05582+C02835+C20827+C00681+C16365+C00681+C05843+C00106+C02465+C01829+C00153+C00836+C01909+C00261+C00637+C00407+C20404+C05842+C00179+C03373+C04295+C06179+C16666+C04317	https:\\www.genome.jp\dbget-bin\www_bget?map01100
+CRKP_vs_Con	Tryptophan metabolism	ko00380	4	13	139	562	MEDN0093*023;MEDN1957*030;MEDN0208;MEDP1127	C00632+C03722+C01598+C00637	https:\\www.genome.jp\dbget-bin\www_bget?map00380
+CRKP_vs_Con	Biosynthesis of cofactors	ko01240	10	36	139	562	MEDN0093*023;MEDN1957*030;MEDN1909*186;MEDN0009;MEDN0018;MEDN0204;MEDN0622;MEDP0242;MEDP0895;MEDP1949	C00632+C03722+C00156+C00049+C00065+C00022+C00931+C00153+C01909+C03373	https:\\www.genome.jp\dbget-bin\www_bget?map01240
+CRKP_vs_Con	Phenylalanine, tyrosine and tryptophan biosynthesis	ko00400	2	6	139	562	MEDN0124*024;MEDN1701*024	C00230+C00230	https:\\www.genome.jp\dbget-bin\www_bget?map00400
+CRKP_vs_Con	Tyrosine metabolism	ko00350	8	16	139	562	MEDN0089*024;MEDN0554*186;MEDN0201;MEDN0204;MEDN0541;MEDN1549;MEDP0184;MEDP0186	C00628+C06044+C00042+C00022+C05576+C05582+C02465+C01829	https:\\www.genome.jp\dbget-bin\www_bget?map00350
+CRKP_vs_Con	beta-Alanine metabolism	ko00410	4	13	139	562	MEDN1957*030;MEDN0009;MEDN0012;MEDP0178	C03722+C00049+C00135+C00106	https:\\www.genome.jp\dbget-bin\www_bget?map00410
+CRKP_vs_Con	Nicotinate and nicotinamide metabolism	ko00760	7	14	139	562	MEDN1957*030;MEDN0009;MEDN0201;MEDN0204;MEDP0115;MEDP0242;MEDP1472	C03722+C00049+C00042+C00022+C05843+C00153+C05842	https:\\www.genome.jp\dbget-bin\www_bget?map00760
+CRKP_vs_Con	Phenylalanine metabolism	ko00360	4	12	139	562	MEDN0061*037;MEDN0201;MEDN0204;MEDN1504	C05598+C00042+C00022+C12621	https:\\www.genome.jp\dbget-bin\www_bget?map00360
+CRKP_vs_Con	Fructose and mannose metabolism	ko00051	1	6	139	562	MEDP0227*128	C00159	https:\\www.genome.jp\dbget-bin\www_bget?map00051
+CRKP_vs_Con	Galactose metabolism	ko00052	1	7	139	562	MEDP0227*128	C00159	https:\\www.genome.jp\dbget-bin\www_bget?map00052
+CRKP_vs_Con	Amino sugar and nucleotide sugar metabolism	ko00520	1	7	139	562	MEDP0227*128	C00159	https:\\www.genome.jp\dbget-bin\www_bget?map00520
+CRKP_vs_Con	Biosynthesis of nucleotide sugars	ko01250	2	7	139	562	MEDP0227*128;MEDN0461*203	C00159+C05382	https:\\www.genome.jp\dbget-bin\www_bget?map01250
+CRKP_vs_Con	ABC transporters	ko02010	26	139	139	562	MEDP0227*128;MEDP2434*138;MEDP2433*138;MEDP2393*151;MEDP2392*151;MEDN1548*199;MEDP2339*243;MEDP2585*251;MEDN0009;MEDN0012;MEDN0018;MEDN0280;MEDN1970;MEDN2027;MEDP1144;MEDP1512;MEDP1863;MEDP1928;MEDP2383;MEDP2387;MEDP2411;MEDP2468;MEDP2470;MEDP2494;MEDP2556;MEDP2805	C00159+C00107+C00107+C00107+C00107+C00107+C00107+C00107+C00049+C00135+C00065+C00245+C00107+C00107+C00407+C00107+C00107+C00107+C00107+C00107+C00098+C00107+C00107+C00107+C00107+C00107	https:\\www.genome.jp\dbget-bin\www_bget?map02010
+CRKP_vs_Con	Lysosome	ko04142	1	2	139	562	MEDP0227*128	C00159	https:\\www.genome.jp\dbget-bin\www_bget?map04142
+CRKP_vs_Con	C-type lectin receptor signaling pathway	ko04625	1	2	139	562	MEDP0227*128	C00159	https:\\www.genome.jp\dbget-bin\www_bget?map04625
+CRKP_vs_Con	Ubiquinone and other terpenoid-quinone biosynthesis	ko00130	1	3	139	562	MEDN1909*186	C00156	https:\\www.genome.jp\dbget-bin\www_bget?map00130
+CRKP_vs_Con	Folate biosynthesis	ko00790	1	1	139	562	MEDN1909*186	C00156	https:\\www.genome.jp\dbget-bin\www_bget?map00790
+CRKP_vs_Con	Bile secretion	ko04976	4	20	139	562	MEDN2338*186;MEDP0184;MEDP0186;MEDP2878	C00805+C02465+C01829+C09955	https:\\www.genome.jp\dbget-bin\www_bget?map04976
+CRKP_vs_Con	Purine metabolism	ko00230	3	10	139	562	MEDN0140*189;MEDN0163;MEDP1949	C00385+C00262+C03373	https:\\www.genome.jp\dbget-bin\www_bget?map00230
+CRKP_vs_Con	Caffeine metabolism	ko00232	2	8	139	562	MEDN0140*189;MEDN2325	C00385+C16365	https:\\www.genome.jp\dbget-bin\www_bget?map00232
+CRKP_vs_Con	Nucleotide metabolism	ko01232	3	10	139	562	MEDN0140*189;MEDN0163;MEDP0178	C00385+C00262+C00106	https:\\www.genome.jp\dbget-bin\www_bget?map01232
+CRKP_vs_Con	Pentose phosphate pathway	ko00030	3	7	139	562	MEDN0461*203;MEDN0204;MEDN0502	C05382+C00022+C00672	https:\\www.genome.jp\dbget-bin\www_bget?map00030
+CRKP_vs_Con	Carbon metabolism	ko01200	5	16	139	562	MEDN0461*203;MEDN0009;MEDN0018;MEDN0201;MEDN0204	C05382+C00049+C00065+C00042+C00022	https:\\www.genome.jp\dbget-bin\www_bget?map01200
+CRKP_vs_Con	Biosynthesis of amino acids	ko01230	9	36	139	562	MEDN0461*203;MEDN0499*203;MEDN0009;MEDN0010;MEDN0012;MEDN0018;MEDN0204;MEDN1155;MEDP1144	C05382+C03406+C00049+C00327+C00135+C00065+C00022+C00233+C00407	https:\\www.genome.jp\dbget-bin\www_bget?map01230
+CRKP_vs_Con	Arginine biosynthesis	ko00220	3	9	139	562	MEDN0499*203;MEDN0009;MEDN0010	C03406+C00049+C00327	https:\\www.genome.jp\dbget-bin\www_bget?map00220
+CRKP_vs_Con	Alanine, aspartate and glutamate metabolism	ko00250	4	12	139	562	MEDN0499*203;MEDN0009;MEDN0201;MEDN0204	C03406+C00049+C00042+C00022	https:\\www.genome.jp\dbget-bin\www_bget?map00250
+CRKP_vs_Con	Linoleic acid metabolism	ko00591	3	9	139	562	MEDN0376*205;MEDP2792*272;MEDN0767	C14828+C00157+C14826	https:\\www.genome.jp\dbget-bin\www_bget?map00591
+CRKP_vs_Con	Glycerolipid metabolism	ko00561	3	16	139	562	MEDN0372*210;MEDN2310;MEDN2394	C00416+C00681+C00681	https:\\www.genome.jp\dbget-bin\www_bget?map00561
+CRKP_vs_Con	Glycerophospholipid metabolism	ko00564	37	89	139	562	MEDN0372*210;MEDN2372*221;MEDN1276*221;MEDP0494*269;MEDP1692*269;MEDP1902*270;MEDP2787*270;MEDP1346*272;MEDP0338*272;MEDP2792*272;MEDP0434*273;MEDP2831*273;MEDP1341*275;MEDP0495*275;MEDP1333*280;MEDP1334*280;MEDP1328*282;MEDP1330*282;MEDP2784*285;MEDP1325*285;MEDP1322*286;MEDP1321*286;MEDN0018;MEDN2310;MEDN2373;MEDN2385;MEDN2394;MEDP0442;MEDP1337;MEDP1695;MEDP2746;MEDP2836;MEDP2840;MEDP2845;MEDP2846;MEDP2848;MEDP2849	C00416+C04438+C04438+C04230+C04230+C04230+C04230+C04230+C04230+C00157+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C00065+C00681+C18126+C05974+C00681+C00670+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04438	https:\\www.genome.jp\dbget-bin\www_bget?map00564
+CRKP_vs_Con	cAMP signaling pathway	ko04024	2	8	139	562	MEDN0372*210;MEDN0201	C00416+C00042	https:\\www.genome.jp\dbget-bin\www_bget?map04024
+CRKP_vs_Con	Phosphatidylinositol signaling system	ko04070	1	1	139	562	MEDN0372*210	C00416	https:\\www.genome.jp\dbget-bin\www_bget?map04070
+CRKP_vs_Con	Phospholipase D signaling pathway	ko04072	3	8	139	562	MEDN0372*210;MEDN2310;MEDN2394	C00416+C00681+C00681	https:\\www.genome.jp\dbget-bin\www_bget?map04072
+CRKP_vs_Con	Fc gamma R-mediated phagocytosis	ko04666	1	2	139	562	MEDN0372*210	C00416	https:\\www.genome.jp\dbget-bin\www_bget?map04666
+CRKP_vs_Con	GnRH signaling pathway	ko04912	1	3	139	562	MEDN0372*210	C00416	https:\\www.genome.jp\dbget-bin\www_bget?map04912
+CRKP_vs_Con	Fat digestion and absorption	ko04975	3	16	139	562	MEDN0372*210;MEDN2310;MEDN2394	C00416+C00681+C00681	https:\\www.genome.jp\dbget-bin\www_bget?map04975
+CRKP_vs_Con	Pathways in cancer	ko05200	3	13	139	562	MEDN0372*210;MEDN2310;MEDN2394	C00416+C00681+C00681	https:\\www.genome.jp\dbget-bin\www_bget?map05200
+CRKP_vs_Con	Pancreatic cancer	ko05212	1	1	139	562	MEDN0372*210	C00416	https:\\www.genome.jp\dbget-bin\www_bget?map05212
+CRKP_vs_Con	Choline metabolism in cancer	ko05231	29	56	139	562	MEDN0372*210;MEDP0494*269;MEDP1692*269;MEDP1902*270;MEDP2787*270;MEDP1346*272;MEDP0338*272;MEDP2792*272;MEDP0434*273;MEDP2831*273;MEDP1341*275;MEDP0495*275;MEDP1333*280;MEDP1334*280;MEDP1328*282;MEDP1330*282;MEDP2784*285;MEDP1325*285;MEDP1322*286;MEDP1321*286;MEDP0442;MEDP1337;MEDP1695;MEDP2746;MEDP2836;MEDP2840;MEDP2845;MEDP2846;MEDP2848	C00416+C04230+C04230+C04230+C04230+C04230+C04230+C00157+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C00670+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230	https:\\www.genome.jp\dbget-bin\www_bget?map05231
+CRKP_vs_Con	Thermogenesis	ko04714	17	74	139	562	MEDP1382*266;MEDP0184;MEDP1380;MEDP1381;MEDP1389;MEDP1390;MEDP1391;MEDP1392;MEDP1395;MEDP1434;MEDP1518;MEDP2822;MEDP2861;MEDP2866;MEDP2867;MEDP2868;MEDP2869	C02301+C02465+C02301+C02301+C02301+C02301+C02301+C02301+C02301+C02301+C02301+C02301+C02301+C02301+C02301+C02301+C02301	https:\\www.genome.jp\dbget-bin\www_bget?map04714
+CRKP_vs_Con	Efferocytosis	ko04148	26	59	139	562	MEDP0494*269;MEDP1692*269;MEDP1902*270;MEDP2787*270;MEDP1346*272;MEDP0338*272;MEDP0434*273;MEDP2831*273;MEDP1341*275;MEDP0495*275;MEDP1333*280;MEDP1334*280;MEDP1328*282;MEDP1330*282;MEDP2784*285;MEDP1325*285;MEDP1322*286;MEDP1321*286;MEDP1337;MEDP1695;MEDP2746;MEDP2836;MEDP2840;MEDP2845;MEDP2846;MEDP2848	C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230	https:\\www.genome.jp\dbget-bin\www_bget?map04148
+CRKP_vs_Con	Arachidonic acid metabolism	ko00590	1	7	139	562	MEDP2792*272	C00157	https:\\www.genome.jp\dbget-bin\www_bget?map00590
+CRKP_vs_Con	alpha-Linolenic acid metabolism	ko00592	1	4	139	562	MEDP2792*272	C00157	https:\\www.genome.jp\dbget-bin\www_bget?map00592
+CRKP_vs_Con	Retrograde endocannabinoid signaling	ko04723	1	4	139	562	MEDP2792*272	C00157	https:\\www.genome.jp\dbget-bin\www_bget?map04723
+CRKP_vs_Con	Glycine, serine and threonine metabolism	ko00260	3	13	139	562	MEDN0009;MEDN0018;MEDN0204	C00049+C00065+C00022	https:\\www.genome.jp\dbget-bin\www_bget?map00260
+CRKP_vs_Con	Cysteine and methionine metabolism	ko00270	3	17	139	562	MEDN0009;MEDN0018;MEDN0204	C00049+C00065+C00022	https:\\www.genome.jp\dbget-bin\www_bget?map00270
+CRKP_vs_Con	Histidine metabolism	ko00340	4	8	139	562	MEDN0009;MEDN0012;MEDN1551;MEDP0089	C00049+C00135+C02835+C05135	https:\\www.genome.jp\dbget-bin\www_bget?map00340
+CRKP_vs_Con	D-Amino acid metabolism	ko00470	4	19	139	562	MEDN0009;MEDN0012;MEDN0018;MEDN0204	C00049+C00135+C00065+C00022	https:\\www.genome.jp\dbget-bin\www_bget?map00470
+CRKP_vs_Con	Pantothenate and CoA biosynthesis	ko00770	3	8	139	562	MEDN0009;MEDN0204;MEDP0178	C00049+C00022+C00106	https:\\www.genome.jp\dbget-bin\www_bget?map00770
+CRKP_vs_Con	Aminoacyl-tRNA biosynthesis	ko00970	4	17	139	562	MEDN0009;MEDN0012;MEDN0018;MEDP1144	C00049+C00135+C00065+C00407	https:\\www.genome.jp\dbget-bin\www_bget?map00970
+CRKP_vs_Con	2-Oxocarboxylic acid metabolism	ko01210	4	18	139	562	MEDN0009;MEDN0204;MEDN1155;MEDP1144	C00049+C00022+C00233+C00407	https:\\www.genome.jp\dbget-bin\www_bget?map01210
+CRKP_vs_Con	Neuroactive ligand-receptor interaction	ko04080	8	20	139	562	MEDN0009;MEDN0208;MEDN0280;MEDN2310;MEDN2394;MEDP0184;MEDP0186;MEDP1795	C00049+C01598+C00245+C00681+C00681+C02465+C01829+C16512	https:\\www.genome.jp\dbget-bin\www_bget?map04080
+CRKP_vs_Con	Protein digestion and absorption	ko04974	4	19	139	562	MEDN0009;MEDN0012;MEDN0018;MEDP1144	C00049+C00135+C00065+C00407	https:\\www.genome.jp\dbget-bin\www_bget?map04974
+CRKP_vs_Con	Central carbon metabolism in cancer	ko05230	6	20	139	562	MEDN0009;MEDN0012;MEDN0018;MEDN0201;MEDN0204;MEDP1144	C00049+C00135+C00065+C00042+C00022+C00407	https:\\www.genome.jp\dbget-bin\www_bget?map05230
+CRKP_vs_Con	Sphingolipid metabolism	ko00600	2	3	139	562	MEDN0018;MEDP0871	C00065+C00836	https:\\www.genome.jp\dbget-bin\www_bget?map00600
+CRKP_vs_Con	Glyoxylate and dicarboxylate metabolism	ko00630	3	11	139	562	MEDN0018;MEDN0201;MEDN0204	C00065+C00042+C00022	https:\\www.genome.jp\dbget-bin\www_bget?map00630
+CRKP_vs_Con	Sulfur metabolism	ko00920	3	7	139	562	MEDN0018;MEDN0201;MEDN0280	C00065+C00042+C00245	https:\\www.genome.jp\dbget-bin\www_bget?map00920
+CRKP_vs_Con	Sphingolipid signaling pathway	ko04071	2	3	139	562	MEDN0018;MEDP0871	C00065+C00836	https:\\www.genome.jp\dbget-bin\www_bget?map04071
+CRKP_vs_Con	Mineral absorption	ko04978	2	9	139	562	MEDN0018;MEDP1144	C00065+C00407	https:\\www.genome.jp\dbget-bin\www_bget?map04978
+CRKP_vs_Con	Pyrimidine metabolism	ko00240	4	15	139	562	MEDN0147;MEDN0335;MEDN0502;MEDP0178	C02376+C02170+C00672+C00106	https:\\www.genome.jp\dbget-bin\www_bget?map00240
+CRKP_vs_Con	Citrate cycle (TCA cycle)	ko00020	2	5	139	562	MEDN0201;MEDN0204	C00042+C00022	https:\\www.genome.jp\dbget-bin\www_bget?map00020
+CRKP_vs_Con	Oxidative phosphorylation	ko00190	1	1	139	562	MEDN0201	C00042	https:\\www.genome.jp\dbget-bin\www_bget?map00190
+CRKP_vs_Con	Lysine degradation	ko00310	1	10	139	562	MEDN0201	C00042	https:\\www.genome.jp\dbget-bin\www_bget?map00310
+CRKP_vs_Con	Pyruvate metabolism	ko00620	2	4	139	562	MEDN0201;MEDN0204	C00042+C00022	https:\\www.genome.jp\dbget-bin\www_bget?map00620
+CRKP_vs_Con	Propanoate metabolism	ko00640	2	5	139	562	MEDN0201;MEDN0335	C00042+C02170	https:\\www.genome.jp\dbget-bin\www_bget?map00640
+CRKP_vs_Con	Butanoate metabolism	ko00650	2	6	139	562	MEDN0201;MEDN0204	C00042+C00022	https:\\www.genome.jp\dbget-bin\www_bget?map00650
+CRKP_vs_Con	GABAergic synapse	ko04727	1	4	139	562	MEDN0201	C00042	https:\\www.genome.jp\dbget-bin\www_bget?map04727
+CRKP_vs_Con	Glucagon signaling pathway	ko04922	2	7	139	562	MEDN0201;MEDN0204	C00042+C00022	https:\\www.genome.jp\dbget-bin\www_bget?map04922
+CRKP_vs_Con	Glycolysis / Gluconeogenesis	ko00010	1	3	139	562	MEDN0204	C00022	https:\\www.genome.jp\dbget-bin\www_bget?map00010
+CRKP_vs_Con	Pentose and glucuronate interconversions	ko00040	1	7	139	562	MEDN0204	C00022	https:\\www.genome.jp\dbget-bin\www_bget?map00040
+CRKP_vs_Con	Ascorbate and aldarate metabolism	ko00053	1	6	139	562	MEDN0204	C00022	https:\\www.genome.jp\dbget-bin\www_bget?map00053
+CRKP_vs_Con	Valine, leucine and isoleucine biosynthesis	ko00290	3	5	139	562	MEDN0204;MEDN1155;MEDP1144	C00022+C00233+C00407	https:\\www.genome.jp\dbget-bin\www_bget?map00290
+CRKP_vs_Con	Arginine and proline metabolism	ko00330	2	15	139	562	MEDN0204;MEDP1741	C00022+C00179	https:\\www.genome.jp\dbget-bin\www_bget?map00330
+CRKP_vs_Con	Taurine and hypotaurine metabolism	ko00430	3	7	139	562	MEDN0204;MEDN0279;MEDN0280	C00022+C00519+C00245	https:\\www.genome.jp\dbget-bin\www_bget?map00430
+CRKP_vs_Con	Phosphonate and phosphinate metabolism	ko00440	1	1	139	562	MEDN0204	C00022	https:\\www.genome.jp\dbget-bin\www_bget?map00440
+CRKP_vs_Con	Thiamine metabolism	ko00730	2	5	139	562	MEDN0204;MEDP1949	C00022+C03373	https:\\www.genome.jp\dbget-bin\www_bget?map00730
+CRKP_vs_Con	Lipoic acid metabolism	ko00785	2	2	139	562	MEDN0204;MEDN1155	C00022+C00233	https:\\www.genome.jp\dbget-bin\www_bget?map00785
+CRKP_vs_Con	Terpenoid backbone biosynthesis	ko00900	1	2	139	562	MEDN0204	C00022	https:\\www.genome.jp\dbget-bin\www_bget?map00900
+CRKP_vs_Con	HIF-1 signaling pathway	ko04066	1	2	139	562	MEDN0204	C00022	https:\\www.genome.jp\dbget-bin\www_bget?map04066
+CRKP_vs_Con	AMPK signaling pathway	ko04152	1	10	139	562	MEDN0204	C00022	https:\\www.genome.jp\dbget-bin\www_bget?map04152
+CRKP_vs_Con	Insulin secretion	ko04911	1	11	139	562	MEDN0204	C00022	https:\\www.genome.jp\dbget-bin\www_bget?map04911
+CRKP_vs_Con	Type II diabetes mellitus	ko04930	1	10	139	562	MEDN0204	C00022	https:\\www.genome.jp\dbget-bin\www_bget?map04930
+CRKP_vs_Con	Insulin resistance	ko04931	1	11	139	562	MEDN0204	C00022	https:\\www.genome.jp\dbget-bin\www_bget?map04931
+CRKP_vs_Con	Diabetic cardiomyopathy	ko05415	1	11	139	562	MEDN0204	C00022	https:\\www.genome.jp\dbget-bin\www_bget?map05415
+CRKP_vs_Con	Circadian entrainment	ko04713	1	2	139	562	MEDN0208	C01598	https:\\www.genome.jp\dbget-bin\www_bget?map04713
+CRKP_vs_Con	Primary bile acid biosynthesis	ko00120	1	7	139	562	MEDN0280	C00245	https:\\www.genome.jp\dbget-bin\www_bget?map00120
+CRKP_vs_Con	Valine, leucine and isoleucine degradation	ko00280	6	8	139	562	MEDN0290;MEDN0335;MEDN1155;MEDN1320;MEDN2009;MEDP1144	C20827+C02170+C00233+C20827+C20827+C00407	https:\\www.genome.jp\dbget-bin\www_bget?map00280
+CRKP_vs_Con	Porphyrin metabolism	ko00860	2	7	139	562	MEDN0622;MEDP1949	C00931+C03373	https:\\www.genome.jp\dbget-bin\www_bget?map00860
+CRKP_vs_Con	Fc epsilon RI signaling pathway	ko04664	1	2	139	562	MEDN1135	C00374	https:\\www.genome.jp\dbget-bin\www_bget?map04664
+CRKP_vs_Con	Pertussis	ko05133	1	3	139	562	MEDN1135	C00374	https:\\www.genome.jp\dbget-bin\www_bget?map05133
+CRKP_vs_Con	Dopaminergic synapse	ko04728	1	4	139	562	MEDN1549	C05582	https:\\www.genome.jp\dbget-bin\www_bget?map04728
+CRKP_vs_Con	Parkinson disease	ko05012	1	3	139	562	MEDN1722	C04599	https:\\www.genome.jp\dbget-bin\www_bget?map05012
+CRKP_vs_Con	Pathways of neurodegeneration - multiple diseases	ko05022	1	2	139	562	MEDN1722	C04599	https:\\www.genome.jp\dbget-bin\www_bget?map05022
+CRKP_vs_Con	Gap junction	ko04540	2	6	139	562	MEDN2310;MEDN2394	C00681+C00681	https:\\www.genome.jp\dbget-bin\www_bget?map04540
+CRKP_vs_Con	Regulation of actin cytoskeleton	ko04810	2	5	139	562	MEDN2310;MEDN2394	C00681+C00681	https:\\www.genome.jp\dbget-bin\www_bget?map04810
+CRKP_vs_Con	Vitamin digestion and absorption	ko04977	3	21	139	562	MEDN2310;MEDN2394;MEDP0242	C00681+C00681+C00153	https:\\www.genome.jp\dbget-bin\www_bget?map04977
+CRKP_vs_Con	Pathogenic Escherichia coli infection	ko05130	2	5	139	562	MEDN2310;MEDN2394	C00681+C00681	https:\\www.genome.jp\dbget-bin\www_bget?map05130
+CRKP_vs_Con	Thyroid hormone synthesis	ko04918	2	4	139	562	MEDP0184;MEDP0186	C02465+C01829	https:\\www.genome.jp\dbget-bin\www_bget?map04918
+CRKP_vs_Con	Thyroid hormone signaling pathway	ko04919	2	3	139	562	MEDP0184;MEDP0186	C02465+C01829	https:\\www.genome.jp\dbget-bin\www_bget?map04919
+CRKP_vs_Con	Autoimmune thyroid disease	ko05320	2	2	139	562	MEDP0184;MEDP0186	C02465+C01829	https:\\www.genome.jp\dbget-bin\www_bget?map05320
+CRKP_vs_Con	Ether lipid metabolism	ko00565	2	2	139	562	MEDP0442;MEDP2841	C00670+C04317	https:\\www.genome.jp\dbget-bin\www_bget?map00565
+CRKP_vs_Con	Biotin metabolism	ko00780	1	5	139	562	MEDP0895	C01909	https:\\www.genome.jp\dbget-bin\www_bget?map00780
+CRKP_vs_Con	Shigellosis	ko05131	1	2	139	562	MEDP1144	C00407	https:\\www.genome.jp\dbget-bin\www_bget?map05131
+CRKP_vs_Con	Fatty acid degradation	ko00071	1	10	139	562	MEDP1397	C02990	https:\\www.genome.jp\dbget-bin\www_bget?map00071
+CRKP_vs_Con	Fatty acid metabolism	ko01212	1	2	139	562	MEDP1397	C02990	https:\\www.genome.jp\dbget-bin\www_bget?map01212
+CRKP_vs_Con	Steroid hormone biosynthesis	ko00140	1	15	139	562	MEDP2059	C04295	https:\\www.genome.jp\dbget-bin\www_bget?map00140
+CRKP_vs_Con	Ovarian steroidogenesis	ko04913	1	9	139	562	MEDP2059	C04295	https:\\www.genome.jp\dbget-bin\www_bget?map04913
+CRKP_vs_KP	Propanoate metabolism	ko00640	1	5	66	562	MEDN2091*004	C05984	https:\\www.genome.jp\dbget-bin\www_bget?map00640
+CRKP_vs_KP	D-Amino acid metabolism	ko00470	5	19	66	562	MEDN1226*010;MEDN0046;MEDN1656;MEDP0011;MEDP0297	C03341+C00064+C00739+C00047+C00431	https:\\www.genome.jp\dbget-bin\www_bget?map00470
+CRKP_vs_KP	Metabolic pathways	ko01100	31	257	66	562	MEDN1226*010;MEDN0124*024;MEDN0089*024;MEDN1701*024;MEDP0026*110;MEDP0298*114;MEDP1246*147;MEDP1203*239;MEDN0010;MEDN0046;MEDN0065;MEDN0434;MEDN0502;MEDN0622;MEDN0807;MEDN1320;MEDN1656;MEDN1695;MEDN2102;MEDN2260;MEDN2326;MEDP0011;MEDP0297;MEDP0313;MEDP0546;MEDP0752;MEDP1247;MEDP1475;MEDP1741;MEDP2719;MEDP2798	C03341+C00230+C00628+C00230+C00183+C02378+C20424+C19831+C00327+C00064+C01005+C02067+C00672+C00931+C06424+C20827+C00739+C00168+C01934+C06046+C11821+C00047+C00431+C00581+C12312+C00123+C20404+C02565+C00179+C08062+C00762	https:\\www.genome.jp\dbget-bin\www_bget?map01100
+CRKP_vs_KP	beta-Alanine metabolism	ko00410	2	13	66	562	MEDN0586*010;MEDN0818*010	C01073+C01073	https:\\www.genome.jp\dbget-bin\www_bget?map00410
+CRKP_vs_KP	Phenylalanine, tyrosine and tryptophan biosynthesis	ko00400	2	6	66	562	MEDN0124*024;MEDN1701*024	C00230+C00230	https:\\www.genome.jp\dbget-bin\www_bget?map00400
+CRKP_vs_KP	Tyrosine metabolism	ko00350	2	16	66	562	MEDN0089*024;MEDN2260	C00628+C06046	https:\\www.genome.jp\dbget-bin\www_bget?map00350
+CRKP_vs_KP	Valine, leucine and isoleucine degradation	ko00280	3	8	66	562	MEDP0026*110;MEDN1320;MEDP0752	C00183+C20827+C00123	https:\\www.genome.jp\dbget-bin\www_bget?map00280
+CRKP_vs_KP	Valine, leucine and isoleucine biosynthesis	ko00290	2	5	66	562	MEDP0026*110;MEDP0752	C00183+C00123	https:\\www.genome.jp\dbget-bin\www_bget?map00290
+CRKP_vs_KP	Pantothenate and CoA biosynthesis	ko00770	1	8	66	562	MEDP0026*110	C00183	https:\\www.genome.jp\dbget-bin\www_bget?map00770
+CRKP_vs_KP	Aminoacyl-tRNA biosynthesis	ko00970	5	17	66	562	MEDP0026*110;MEDN0046;MEDN0065;MEDP0011;MEDP0752	C00183+C00064+C01005+C00047+C00123	https:\\www.genome.jp\dbget-bin\www_bget?map00970
+CRKP_vs_KP	2-Oxocarboxylic acid metabolism	ko01210	3	18	66	562	MEDP0026*110;MEDP0011;MEDP0752	C00183+C00047+C00123	https:\\www.genome.jp\dbget-bin\www_bget?map01210
+CRKP_vs_KP	Biosynthesis of amino acids	ko01230	6	36	66	562	MEDP0026*110;MEDN0010;MEDN0046;MEDN0065;MEDP0011;MEDP0752	C00183+C00327+C00064+C01005+C00047+C00123	https:\\www.genome.jp\dbget-bin\www_bget?map01230
+CRKP_vs_KP	Biosynthesis of cofactors	ko01240	3	36	66	562	MEDP0026*110;MEDN0046;MEDN0622	C00183+C00064+C00931	https:\\www.genome.jp\dbget-bin\www_bget?map01240
+CRKP_vs_KP	ABC transporters	ko02010	11	139	66	562	MEDP0026*110;MEDP1935*147;MEDP2437*147;MEDP2438*147;MEDN0046;MEDP0011;MEDP0752;MEDP1866;MEDP1928;MEDP2327;MEDP2428	C00183+C00107+C00107+C00107+C00064+C00047+C00123+C00098+C00107+C00107+C00107	https:\\www.genome.jp\dbget-bin\www_bget?map02010
+CRKP_vs_KP	Protein digestion and absorption	ko04974	5	19	66	562	MEDP0026*110;MEDN0046;MEDP0011;MEDP0456;MEDP0752	C00183+C00064+C00047+C01746+C00123	https:\\www.genome.jp\dbget-bin\www_bget?map04974
+CRKP_vs_KP	Mineral absorption	ko04978	3	9	66	562	MEDP0026*110;MEDN0046;MEDP0752	C00183+C00064+C00123	https:\\www.genome.jp\dbget-bin\www_bget?map04978
+CRKP_vs_KP	Central carbon metabolism in cancer	ko05230	3	20	66	562	MEDP0026*110;MEDN0046;MEDP0752	C00183+C00064+C00123	https:\\www.genome.jp\dbget-bin\www_bget?map05230
+CRKP_vs_KP	Amino sugar and nucleotide sugar metabolism	ko00520	1	7	66	562	MEDP1246*147	C20424	https:\\www.genome.jp\dbget-bin\www_bget?map00520
+CRKP_vs_KP	Biosynthesis of nucleotide sugars	ko01250	1	7	66	562	MEDP1246*147	C20424	https:\\www.genome.jp\dbget-bin\www_bget?map01250
+CRKP_vs_KP	Glycerophospholipid metabolism	ko00564	2	89	66	562	MEDN1285*215;MEDN0366*215	C04438+C04438	https:\\www.genome.jp\dbget-bin\www_bget?map00564
+CRKP_vs_KP	Thermogenesis	ko04714	16	74	66	562	MEDP1656*264;MEDP1394*264;MEDN1159;MEDN2417;MEDP1380;MEDP1385;MEDP1395;MEDP1398;MEDP1401;MEDP1403;MEDP1405;MEDP1406;MEDP1428;MEDP1528;MEDP1529;MEDP1530	C02301+C02301+C00162+C00162+C02301+C02301+C02301+C02301+C02301+C02301+C02301+C02301+C02301+C02301+C02301+C02301	https:\\www.genome.jp\dbget-bin\www_bget?map04714
+CRKP_vs_KP	Arginine biosynthesis	ko00220	2	9	66	562	MEDN0010;MEDN0046	C00327+C00064	https:\\www.genome.jp\dbget-bin\www_bget?map00220
+CRKP_vs_KP	Purine metabolism	ko00230	2	10	66	562	MEDN0046;MEDN2326	C00064+C11821	https:\\www.genome.jp\dbget-bin\www_bget?map00230
+CRKP_vs_KP	Pyrimidine metabolism	ko00240	3	15	66	562	MEDN0046;MEDN0434;MEDN0502	C00064+C02067+C00672	https:\\www.genome.jp\dbget-bin\www_bget?map00240
+CRKP_vs_KP	Alanine, aspartate and glutamate metabolism	ko00250	1	12	66	562	MEDN0046	C00064	https:\\www.genome.jp\dbget-bin\www_bget?map00250
+CRKP_vs_KP	Glyoxylate and dicarboxylate metabolism	ko00630	2	11	66	562	MEDN0046;MEDN1695	C00064+C00168	https:\\www.genome.jp\dbget-bin\www_bget?map00630
+CRKP_vs_KP	Vitamin B6 metabolism	ko00750	1	2	66	562	MEDN0046	C00064	https:\\www.genome.jp\dbget-bin\www_bget?map00750
+CRKP_vs_KP	Nitrogen metabolism	ko00910	1	1	66	562	MEDN0046	C00064	https:\\www.genome.jp\dbget-bin\www_bget?map00910
+CRKP_vs_KP	Nucleotide metabolism	ko01232	1	10	66	562	MEDN0046	C00064	https:\\www.genome.jp\dbget-bin\www_bget?map01232
+CRKP_vs_KP	Glutamatergic synapse	ko04724	1	2	66	562	MEDN0046	C00064	https:\\www.genome.jp\dbget-bin\www_bget?map04724
+CRKP_vs_KP	GABAergic synapse	ko04727	1	4	66	562	MEDN0046	C00064	https:\\www.genome.jp\dbget-bin\www_bget?map04727
+CRKP_vs_KP	Proximal tubule bicarbonate reclamation	ko04964	1	2	66	562	MEDN0046	C00064	https:\\www.genome.jp\dbget-bin\www_bget?map04964
+CRKP_vs_KP	Glycine, serine and threonine metabolism	ko00260	3	13	66	562	MEDN0065;MEDN1695;MEDP0313	C01005+C00168+C00581	https:\\www.genome.jp\dbget-bin\www_bget?map00260
+CRKP_vs_KP	Cysteine and methionine metabolism	ko00270	1	17	66	562	MEDN0065	C01005	https:\\www.genome.jp\dbget-bin\www_bget?map00270
+CRKP_vs_KP	Carbon metabolism	ko01200	2	16	66	562	MEDN0065;MEDN1695	C01005+C00168	https:\\www.genome.jp\dbget-bin\www_bget?map01200
+CRKP_vs_KP	Tryptophan metabolism	ko00380	1	13	66	562	MEDN0337	C05642	https:\\www.genome.jp\dbget-bin\www_bget?map00380
+CRKP_vs_KP	Biosynthesis of unsaturated fatty acids	ko01040	1	6	66	562	MEDN0394	C16525	https:\\www.genome.jp\dbget-bin\www_bget?map01040
+CRKP_vs_KP	Pentose phosphate pathway	ko00030	1	7	66	562	MEDN0502	C00672	https:\\www.genome.jp\dbget-bin\www_bget?map00030
+CRKP_vs_KP	Porphyrin metabolism	ko00860	1	7	66	562	MEDN0622	C00931	https:\\www.genome.jp\dbget-bin\www_bget?map00860
+CRKP_vs_KP	Fatty acid biosynthesis	ko00061	1	5	66	562	MEDN0807	C06424	https:\\www.genome.jp\dbget-bin\www_bget?map00061
+CRKP_vs_KP	Fatty acid elongation	ko00062	2	9	66	562	MEDN1159;MEDN2417	C00162+C00162	https:\\www.genome.jp\dbget-bin\www_bget?map00062
+CRKP_vs_KP	Fatty acid degradation	ko00071	3	10	66	562	MEDN1159;MEDN2417;MEDP1397	C00162+C00162+C02990	https:\\www.genome.jp\dbget-bin\www_bget?map00071
+CRKP_vs_KP	Glycerolipid metabolism	ko00561	2	16	66	562	MEDN1159;MEDN2417	C00162+C00162	https:\\www.genome.jp\dbget-bin\www_bget?map00561
+CRKP_vs_KP	Efferocytosis	ko04148	2	59	66	562	MEDN1159;MEDN2417	C00162+C00162	https:\\www.genome.jp\dbget-bin\www_bget?map04148
+CRKP_vs_KP	AMPK signaling pathway	ko04152	2	10	66	562	MEDN1159;MEDN2417	C00162+C00162	https:\\www.genome.jp\dbget-bin\www_bget?map04152
+CRKP_vs_KP	Insulin secretion	ko04911	2	11	66	562	MEDN1159;MEDN2417	C00162+C00162	https:\\www.genome.jp\dbget-bin\www_bget?map04911
+CRKP_vs_KP	Adipocytokine signaling pathway	ko04920	2	9	66	562	MEDN1159;MEDN2417	C00162+C00162	https:\\www.genome.jp\dbget-bin\www_bget?map04920
+CRKP_vs_KP	Regulation of lipolysis in adipocytes	ko04923	2	13	66	562	MEDN1159;MEDN2417	C00162+C00162	https:\\www.genome.jp\dbget-bin\www_bget?map04923
+CRKP_vs_KP	Type II diabetes mellitus	ko04930	2	10	66	562	MEDN1159;MEDN2417	C00162+C00162	https:\\www.genome.jp\dbget-bin\www_bget?map04930
+CRKP_vs_KP	Insulin resistance	ko04931	3	11	66	562	MEDN1159;MEDN2417;MEDP0510	C00162+C00162+C02571	https:\\www.genome.jp\dbget-bin\www_bget?map04931
+CRKP_vs_KP	Non-alcoholic fatty liver disease	ko04932	2	9	66	562	MEDN1159;MEDN2417	C00162+C00162	https:\\www.genome.jp\dbget-bin\www_bget?map04932
+CRKP_vs_KP	Fat digestion and absorption	ko04975	2	16	66	562	MEDN1159;MEDN2417	C00162+C00162	https:\\www.genome.jp\dbget-bin\www_bget?map04975
+CRKP_vs_KP	Vitamin digestion and absorption	ko04977	2	21	66	562	MEDN1159;MEDN2417	C00162+C00162	https:\\www.genome.jp\dbget-bin\www_bget?map04977
+CRKP_vs_KP	Cholesterol metabolism	ko04979	2	14	66	562	MEDN1159;MEDN2417	C00162+C00162	https:\\www.genome.jp\dbget-bin\www_bget?map04979
+CRKP_vs_KP	Choline metabolism in cancer	ko05231	2	56	66	562	MEDN1159;MEDN2417	C00162+C00162	https:\\www.genome.jp\dbget-bin\www_bget?map05231
+CRKP_vs_KP	Diabetic cardiomyopathy	ko05415	2	11	66	562	MEDN1159;MEDN2417	C00162+C00162	https:\\www.genome.jp\dbget-bin\www_bget?map05415
+CRKP_vs_KP	alpha-Linolenic acid metabolism	ko00592	1	4	66	562	MEDN1416	C16326	https:\\www.genome.jp\dbget-bin\www_bget?map00592
+CRKP_vs_KP	Lysine degradation	ko00310	3	10	66	562	MEDN1656;MEDP0011;MEDP0297	C00739+C00047+C00431	https:\\www.genome.jp\dbget-bin\www_bget?map00310
+CRKP_vs_KP	Parkinson disease	ko05012	1	3	66	562	MEDN1722	C04599	https:\\www.genome.jp\dbget-bin\www_bget?map05012
+CRKP_vs_KP	Pathways of neurodegeneration - multiple diseases	ko05022	1	2	66	562	MEDN1722	C04599	https:\\www.genome.jp\dbget-bin\www_bget?map05022
+CRKP_vs_KP	Fructose and mannose metabolism	ko00051	1	6	66	562	MEDN2102	C01934	https:\\www.genome.jp\dbget-bin\www_bget?map00051
+CRKP_vs_KP	Biotin metabolism	ko00780	1	5	66	562	MEDP0011	C00047	https:\\www.genome.jp\dbget-bin\www_bget?map00780
+CRKP_vs_KP	Arginine and proline metabolism	ko00330	4	15	66	562	MEDP0297;MEDP0313;MEDP1475;MEDP1741	C00431+C00581+C02565+C00179	https:\\www.genome.jp\dbget-bin\www_bget?map00330
+CRKP_vs_KP	mTOR signaling pathway	ko04150	1	2	66	562	MEDP0752	C00123	https:\\www.genome.jp\dbget-bin\www_bget?map04150
+CRKP_vs_KP	Shigellosis	ko05131	1	2	66	562	MEDP0752	C00123	https:\\www.genome.jp\dbget-bin\www_bget?map05131
+CRKP_vs_KP	Fatty acid metabolism	ko01212	1	2	66	562	MEDP1397	C02990	https:\\www.genome.jp\dbget-bin\www_bget?map01212
+CRKP_vs_KP	Steroid hormone biosynthesis	ko00140	1	15	66	562	MEDP2798	C00762	https:\\www.genome.jp\dbget-bin\www_bget?map00140
+CRKP_vs_KP	Aldosterone-regulated sodium reabsorption	ko04960	1	3	66	562	MEDP2798	C00762	https:\\www.genome.jp\dbget-bin\www_bget?map04960
+CRKP_vs_KP	Pathways in cancer	ko05200	1	13	66	562	MEDP2798	C00762	https:\\www.genome.jp\dbget-bin\www_bget?map05200
+CRKP_vs_KP	Prostate cancer	ko05215	1	5	66	562	MEDP2798	C00762	https:\\www.genome.jp\dbget-bin\www_bget?map05215
+CRKP_vs_KP_vs_Con	D-Amino acid metabolism	ko00470	9	19	158	562	MEDN1226*010;MEDN0009;MEDN0012;MEDN0018;MEDN0046;MEDN1656;MEDP0011;MEDP0020;MEDP0297	C03341+C00049+C00135+C00065+C00064+C00739+C00047+C00073+C00431	https:\\www.genome.jp\dbget-bin\www_bget?map00470
+CRKP_vs_KP_vs_Con	Metabolic pathways	ko01100	62	257	158	562	MEDN1226*010;MEDN0225*020;MEDN0228*020;MEDN1199*028;MEDN0096*028;MEDP0026*110;MEDP0298*114;MEDP0227*128;MEDN1909*186;MEDN2338*186;MEDN0554*186;MEDN0372*210;MEDP1203*239;MEDP2792*272;MEDN0009;MEDN0012;MEDN0018;MEDN0019;MEDN0046;MEDN0065;MEDN0128;MEDN0147;MEDN0163;MEDN0201;MEDN0208;MEDN0280;MEDN0297;MEDN0326;MEDN0335;MEDN0434;MEDN0541;MEDN0622;MEDN0767;MEDN0841;MEDN1504;MEDN1551;MEDN1656;MEDN2102;MEDN2260;MEDN2325;MEDN2326;MEDN2393;MEDN2394;MEDP0011;MEDP0020;MEDP0184;MEDP0186;MEDP0242;MEDP0297;MEDP0313;MEDP0546;MEDP0752;MEDP0871;MEDP1127;MEDP1144;MEDP1273;MEDP1475;MEDP1741;MEDP1949;MEDP2059;MEDP2143;MEDP2719	C03341+C00181+C00259+C03590+C01606+C00183+C02378+C00159+C00156+C00805+C06044+C00416+C19831+C00157+C00049+C00135+C00065+C00078+C00064+C01005+C00755+C02376+C00262+C00042+C01598+C00245+C01127+C00898+C02170+C02067+C05576+C00931+C14826+C02642+C12621+C02835+C00739+C01934+C06046+C16365+C11821+C00681+C00681+C00047+C00073+C02465+C01829+C00153+C00431+C00581+C12312+C00123+C00836+C00637+C00407+C11994+C02565+C00179+C03373+C04295+C06179+C08062	https:\\www.genome.jp\dbget-bin\www_bget?map01100
+CRKP_vs_KP_vs_Con	beta-Alanine metabolism	ko00410	5	13	158	562	MEDN0586*010;MEDN0818*010;MEDN0009;MEDN0012;MEDN0841	C01073+C01073+C00049+C00135+C02642	https:\\www.genome.jp\dbget-bin\www_bget?map00410
+CRKP_vs_KP_vs_Con	Pentose and glucuronate interconversions	ko00040	3	7	158	562	MEDN0225*020;MEDN1931*020;MEDN0228*020	C00181+C01508+C00259	https:\\www.genome.jp\dbget-bin\www_bget?map00040
+CRKP_vs_KP_vs_Con	Amino sugar and nucleotide sugar metabolism	ko00520	3	7	158	562	MEDN0225*020;MEDN0228*020;MEDP0227*128	C00181+C00259+C00159	https:\\www.genome.jp\dbget-bin\www_bget?map00520
+CRKP_vs_KP_vs_Con	ABC transporters	ko02010	36	139	158	562	MEDN0225*020;MEDN0228*020;MEDN0096*028;MEDP0026*110;MEDP0227*128;MEDP2546*135;MEDP2355*135;MEDP2434*138;MEDP2433*138;MEDP1022*153;MEDP2584*153;MEDN1548*199;MEDP2339*243;MEDP2431*245;MEDP0859*245;MEDP2585*251;MEDN0009;MEDN0012;MEDN0018;MEDN0046;MEDN0280;MEDN1910;MEDN1969;MEDP0011;MEDP0078;MEDP0752;MEDP1144;MEDP1512;MEDP1863;MEDP2327;MEDP2383;MEDP2411;MEDP2470;MEDP2494;MEDP2556;MEDP2805	C00181+C00259+C01606+C00183+C00159+C00107+C00107+C00107+C00107+C00107+C00107+C00107+C00107+C00107+C00107+C00107+C00049+C00135+C00065+C00064+C00245+C00107+C00107+C00047+C00107+C00123+C00407+C00107+C00107+C00107+C00107+C00098+C00107+C00107+C00107+C00107	https:\\www.genome.jp\dbget-bin\www_bget?map02010
+CRKP_vs_KP_vs_Con	Ascorbate and aldarate metabolism	ko00053	1	6	158	562	MEDN0228*020	C00259	https:\\www.genome.jp\dbget-bin\www_bget?map00053
+CRKP_vs_KP_vs_Con	Biosynthesis of nucleotide sugars	ko01250	2	7	158	562	MEDN0228*020;MEDP0227*128	C00259+C00159	https:\\www.genome.jp\dbget-bin\www_bget?map01250
+CRKP_vs_KP_vs_Con	Phenylalanine metabolism	ko00360	3	12	158	562	MEDN0061*037;MEDN0201;MEDN1504	C05598+C00042+C12621	https:\\www.genome.jp\dbget-bin\www_bget?map00360
+CRKP_vs_KP_vs_Con	Valine, leucine and isoleucine degradation	ko00280	4	8	158	562	MEDP0026*110;MEDN0335;MEDP0752;MEDP1144	C00183+C02170+C00123+C00407	https:\\www.genome.jp\dbget-bin\www_bget?map00280
+CRKP_vs_KP_vs_Con	Valine, leucine and isoleucine biosynthesis	ko00290	3	5	158	562	MEDP0026*110;MEDP0752;MEDP1144	C00183+C00123+C00407	https:\\www.genome.jp\dbget-bin\www_bget?map00290
+CRKP_vs_KP_vs_Con	Pantothenate and CoA biosynthesis	ko00770	3	8	158	562	MEDP0026*110;MEDN0009;MEDN0841	C00183+C00049+C02642	https:\\www.genome.jp\dbget-bin\www_bget?map00770
+CRKP_vs_KP_vs_Con	Aminoacyl-tRNA biosynthesis	ko00970	11	17	158	562	MEDP0026*110;MEDN0009;MEDN0012;MEDN0018;MEDN0019;MEDN0046;MEDN0065;MEDP0011;MEDP0020;MEDP0752;MEDP1144	C00183+C00049+C00135+C00065+C00078+C00064+C01005+C00047+C00073+C00123+C00407	https:\\www.genome.jp\dbget-bin\www_bget?map00970
+CRKP_vs_KP_vs_Con	2-Oxocarboxylic acid metabolism	ko01210	7	18	158	562	MEDP0026*110;MEDN0009;MEDN0019;MEDP0011;MEDP0020;MEDP0752;MEDP1144	C00183+C00049+C00078+C00047+C00073+C00123+C00407	https:\\www.genome.jp\dbget-bin\www_bget?map01210
+CRKP_vs_KP_vs_Con	Biosynthesis of amino acids	ko01230	11	36	158	562	MEDP0026*110;MEDN0009;MEDN0012;MEDN0018;MEDN0019;MEDN0046;MEDN0065;MEDP0011;MEDP0020;MEDP0752;MEDP1144	C00183+C00049+C00135+C00065+C00078+C00064+C01005+C00047+C00073+C00123+C00407	https:\\www.genome.jp\dbget-bin\www_bget?map01230
+CRKP_vs_KP_vs_Con	Biosynthesis of cofactors	ko01240	10	36	158	562	MEDP0026*110;MEDN1909*186;MEDN0009;MEDN0018;MEDN0019;MEDN0046;MEDN0622;MEDP0020;MEDP0242;MEDP1949	C00183+C00156+C00049+C00065+C00078+C00064+C00931+C00073+C00153+C03373	https:\\www.genome.jp\dbget-bin\www_bget?map01240
+CRKP_vs_KP_vs_Con	Protein digestion and absorption	ko04974	11	19	158	562	MEDP0026*110;MEDN0009;MEDN0012;MEDN0018;MEDN0019;MEDN0046;MEDP0011;MEDP0020;MEDP0456;MEDP0752;MEDP1144	C00183+C00049+C00135+C00065+C00078+C00064+C00047+C00073+C01746+C00123+C00407	https:\\www.genome.jp\dbget-bin\www_bget?map04974
+CRKP_vs_KP_vs_Con	Mineral absorption	ko04978	7	9	158	562	MEDP0026*110;MEDN0018;MEDN0019;MEDN0046;MEDP0020;MEDP0752;MEDP1144	C00183+C00065+C00078+C00064+C00073+C00123+C00407	https:\\www.genome.jp\dbget-bin\www_bget?map04978
+CRKP_vs_KP_vs_Con	Central carbon metabolism in cancer	ko05230	10	20	158	562	MEDP0026*110;MEDN0009;MEDN0012;MEDN0018;MEDN0019;MEDN0046;MEDN0201;MEDP0020;MEDP0752;MEDP1144	C00183+C00049+C00135+C00065+C00078+C00064+C00042+C00073+C00123+C00407	https:\\www.genome.jp\dbget-bin\www_bget?map05230
+CRKP_vs_KP_vs_Con	Fructose and mannose metabolism	ko00051	2	6	158	562	MEDP0227*128;MEDN2102	C00159+C01934	https:\\www.genome.jp\dbget-bin\www_bget?map00051
+CRKP_vs_KP_vs_Con	Galactose metabolism	ko00052	1	7	158	562	MEDP0227*128	C00159	https:\\www.genome.jp\dbget-bin\www_bget?map00052
+CRKP_vs_KP_vs_Con	Lysosome	ko04142	1	2	158	562	MEDP0227*128	C00159	https:\\www.genome.jp\dbget-bin\www_bget?map04142
+CRKP_vs_KP_vs_Con	C-type lectin receptor signaling pathway	ko04625	1	2	158	562	MEDP0227*128	C00159	https:\\www.genome.jp\dbget-bin\www_bget?map04625
+CRKP_vs_KP_vs_Con	Ubiquinone and other terpenoid-quinone biosynthesis	ko00130	1	3	158	562	MEDN1909*186	C00156	https:\\www.genome.jp\dbget-bin\www_bget?map00130
+CRKP_vs_KP_vs_Con	Folate biosynthesis	ko00790	1	1	158	562	MEDN1909*186	C00156	https:\\www.genome.jp\dbget-bin\www_bget?map00790
+CRKP_vs_KP_vs_Con	Bile secretion	ko04976	3	20	158	562	MEDN2338*186;MEDP0184;MEDP0186	C00805+C02465+C01829	https:\\www.genome.jp\dbget-bin\www_bget?map04976
+CRKP_vs_KP_vs_Con	Tyrosine metabolism	ko00350	6	16	158	562	MEDN0554*186;MEDN0201;MEDN0541;MEDN2260;MEDP0184;MEDP0186	C06044+C00042+C05576+C06046+C02465+C01829	https:\\www.genome.jp\dbget-bin\www_bget?map00350
+CRKP_vs_KP_vs_Con	Glycerolipid metabolism	ko00561	3	16	158	562	MEDN0372*210;MEDN2393;MEDN2394	C00416+C00681+C00681	https:\\www.genome.jp\dbget-bin\www_bget?map00561
+CRKP_vs_KP_vs_Con	Glycerophospholipid metabolism	ko00564	43	89	158	562	MEDN0372*210;MEDN1285*215;MEDN0366*215;MEDN2369*217;MEDN1282*217;MEDN2372*221;MEDN1276*221;MEDN1269*225;MEDN1270*225;MEDP0494*269;MEDP1692*269;MEDP1346*272;MEDP0338*272;MEDP2792*272;MEDP0434*273;MEDP2831*273;MEDP1341*275;MEDP0495*275;MEDP1339*276;MEDP1701*276;MEDP1333*280;MEDP1334*280;MEDP1328*282;MEDP1330*282;MEDP2784*285;MEDP1325*285;MEDP1322*286;MEDP1321*286;MEDN0018;MEDN2373;MEDN2384;MEDN2385;MEDN2393;MEDN2394;MEDP0442;MEDP1337;MEDP1695;MEDP2746;MEDP2836;MEDP2840;MEDP2846;MEDP2848;MEDP2849	C00416+C04438+C04438+C04438+C04438+C04438+C04438+C04438+C04438+C04230+C04230+C04230+C04230+C00157+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C00065+C18126+C05974+C05974+C00681+C00681+C00670+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04438	https:\\www.genome.jp\dbget-bin\www_bget?map00564
+CRKP_vs_KP_vs_Con	cAMP signaling pathway	ko04024	2	8	158	562	MEDN0372*210;MEDN0201	C00416+C00042	https:\\www.genome.jp\dbget-bin\www_bget?map04024
+CRKP_vs_KP_vs_Con	Phosphatidylinositol signaling system	ko04070	1	1	158	562	MEDN0372*210	C00416	https:\\www.genome.jp\dbget-bin\www_bget?map04070
+CRKP_vs_KP_vs_Con	Phospholipase D signaling pathway	ko04072	3	8	158	562	MEDN0372*210;MEDN2393;MEDN2394	C00416+C00681+C00681	https:\\www.genome.jp\dbget-bin\www_bget?map04072
+CRKP_vs_KP_vs_Con	Fc gamma R-mediated phagocytosis	ko04666	1	2	158	562	MEDN0372*210	C00416	https:\\www.genome.jp\dbget-bin\www_bget?map04666
+CRKP_vs_KP_vs_Con	GnRH signaling pathway	ko04912	1	3	158	562	MEDN0372*210	C00416	https:\\www.genome.jp\dbget-bin\www_bget?map04912
+CRKP_vs_KP_vs_Con	Fat digestion and absorption	ko04975	3	16	158	562	MEDN0372*210;MEDN2393;MEDN2394	C00416+C00681+C00681	https:\\www.genome.jp\dbget-bin\www_bget?map04975
+CRKP_vs_KP_vs_Con	Pathways in cancer	ko05200	3	13	158	562	MEDN0372*210;MEDN2393;MEDN2394	C00416+C00681+C00681	https:\\www.genome.jp\dbget-bin\www_bget?map05200
+CRKP_vs_KP_vs_Con	Pancreatic cancer	ko05212	1	1	158	562	MEDN0372*210	C00416	https:\\www.genome.jp\dbget-bin\www_bget?map05212
+CRKP_vs_KP_vs_Con	Choline metabolism in cancer	ko05231	28	56	158	562	MEDN0372*210;MEDP0494*269;MEDP1692*269;MEDP1346*272;MEDP0338*272;MEDP2792*272;MEDP0434*273;MEDP2831*273;MEDP1341*275;MEDP0495*275;MEDP1339*276;MEDP1701*276;MEDP1333*280;MEDP1334*280;MEDP1328*282;MEDP1330*282;MEDP2784*285;MEDP1325*285;MEDP1322*286;MEDP1321*286;MEDP0442;MEDP1337;MEDP1695;MEDP2746;MEDP2836;MEDP2840;MEDP2846;MEDP2848	C00416+C04230+C04230+C04230+C04230+C00157+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C00670+C04230+C04230+C04230+C04230+C04230+C04230+C04230	https:\\www.genome.jp\dbget-bin\www_bget?map05231
+CRKP_vs_KP_vs_Con	Thermogenesis	ko04714	24	74	158	562	MEDP1656*264;MEDP1394*264;MEDP1382*266;MEDP0184;MEDP1380;MEDP1381;MEDP1385;MEDP1386;MEDP1389;MEDP1390;MEDP1391;MEDP1395;MEDP1398;MEDP1401;MEDP1403;MEDP1405;MEDP1528;MEDP1529;MEDP1530;MEDP2861;MEDP2866;MEDP2867;MEDP2868;MEDP2869	C02301+C02301+C02301+C02465+C02301+C02301+C02301+C02301+C02301+C02301+C02301+C02301+C02301+C02301+C02301+C02301+C02301+C02301+C02301+C02301+C02301+C02301+C02301+C02301	https:\\www.genome.jp\dbget-bin\www_bget?map04714
+CRKP_vs_KP_vs_Con	Efferocytosis	ko04148	26	59	158	562	MEDP0494*269;MEDP1692*269;MEDP1346*272;MEDP0338*272;MEDP0434*273;MEDP2831*273;MEDP1341*275;MEDP0495*275;MEDP1339*276;MEDP1701*276;MEDP1333*280;MEDP1334*280;MEDP1328*282;MEDP1330*282;MEDP2784*285;MEDP1325*285;MEDP1322*286;MEDP1321*286;MEDP0020;MEDP1337;MEDP1695;MEDP2746;MEDP2836;MEDP2840;MEDP2846;MEDP2848	C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C04230+C00073+C04230+C04230+C04230+C04230+C04230+C04230+C04230	https:\\www.genome.jp\dbget-bin\www_bget?map04148
+CRKP_vs_KP_vs_Con	Arachidonic acid metabolism	ko00590	1	7	158	562	MEDP2792*272	C00157	https:\\www.genome.jp\dbget-bin\www_bget?map00590
+CRKP_vs_KP_vs_Con	Linoleic acid metabolism	ko00591	2	9	158	562	MEDP2792*272;MEDN0767	C00157+C14826	https:\\www.genome.jp\dbget-bin\www_bget?map00591
+CRKP_vs_KP_vs_Con	alpha-Linolenic acid metabolism	ko00592	2	4	158	562	MEDP2792*272;MEDN1416	C00157+C16326	https:\\www.genome.jp\dbget-bin\www_bget?map00592
+CRKP_vs_KP_vs_Con	Retrograde endocannabinoid signaling	ko04723	1	4	158	562	MEDP2792*272	C00157	https:\\www.genome.jp\dbget-bin\www_bget?map04723
+CRKP_vs_KP_vs_Con	Arginine biosynthesis	ko00220	2	9	158	562	MEDN0009;MEDN0046	C00049+C00064	https:\\www.genome.jp\dbget-bin\www_bget?map00220
+CRKP_vs_KP_vs_Con	Alanine, aspartate and glutamate metabolism	ko00250	3	12	158	562	MEDN0009;MEDN0046;MEDN0201	C00049+C00064+C00042	https:\\www.genome.jp\dbget-bin\www_bget?map00250
+CRKP_vs_KP_vs_Con	Glycine, serine and threonine metabolism	ko00260	5	13	158	562	MEDN0009;MEDN0018;MEDN0019;MEDN0065;MEDP0313	C00049+C00065+C00078+C01005+C00581	https:\\www.genome.jp\dbget-bin\www_bget?map00260
+CRKP_vs_KP_vs_Con	Cysteine and methionine metabolism	ko00270	4	17	158	562	MEDN0009;MEDN0018;MEDN0065;MEDP0020	C00049+C00065+C01005+C00073	https:\\www.genome.jp\dbget-bin\www_bget?map00270
+CRKP_vs_KP_vs_Con	Histidine metabolism	ko00340	3	8	158	562	MEDN0009;MEDN0012;MEDN1551	C00049+C00135+C02835	https:\\www.genome.jp\dbget-bin\www_bget?map00340
+CRKP_vs_KP_vs_Con	Nicotinate and nicotinamide metabolism	ko00760	3	14	158	562	MEDN0009;MEDN0201;MEDP0242	C00049+C00042+C00153	https:\\www.genome.jp\dbget-bin\www_bget?map00760
+CRKP_vs_KP_vs_Con	Carbon metabolism	ko01200	4	16	158	562	MEDN0009;MEDN0018;MEDN0065;MEDN0201	C00049+C00065+C01005+C00042	https:\\www.genome.jp\dbget-bin\www_bget?map01200
+CRKP_vs_KP_vs_Con	Neuroactive ligand-receptor interaction	ko04080	8	20	158	562	MEDN0009;MEDN0208;MEDN0280;MEDN2393;MEDN2394;MEDP0184;MEDP0186;MEDP1795	C00049+C01598+C00245+C00681+C00681+C02465+C01829+C16512	https:\\www.genome.jp\dbget-bin\www_bget?map04080
+CRKP_vs_KP_vs_Con	Sphingolipid metabolism	ko00600	2	3	158	562	MEDN0018;MEDP0871	C00065+C00836	https:\\www.genome.jp\dbget-bin\www_bget?map00600
+CRKP_vs_KP_vs_Con	Glyoxylate and dicarboxylate metabolism	ko00630	5	11	158	562	MEDN0018;MEDN0046;MEDN0201;MEDN0297;MEDN0326	C00065+C00064+C00042+C01127+C00898	https:\\www.genome.jp\dbget-bin\www_bget?map00630
+CRKP_vs_KP_vs_Con	Sulfur metabolism	ko00920	3	7	158	562	MEDN0018;MEDN0201;MEDN0280	C00065+C00042+C00245	https:\\www.genome.jp\dbget-bin\www_bget?map00920
+CRKP_vs_KP_vs_Con	Sphingolipid signaling pathway	ko04071	2	3	158	562	MEDN0018;MEDP0871	C00065+C00836	https:\\www.genome.jp\dbget-bin\www_bget?map04071
+CRKP_vs_KP_vs_Con	Tryptophan metabolism	ko00380	4	13	158	562	MEDN0019;MEDN0208;MEDN0337;MEDP1127	C00078+C01598+C05642+C00637	https:\\www.genome.jp\dbget-bin\www_bget?map00380
+CRKP_vs_KP_vs_Con	Phenylalanine, tyrosine and tryptophan biosynthesis	ko00400	1	6	158	562	MEDN0019	C00078	https:\\www.genome.jp\dbget-bin\www_bget?map00400
+CRKP_vs_KP_vs_Con	Serotonergic synapse	ko04726	1	6	158	562	MEDN0019	C00078	https:\\www.genome.jp\dbget-bin\www_bget?map04726
+CRKP_vs_KP_vs_Con	African trypanosomiasis	ko05143	1	1	158	562	MEDN0019	C00078	https:\\www.genome.jp\dbget-bin\www_bget?map05143
+CRKP_vs_KP_vs_Con	Purine metabolism	ko00230	4	10	158	562	MEDN0046;MEDN0163;MEDN2326;MEDP1949	C00064+C00262+C11821+C03373	https:\\www.genome.jp\dbget-bin\www_bget?map00230
+CRKP_vs_KP_vs_Con	Pyrimidine metabolism	ko00240	5	15	158	562	MEDN0046;MEDN0147;MEDN0335;MEDN0434;MEDN0841	C00064+C02376+C02170+C02067+C02642	https:\\www.genome.jp\dbget-bin\www_bget?map00240
+CRKP_vs_KP_vs_Con	Vitamin B6 metabolism	ko00750	1	2	158	562	MEDN0046	C00064	https:\\www.genome.jp\dbget-bin\www_bget?map00750
+CRKP_vs_KP_vs_Con	Nitrogen metabolism	ko00910	1	1	158	562	MEDN0046	C00064	https:\\www.genome.jp\dbget-bin\www_bget?map00910
+CRKP_vs_KP_vs_Con	Nucleotide metabolism	ko01232	2	10	158	562	MEDN0046;MEDN0163	C00064+C00262	https:\\www.genome.jp\dbget-bin\www_bget?map01232
+CRKP_vs_KP_vs_Con	Glutamatergic synapse	ko04724	1	2	158	562	MEDN0046	C00064	https:\\www.genome.jp\dbget-bin\www_bget?map04724
+CRKP_vs_KP_vs_Con	GABAergic synapse	ko04727	2	4	158	562	MEDN0046;MEDN0201	C00064+C00042	https:\\www.genome.jp\dbget-bin\www_bget?map04727
+CRKP_vs_KP_vs_Con	Proximal tubule bicarbonate reclamation	ko04964	1	2	158	562	MEDN0046	C00064	https:\\www.genome.jp\dbget-bin\www_bget?map04964
+CRKP_vs_KP_vs_Con	Citrate cycle (TCA cycle)	ko00020	1	5	158	562	MEDN0201	C00042	https:\\www.genome.jp\dbget-bin\www_bget?map00020
+CRKP_vs_KP_vs_Con	Oxidative phosphorylation	ko00190	1	1	158	562	MEDN0201	C00042	https:\\www.genome.jp\dbget-bin\www_bget?map00190
+CRKP_vs_KP_vs_Con	Lysine degradation	ko00310	4	10	158	562	MEDN0201;MEDN1656;MEDP0011;MEDP0297	C00042+C00739+C00047+C00431	https:\\www.genome.jp\dbget-bin\www_bget?map00310
+CRKP_vs_KP_vs_Con	Pyruvate metabolism	ko00620	1	4	158	562	MEDN0201	C00042	https:\\www.genome.jp\dbget-bin\www_bget?map00620
+CRKP_vs_KP_vs_Con	Propanoate metabolism	ko00640	2	5	158	562	MEDN0201;MEDN0335	C00042+C02170	https:\\www.genome.jp\dbget-bin\www_bget?map00640
+CRKP_vs_KP_vs_Con	Butanoate metabolism	ko00650	1	6	158	562	MEDN0201	C00042	https:\\www.genome.jp\dbget-bin\www_bget?map00650
+CRKP_vs_KP_vs_Con	Glucagon signaling pathway	ko04922	1	7	158	562	MEDN0201	C00042	https:\\www.genome.jp\dbget-bin\www_bget?map04922
+CRKP_vs_KP_vs_Con	Circadian entrainment	ko04713	1	2	158	562	MEDN0208	C01598	https:\\www.genome.jp\dbget-bin\www_bget?map04713
+CRKP_vs_KP_vs_Con	Primary bile acid biosynthesis	ko00120	1	7	158	562	MEDN0280	C00245	https:\\www.genome.jp\dbget-bin\www_bget?map00120
+CRKP_vs_KP_vs_Con	Taurine and hypotaurine metabolism	ko00430	1	7	158	562	MEDN0280	C00245	https:\\www.genome.jp\dbget-bin\www_bget?map00430
+CRKP_vs_KP_vs_Con	Biosynthesis of unsaturated fatty acids	ko01040	1	6	158	562	MEDN0394	C16525	https:\\www.genome.jp\dbget-bin\www_bget?map01040
+CRKP_vs_KP_vs_Con	Porphyrin metabolism	ko00860	2	7	158	562	MEDN0622;MEDP1949	C00931+C03373	https:\\www.genome.jp\dbget-bin\www_bget?map00860
+CRKP_vs_KP_vs_Con	Fc epsilon RI signaling pathway	ko04664	1	2	158	562	MEDN1135	C00374	https:\\www.genome.jp\dbget-bin\www_bget?map04664
+CRKP_vs_KP_vs_Con	Pertussis	ko05133	1	3	158	562	MEDN1135	C00374	https:\\www.genome.jp\dbget-bin\www_bget?map05133
+CRKP_vs_KP_vs_Con	Parkinson disease	ko05012	1	3	158	562	MEDN1722	C04599	https:\\www.genome.jp\dbget-bin\www_bget?map05012
+CRKP_vs_KP_vs_Con	Pathways of neurodegeneration - multiple diseases	ko05022	1	2	158	562	MEDN1722	C04599	https:\\www.genome.jp\dbget-bin\www_bget?map05022
+CRKP_vs_KP_vs_Con	Caffeine metabolism	ko00232	1	8	158	562	MEDN2325	C16365	https:\\www.genome.jp\dbget-bin\www_bget?map00232
+CRKP_vs_KP_vs_Con	Gap junction	ko04540	2	6	158	562	MEDN2393;MEDN2394	C00681+C00681	https:\\www.genome.jp\dbget-bin\www_bget?map04540
+CRKP_vs_KP_vs_Con	Regulation of actin cytoskeleton	ko04810	2	5	158	562	MEDN2393;MEDN2394	C00681+C00681	https:\\www.genome.jp\dbget-bin\www_bget?map04810
+CRKP_vs_KP_vs_Con	Vitamin digestion and absorption	ko04977	3	21	158	562	MEDN2393;MEDN2394;MEDP0242	C00681+C00681+C00153	https:\\www.genome.jp\dbget-bin\www_bget?map04977
+CRKP_vs_KP_vs_Con	Pathogenic Escherichia coli infection	ko05130	2	5	158	562	MEDN2393;MEDN2394	C00681+C00681	https:\\www.genome.jp\dbget-bin\www_bget?map05130
+CRKP_vs_KP_vs_Con	Biotin metabolism	ko00780	1	5	158	562	MEDP0011	C00047	https:\\www.genome.jp\dbget-bin\www_bget?map00780
+CRKP_vs_KP_vs_Con	Antifolate resistance	ko01523	1	3	158	562	MEDP0020	C00073	https:\\www.genome.jp\dbget-bin\www_bget?map01523
+CRKP_vs_KP_vs_Con	Cobalamin transport and metabolism	ko04980	1	2	158	562	MEDP0020	C00073	https:\\www.genome.jp\dbget-bin\www_bget?map04980
+CRKP_vs_KP_vs_Con	Thyroid hormone synthesis	ko04918	2	4	158	562	MEDP0184;MEDP0186	C02465+C01829	https:\\www.genome.jp\dbget-bin\www_bget?map04918
+CRKP_vs_KP_vs_Con	Thyroid hormone signaling pathway	ko04919	2	3	158	562	MEDP0184;MEDP0186	C02465+C01829	https:\\www.genome.jp\dbget-bin\www_bget?map04919
+CRKP_vs_KP_vs_Con	Autoimmune thyroid disease	ko05320	2	2	158	562	MEDP0184;MEDP0186	C02465+C01829	https:\\www.genome.jp\dbget-bin\www_bget?map05320
+CRKP_vs_KP_vs_Con	Arginine and proline metabolism	ko00330	4	15	158	562	MEDP0297;MEDP0313;MEDP1475;MEDP1741	C00431+C00581+C02565+C00179	https:\\www.genome.jp\dbget-bin\www_bget?map00330
+CRKP_vs_KP_vs_Con	Ether lipid metabolism	ko00565	1	2	158	562	MEDP0442	C00670	https:\\www.genome.jp\dbget-bin\www_bget?map00565
+CRKP_vs_KP_vs_Con	mTOR signaling pathway	ko04150	1	2	158	562	MEDP0752	C00123	https:\\www.genome.jp\dbget-bin\www_bget?map04150
+CRKP_vs_KP_vs_Con	Shigellosis	ko05131	2	2	158	562	MEDP0752;MEDP1144	C00123+C00407	https:\\www.genome.jp\dbget-bin\www_bget?map05131
+CRKP_vs_KP_vs_Con	Fatty acid degradation	ko00071	1	10	158	562	MEDP1397	C02990	https:\\www.genome.jp\dbget-bin\www_bget?map00071
+CRKP_vs_KP_vs_Con	Fatty acid metabolism	ko01212	1	2	158	562	MEDP1397	C02990	https:\\www.genome.jp\dbget-bin\www_bget?map01212
+CRKP_vs_KP_vs_Con	Thiamine metabolism	ko00730	1	5	158	562	MEDP1949	C03373	https:\\www.genome.jp\dbget-bin\www_bget?map00730
+CRKP_vs_KP_vs_Con	Steroid hormone biosynthesis	ko00140	1	15	158	562	MEDP2059	C04295	https:\\www.genome.jp\dbget-bin\www_bget?map00140
+CRKP_vs_KP_vs_Con	Ovarian steroidogenesis	ko04913	1	9	158	562	MEDP2059	C04295	https:\\www.genome.jp\dbget-bin\www_bget?map04913
