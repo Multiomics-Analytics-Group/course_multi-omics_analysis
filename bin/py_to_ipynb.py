@@ -83,12 +83,17 @@ def to_notebook(text: str) -> dict:
 
 
 def convert(path: Path) -> Path:
+    path = path.resolve()
     nb = to_notebook(path.read_text())
     out = path.with_suffix(".ipynb")
     out.write_text(json.dumps(nb, indent=1, ensure_ascii=False) + "\n")
     n_md = sum(c["cell_type"] == "markdown" for c in nb["cells"])
     n_code = sum(c["cell_type"] == "code" for c in nb["cells"])
-    print(f"  {out.relative_to(ROOT)}  ({n_md} markdown + {n_code} code cells)")
+    try:
+        shown = out.relative_to(ROOT)
+    except ValueError:  # a source outside the repository
+        shown = out
+    print(f"  {shown}  ({n_md} markdown + {n_code} code cells)")
     return out
 
 
