@@ -1,0 +1,31 @@
+# Core scientific Python
+jupyter
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+plotly
+scikit-learn
+
+# Omics analysis, visualisation and reporting (DTU Biosustain / NNF BRIGHT)
+acore
+vuecore
+vuegen
+pingouin<0.6.0
+
+# Networks
+networkx
+python-louvain
+pyvis
+
+# Multi-omics integration
+snfpy
+mofapy2
+mofax
+
+# Mass-spectrometry file handling
+pyopenms
+
+# Spreadsheet input (supplementary tables of the paper)
+openpyxl

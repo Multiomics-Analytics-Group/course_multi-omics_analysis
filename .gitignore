@@ -1,3 +1,60 @@
+# --- Large raw mass-spectrometry data -----------------------------------------
+# Not tracked: download from PXD075261 (proteomics) and MTBLS14016 (metabolomics).
+# See material/datasets.md and metabolomics/data/raw/download.sh.
+*.d.zip
+*.d/
+*.raw
+*.wiff
+*.wiff.scan
+
+# Raw metabolomics mzML: fetched from MetaboLights by the notebook, or by
+# metabolomics/data/raw/download.sh.
+*.mzML
+metabolomics/data/raw/metadata-files_*.zip
+proteomics/database/*.fasta
+proteomics/database/*.fasta.gz
+
+# --- Pipeline and notebook output --------------------------------------------
+work/
+.nextflow*
+results/
+results_dia*/
+*/results/
+*/report/
+multiomics/results/
+metabolomics/data/MTBLS*/*.mzML
+mofa_model.hdf5
+
+# --- Slide build artefacts ----------------------------------------------------
+slides/*.pdf
+!slides/01_Intro.pdf
+!slides/02_open_science.pdf
+slides/slide-*.jpg
+slides/s[0-9]*.jpg
+slides/thumbnails*.jpg
+
+# --- Python / Jupyter ---------------------------------------------------------
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# Redundant archive: the same content is unpacked under publication/supplementary/
+publication/data sheet 1.zip
+
+# --- Housekeeping -------------------------------------------------------------
+_to_delete/
+_transfer.tar.gz
+
+# --- Editors and operating systems -------------------------------------------
+.DS_Store
+.history/
+.vscode/*
+!.vscode/settings.json
+.idea/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
