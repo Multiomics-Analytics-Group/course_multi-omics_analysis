@@ -116,6 +116,21 @@ def main() -> None:
     print(f"wrote {out.relative_to(ROOT)}: {sdrf.shape[0]} runs x {sdrf.shape[1]} columns")
     print(sdrf["factor value[disease]"].value_counts().to_string())
 
+    # A three-sample subset, one per group, matching the raw files kept locally. Running the
+    # pipeline needs the files themselves, and 45 x 2.4 GB is not a download most people want;
+    # this subset makes the production command runnable on a laptop.
+    subset_ids = ["Con10", "KP15", "CRKP12"]
+    subset = sdrf[sdrf["source name"].isin(subset_ids)].copy()
+    subset["assay name"] = [f"run {i}" for i in range(1, len(subset) + 1)]
+    out_subset = ROOT / "proteomics" / "data" / "PXD075261_subset.sdrf.tsv"
+    subset.to_csv(out_subset, sep="\t", index=False)
+    print(f"\nwrote {out_subset.relative_to(ROOT)}: {subset.shape[0]} runs "
+          f"({', '.join(subset['source name'])})")
+
+    missing = [s for s in subset_ids if s not in set(sdrf["source name"])]
+    if missing:
+        print(f"  ! subset ids not found in the full SDRF: {missing}")
+
 
 if __name__ == "__main__":
     main()
