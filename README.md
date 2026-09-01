@@ -83,10 +83,8 @@ real data traps the class will meet — is in [`material/datasets.md`](material/
 | 10:30–11:00 | [Open Science](slides/02_open_science.pdf) |
 | 11:00–11:30 | [Standardising Omics Workflows with Nextflow](https://docs.google.com/presentation/d/1Yb4V7lbIZXXZOUu0aVemfjxe3syo4sAugan0b_IwKBA/edit?usp=sharing) |
 | 11:30–12:30 | 🍽️ Lunch |
-| 12:30–13:00 | [Introduction to Python I](https://colab.research.google.com/github/Multiomics-Analytics-Group/course_multi-omics_analysis/blob/main/notebooks/01_Introduction_to_Python/01_basics.ipynb) |
-| 13:00–13:30 | [Introduction to Python II](https://colab.research.google.com/github/Multiomics-Analytics-Group/course_multi-omics_analysis/blob/main/notebooks/01_Introduction_to_Python/01_basics.ipynb) |
-| 13:30–14:00 | [Working with Data in Python I](https://colab.research.google.com/github/Multiomics-Analytics-Group/course_multi-omics_analysis/blob/main/notebooks/02_Working_with_Data_in_Python/02_pandas.ipynb) |
-| 14:00–14:30 | [Working with Data in Python II](https://colab.research.google.com/github/Multiomics-Analytics-Group/course_multi-omics_analysis/blob/main/notebooks/02_Working_with_Data_in_Python/02_pandas.ipynb) |
+| 12:30–13:30 | [Introduction to Python](https://colab.research.google.com/github/Multiomics-Analytics-Group/course_multi-omics_analysis/blob/main/notebooks/01_Introduction_to_Python/01_basics.ipynb) |
+| 13:30–14:30 | [Working with Data in Python](https://colab.research.google.com/github/Multiomics-Analytics-Group/course_multi-omics_analysis/blob/main/notebooks/02_Working_with_Data_in_Python/02_pandas.ipynb) |
 | 14:30–15:00 | ☕ Coffee break |
 | 15:00–16:00 | [Visualizing Data in Python](https://colab.research.google.com/github/Multiomics-Analytics-Group/course_multi-omics_analysis/blob/main/notebooks/04_Visualizing_Data_in_Python/05_viz.ipynb) |
 
