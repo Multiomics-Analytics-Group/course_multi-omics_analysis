@@ -77,7 +77,7 @@ real data traps the class will meet — is in [`material/datasets.md`](material/
 
 | Time | Session |
 |---|---|
-| 9:00–9:30 | [Introduction and Housekeeping](slides/01_Intro.pdf) |
+| 9:00–9:30 | [Introduction and Housekeeping](https://docs.google.com/presentation/d/1CSuSiFJPObM6AYGVZBzWlMrKz3N9YHjv2UN8fIuR1lY/edit?usp=drive_link) |
 | 9:30–10:00 | [From Omics to Multi-omics](https://docs.google.com/presentation/d/1ZU5wpnlEanIw0I-tX-U9MXesf0ddkbjAp56VHWiIlyk/edit?usp=sharing) |
 | 10:00–10:30 | ☕ Coffee break |
 | 10:30–11:00 | [Open Science](slides/02_open_science.pdf) |
