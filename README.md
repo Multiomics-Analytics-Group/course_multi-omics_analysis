@@ -57,7 +57,7 @@ integration on Day 3 possible rather than decorative:
 
 | | Proteomics | Metabolomics |
 |---|---|---|
-| Repository | [PXD075261](https://proteomecentral.proteomexchange.org/) (ProteomeXchange / iProX) | [MTBLS14016](https://www.ebi.ac.uk/metabolights/MTBLS14016) (MetaboLights) |
+| Repository | [PXD075261](https://www.iprox.cn//page/SCV017.html?query=PXD075261) (ProteomeXchange / iProX) | [MTBLS14016](https://www.ebi.ac.uk/metabolights/MTBLS14016) (MetaboLights) |
 | Instrument | timsTOF Pro (Bruker) | QTRAP 6500 (SCIEX) |
 | Acquisition | diaPASEF, data-independent | MRM, targeted, ± ionisation |
 | Processing | DIA-NN 1.9.2, library-free, MaxLFQ | Vendor MRM integration |
