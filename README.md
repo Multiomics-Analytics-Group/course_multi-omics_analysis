@@ -77,11 +77,11 @@ real data traps the class will meet — is in [`material/datasets.md`](material/
 
 | Time | Session |
 |---|---|
-| 9:00–9:30 | [Introduction and Housekeeping](https://docs.google.com/presentation/d/1CSuSiFJPObM6AYGVZBzWlMrKz3N9YHjv2UN8fIuR1lY/edit?usp=drive_link) |
-| 9:30–10:00 | [From Omics to Multi-omics](https://docs.google.com/presentation/d/1ZU5wpnlEanIw0I-tX-U9MXesf0ddkbjAp56VHWiIlyk/edit?usp=sharing) |
+| 9:00–9:30 | [Introduction and Housekeeping](https://docs.google.com/presentation/d/103YXIsWGZLlIsAvBK6gHcY82OLlPnIa2B6abNOB6OXg/edit?usp=drive_link) |
+| 9:30–10:00 | [From Omics to Multi-omics](https://docs.google.com/presentation/d/1CSuSiFJPObM6AYGVZBzWlMrKz3N9YHjv2UN8fIuR1lY/edit?usp=drive_link) |
 | 10:00–10:30 | ☕ Coffee break |
-| 10:30–11:00 | [Open Science](slides/02_open_science.pdf) |
-| 11:00–11:30 | [Standardising Omics Workflows with Nextflow](https://docs.google.com/presentation/d/1Yb4V7lbIZXXZOUu0aVemfjxe3syo4sAugan0b_IwKBA/edit?usp=sharing) |
+| 10:30–11:00 | [Open Science](https://docs.google.com/presentation/d/1djKrTmq4mgnVOgrWPrqJSvtWkepLgBzhxiqsJvJ4Gsw/edit?usp=drive_link) |
+| 11:00–11:30 | [Standardising Omics Workflows with Nextflow](https://docs.google.com/presentation/d/1FLS4FxAUS-3Gae_9N4xRPksSiO7ZNWqFffPfZfk43Xg/edit?usp=drive_link) |
 | 11:30–12:30 | 🍽️ Lunch |
 | 12:30–13:30 | [Introduction to Python](https://colab.research.google.com/github/Multiomics-Analytics-Group/course_multi-omics_analysis/blob/main/notebooks/01_Introduction_to_Python/01_basics.ipynb) |
 | 13:30–14:30 | [Working with Data in Python](https://colab.research.google.com/github/Multiomics-Analytics-Group/course_multi-omics_analysis/blob/main/notebooks/02_Working_with_Data_in_Python/02_pandas.ipynb) |
