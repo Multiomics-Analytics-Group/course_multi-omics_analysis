@@ -106,7 +106,7 @@ real data traps the class will meet — is in [`material/datasets.md`](material/
 | 9:00–9:30 | [Metabolomics Basic Analysis](https://colab.research.google.com/github/Multiomics-Analytics-Group/course_multi-omics_analysis/blob/main/metabolomics/notebooks/02_metabolomics_analysis.ipynb) |
 | 9:30–10:00 | [Introduction to Networks in Python](https://colab.research.google.com/github/Multiomics-Analytics-Group/course_multi-omics_analysis/blob/main/notebooks/05_Visualising_Networks/03_nx.ipynb) |
 | 10:00–10:15 | ☕ Coffee break |
-| 10:15–10:45 | [Introduction to Networks in Python](https://colab.research.google.com/github/Multiomics-Analytics-Group/course_multi-omics_analysis/blob/main/notebooks/05_Visualising_Networks/03_nx.ipynb) |
+| 10:15–10:45 | [Networks in Python — Co-abundance Practical](https://colab.research.google.com/github/Multiomics-Analytics-Group/course_multi-omics_analysis/blob/main/notebooks/05_Visualising_Networks/04_nxpandas.ipynb) |
 | 10:45–11:15 | [Visualising Networks — Cytoscape](material/cytoscape.md) |
 | 11:15–12:15 | 🍽️ Lunch |
 | 12:15–13:15 | [Multi-omics](https://docs.google.com/presentation/d/1xbuNIp87tWDQmaQDzW9EzzN6lJVNWfsY3wbTByngbEI/edit?usp=sharing) |
