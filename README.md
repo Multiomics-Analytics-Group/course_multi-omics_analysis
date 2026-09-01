@@ -1,6 +1,6 @@
 <p align="center">
   <img src="figures/dtu.png" width="300">
-  <img src="figures/UdeA.svg" width="300">
+  <img src="figures/UdeA.svg" width="150">
 </p>
 
 # 🧬 Multi-omics Data Analysis
