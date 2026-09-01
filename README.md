@@ -71,8 +71,6 @@ real data traps the class will meet — is in [`material/datasets.md`](material/
 
 ## 📅 Syllabus
 
-> Each day now runs its own timetable (session content was rebalanced across days), so times are listed separately below. Day 1 keeps standard 30-minute coffee breaks; Days 2 and 3 use shortened 15-minute breaks to fit the compressed schedule. Lunch is 60 minutes on all days.
-
 ### Day 1
 
 | Time | Session |
