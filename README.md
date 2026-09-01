@@ -153,8 +153,11 @@ jupyter lab
 
 Two sessions need more than Python:
 
-- **Nextflow pipelines** (Day 2 morning) need Java, Nextflow and a container engine. The
-  notebooks install them and detect what is available; see
+- **Nextflow pipelines** (Day 2 morning) need Java and Nextflow either way. The
+  proteomics pipeline (`quantmsdiann`) additionally needs a container engine
+  (Docker, or Apptainer with a Colab-specific `--fakeroot` fix); the metabolomics
+  pipeline (`metaboigniter`) uses Conda instead and needs no container engine. Each
+  notebook installs what it needs; see
   [`material/nextflow_setup.md`](material/nextflow_setup.md) for what to do when a Colab
   runtime will not cooperate.
 - **Cytoscape** (Day 3 morning) is a desktop application — install it beforehand from
