@@ -59,7 +59,7 @@ integration on Day 3 possible rather than decorative:
 |---|---|---|
 | Repository | [PXD075261](https://proteomecentral.proteomexchange.org/) (ProteomeXchange / iProX) | [MTBLS14016](https://www.ebi.ac.uk/metabolights/MTBLS14016) (MetaboLights) |
 | Instrument | timsTOF Pro (Bruker) | QTRAP 6500 (SCIEX) |
-| Acquisition | diaPASEF, data-independent | MRM, widely targeted, ± ionisation |
+| Acquisition | diaPASEF, data-independent | MRM, targeted, ± ionisation |
 | Processing | DIA-NN 1.9.2, library-free, MaxLFQ | Vendor MRM integration |
 | Features | 1 458 protein groups | 1 073 named metabolites |
 | Quality control | 3 pooled injections | 6 pooled injections |
@@ -93,48 +93,29 @@ real data traps the class will meet — is in [`material/datasets.md`](material/
 | Time | Session |
 |---|---|
 | 9:00–10:00 | [Omics: Proteomics and Metabolomics](slides/04_Omics_Proteomics_and_Metabolomics.pptx) |
-| 10:00–11:30 | [Preprocessing Proteomics with quantms/DIA-NN](https://colab.research.google.com/github/Multiomics-Analytics-Group/course_multi-omics_analysis/blob/main/proteomics/notebooks/01_proteomics_preprocessing_quantmsdiann.ipynb) |
-| 11:30–11:45 | ☕ Coffee break |
-| 11:45–13:15 | [Preprocessing Metabolomics with nf-core/metaboigniter](https://colab.research.google.com/github/Multiomics-Analytics-Group/course_multi-omics_analysis/blob/main/metabolomics/notebooks/01_metabolomics_preprocessing_metaboigniter.ipynb) |
-| 13:15–14:15 | 🍽️ Lunch |
-| 14:15–16:00 | [Proteomics Basic Analysis](https://colab.research.google.com/github/Multiomics-Analytics-Group/course_multi-omics_analysis/blob/main/proteomics/notebooks/02_proteomics_analysis.ipynb) |
+| 10:00–10:30 | ☕ Coffee break |
+| 10:30–12:00 | [Preprocessing Proteomics with quantms/DIA-NN](https://colab.research.google.com/github/Multiomics-Analytics-Group/course_multi-omics_analysis/blob/main/proteomics/notebooks/01_proteomics_preprocessing_quantmsdiann.ipynb) |
+| 12:00–13:00 | 🍽️ Lunch |
+| 13:00–14:30 | [Preprocessing Metabolomics with nf-core/metaboigniter](https://colab.research.google.com/github/Multiomics-Analytics-Group/course_multi-omics_analysis/blob/main/metabolomics/notebooks/01_metabolomics_preprocessing_metaboigniter.ipynb) |
+| 14:30–16:00 | [Proteomics Basic Analysis](https://colab.research.google.com/github/Multiomics-Analytics-Group/course_multi-omics_analysis/blob/main/proteomics/notebooks/02_proteomics_analysis.ipynb) |
 
 ### Day 3
 
 | Time | Session |
 |---|---|
-| 9:00–9:30 | [Metabolomics Basic Analysis](https://colab.research.google.com/github/Multiomics-Analytics-Group/course_multi-omics_analysis/blob/main/metabolomics/notebooks/02_metabolomics_analysis.ipynb) |
-| 9:30–10:00 | [Introduction to Networks in Python](https://colab.research.google.com/github/Multiomics-Analytics-Group/course_multi-omics_analysis/blob/main/notebooks/05_Visualising_Networks/03_nx.ipynb) |
-| 10:00–10:15 | ☕ Coffee break |
-| 10:15–10:45 | [Networks in Python — Co-abundance Practical](https://colab.research.google.com/github/Multiomics-Analytics-Group/course_multi-omics_analysis/blob/main/notebooks/05_Visualising_Networks/04_nxpandas.ipynb) |
-| 10:45–11:15 | [Visualising Networks — Cytoscape](material/cytoscape.md) |
-| 11:15–12:15 | 🍽️ Lunch |
-| 12:15–13:15 | [Multi-omics](https://docs.google.com/presentation/d/1xbuNIp87tWDQmaQDzW9EzzN6lJVNWfsY3wbTByngbEI/edit?usp=sharing) |
-| 13:15–14:45 | [Multi-omics I — Integration](https://colab.research.google.com/github/Multiomics-Analytics-Group/course_multi-omics_analysis/blob/main/multiomics/notebooks/01_multiomics_integration.ipynb) |
-| 14:45–15:00 | ☕ Coffee break |
-| 15:00–16:00 | [Multi-omics II — Networks and pathways](https://colab.research.google.com/github/Multiomics-Analytics-Group/course_multi-omics_analysis/blob/main/multiomics/notebooks/02_multiomics_networks.ipynb) |
+| 9:00–10:00 | [Metabolomics Basic Analysis](https://colab.research.google.com/github/Multiomics-Analytics-Group/course_multi-omics_analysis/blob/main/metabolomics/notebooks/02_metabolomics_analysis.ipynb) |
+| 10:00–10:30 | ☕ Coffee break |
+| 10:30–11:00 | [Introduction to Networks in Python](https://colab.research.google.com/github/Multiomics-Analytics-Group/course_multi-omics_analysis/blob/main/notebooks/05_Visualising_Networks/03_nx.ipynb) |
+| 11:00–11:30 | [Networks in Python — Co-abundance Practical](https://colab.research.google.com/github/Multiomics-Analytics-Group/course_multi-omics_analysis/blob/main/notebooks/05_Visualising_Networks/04_nxpandas.ipynb) |
+| 11:30–12:30 | 🍽️ Lunch |
+| 12:30–13:00 | [Multi-omics](https://docs.google.com/presentation/d/1xbuNIp87tWDQmaQDzW9EzzN6lJVNWfsY3wbTByngbEI/edit?usp=sharing) |
+| 13:00–14:15 | [Multi-omics I — Integration](https://colab.research.google.com/github/Multiomics-Analytics-Group/course_multi-omics_analysis/blob/main/multiomics/notebooks/01_multiomics_integration.ipynb) |
+| 14:15–14:45 | ☕ Coffee break |
+| 14:45–15:45 | [Multi-omics II — Networks and pathways](https://colab.research.google.com/github/Multiomics-Analytics-Group/course_multi-omics_analysis/blob/main/multiomics/notebooks/02_multiomics_networks.ipynb) |
+| 15:45-16:00 | Wrap-up |
+| |
+| Additional material | [Visualising Networks — Cytoscape](material/cytoscape.md) |
 
-### The thread through the three days
-
-**Day 1 — from instrument to fundamentals.** What the machines measure and why a workflow
-manager is not optional, then a hands-on foundation in Python and pandas, followed by
-visualisation — all taught *on the course data*.
-
-**Day 2 — from raw files to result.** Two Nextflow pipelines run hands-on:
-[quantmsdiann](https://quantmsdiann.quantms.org/) for DIA proteomics and
-[nf-core/metaboigniter](https://nf-co.re/metaboigniter/2.0.1/) for untargeted metabolomics —
-then a full differential-abundance analysis of the serum proteome with
-[acore](https://analytics-core.readthedocs.io/),
-[vuecore](https://vuecore.readthedocs.io/) and
-[vuegen](https://vuegen.readthedocs.io/) — including a side-by-side comparison with the
-published protein list.
-
-**Day 3 — from result to biology.** The metabolome, then integration: similarity network
-fusion and MOFA, a cross-omics correlation network exported to Cytoscape, a joint KEGG
-pathway analysis, and a close look at the methionine cycle — the point where the two layers
-actually meet.
-
----
 
 ## 💻 How to run the notebooks
 
@@ -252,4 +233,4 @@ The proteomics and metabolomics analysis sessions build on the
 [dsp_course_proteomics_intro](https://github.com/biosustain/dsp_course_proteomics_intro) and
 [dsp_course_metabolomics_intro](https://github.com/biosustain/dsp_course_metabolomics_intro).
 
-We thank He *et al.* for depositing both omics layers of their cohort publicly.
+We thank *He et al.* for depositing both omics layers of their cohort publicly.
