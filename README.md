@@ -108,7 +108,7 @@ real data traps the class will meet — is in [`material/datasets.md`](material/
 | 10:30–11:00 | [Introduction to Networks in Python](https://colab.research.google.com/github/Multiomics-Analytics-Group/course_multi-omics_analysis/blob/main/notebooks/05_Visualising_Networks/03_nx.ipynb) |
 | 11:00–11:30 | [Networks in Python — Co-abundance Practical](https://colab.research.google.com/github/Multiomics-Analytics-Group/course_multi-omics_analysis/blob/main/notebooks/05_Visualising_Networks/04_nxpandas.ipynb) |
 | 11:30–12:30 | 🍽️ Lunch |
-| 12:30–13:00 | [Multi-omics](https://docs.google.com/presentation/d/1xbuNIp87tWDQmaQDzW9EzzN6lJVNWfsY3wbTByngbEI/edit?usp=sharing) |
+| 12:30–13:00 | [Multi-omics](https://docs.google.com/presentation/d/1aGBi7htJLX1u4D1ySCOM1601UMDJhOcvxb1WF3kV9FQ/edit?usp=drive_link) |
 | 13:00–14:15 | [Multi-omics I — Integration](https://colab.research.google.com/github/Multiomics-Analytics-Group/course_multi-omics_analysis/blob/main/multiomics/notebooks/01_multiomics_integration.ipynb) |
 | 14:15–14:45 | ☕ Coffee break |
 | 14:45–15:45 | [Multi-omics II — Networks and pathways](https://colab.research.google.com/github/Multiomics-Analytics-Group/course_multi-omics_analysis/blob/main/multiomics/notebooks/02_multiomics_networks.ipynb) |
