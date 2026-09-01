@@ -104,13 +104,14 @@ real data traps the class will meet — is in [`material/datasets.md`](material/
 | Time | Session |
 |---|---|
 | 9:00–10:00 | [Metabolomics Basic Analysis](https://colab.research.google.com/github/Multiomics-Analytics-Group/course_multi-omics_analysis/blob/main/metabolomics/notebooks/02_metabolomics_analysis.ipynb) |
-| 10:00–10:30 | ☕ Coffee break |
-| 10:30–11:00 | [Introduction to Networks in Python](https://colab.research.google.com/github/Multiomics-Analytics-Group/course_multi-omics_analysis/blob/main/notebooks/05_Visualising_Networks/03_nx.ipynb) |
-| 11:00–11:30 | [Networks in Python — Co-abundance Practical](https://colab.research.google.com/github/Multiomics-Analytics-Group/course_multi-omics_analysis/blob/main/notebooks/05_Visualising_Networks/04_nxpandas.ipynb) |
-| 11:30–12:30 | 🍽️ Lunch |
-| 12:30–13:00 | [Multi-omics](https://docs.google.com/presentation/d/1aGBi7htJLX1u4D1ySCOM1601UMDJhOcvxb1WF3kV9FQ/edit?usp=drive_link) |
-| 13:00–14:15 | [Multi-omics I — Integration](https://colab.research.google.com/github/Multiomics-Analytics-Group/course_multi-omics_analysis/blob/main/multiomics/notebooks/01_multiomics_integration.ipynb) |
-| 14:15–14:45 | ☕ Coffee break |
+| 10:00–10:15 | ☕ Coffee break |
+| 10:15–10:45 | [Introduction to Networks Biology](https://docs.google.com/presentation/d/1qwph0WAuAKdauMMm5k08XIjA9Ub0dywaTLpqteQwce4/edit?usp=drive_link) |
+| 10:45–11:15 | [Networks in Python](https://colab.research.google.com/github/Multiomics-Analytics-Group/course_multi-omics_analysis/blob/main/notebooks/05_Visualising_Networks/03_nx.ipynb) |
+| 11:15–11:45 | [Networks in Python — Co-abundance Practical](https://colab.research.google.com/github/Multiomics-Analytics-Group/course_multi-omics_analysis/blob/main/notebooks/05_Visualising_Networks/04_nxpandas.ipynb) |
+| 11:45–12:45 | 🍽️ Lunch |
+| 12:45–13:15 | [Multi-omics](https://docs.google.com/presentation/d/1aGBi7htJLX1u4D1ySCOM1601UMDJhOcvxb1WF3kV9FQ/edit?usp=drive_link) |
+| 13:15–14:30 | [Multi-omics I — Integration](https://colab.research.google.com/github/Multiomics-Analytics-Group/course_multi-omics_analysis/blob/main/multiomics/notebooks/01_multiomics_integration.ipynb) |
+| 14:30–14:45 | ☕ Coffee break |
 | 14:45–15:45 | [Multi-omics II — Networks and pathways](https://colab.research.google.com/github/Multiomics-Analytics-Group/course_multi-omics_analysis/blob/main/multiomics/notebooks/02_multiomics_networks.ipynb) |
 | 15:45-16:00 | Wrap-up |
 | |
