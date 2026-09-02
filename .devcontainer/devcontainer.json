@@ -1,0 +1,33 @@
+{
+  "name": "multi-omics course (Nextflow + Docker)",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu-24.04",
+  "remoteUser": "root",
+  "features": {
+    "ghcr.io/devcontainers/features/docker-in-docker:2": {},
+    "ghcr.io/devcontainers/features/java:1": { "version": "17" },
+    "ghcr.io/devcontainers/features/python:1": { "version": "3.11" }
+  },
+  "hostRequirements": { "cpus": 4, "storage": "32gb" },
+  "postCreateCommand": "curl -s https://get.nextflow.io | bash && sudo mv nextflow /usr/local/bin/nextflow && sudo chmod +x /usr/local/bin/nextflow && nextflow -v && pip install --no-cache-dir jupyter ipykernel pandas matplotlib seaborn scipy statsmodels",
+  "remoteEnv": {
+    // Nextflow installation version
+    "NXF_HOME": "/workspaces/.nextflow",
+    "NXF_EDGE": "0",
+    "NXF_VER": "25.10.4",
+    "NXF_SYNTAX_PARSER": "v1",
+    // Other env vars
+    "HOST_PROJECT_PATH": "/workspaces/dsp_course_proteomics_intro",
+    "SHELL": "/bin/bash" // Use bash
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-toolsai.jupyter",
+        "ms-python.python",
+        "nextflow.nextflow"
+      ],
+      // Use bash
+      "terminal.integrated.defaultProfile.linux": "bash"
+    }
+  }
+}
