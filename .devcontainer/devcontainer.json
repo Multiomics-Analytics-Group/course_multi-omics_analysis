@@ -1,6 +1,7 @@
 {
   "name": "multi-omics course (Nextflow + Docker)",
   "image": "mcr.microsoft.com/devcontainers/base:ubuntu-24.04",
+  "remoteUser": "root",
   "features": {
     "ghcr.io/devcontainers/features/docker-in-docker:2": {},
     "ghcr.io/devcontainers/features/java:1": { "version": "17" },
