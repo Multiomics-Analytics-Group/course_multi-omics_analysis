@@ -116,7 +116,6 @@ real data traps the class will meet — is in [`material/datasets.md`](material/
 | [Introduction to Networks Biology](https://docs.google.com/presentation/d/1qwph0WAuAKdauMMm5k08XIjA9Ub0dywaTLpqteQwce4/edit?usp=drive_link) |
 | [Networks in Python — Co-abundance Practical](https://colab.research.google.com/github/Multiomics-Analytics-Group/course_multi-omics_analysis/blob/main/notebooks/05_Visualising_Networks/04_nxpandas.ipynb) |
 
-
 ## 💻 How to run the notebooks
 
 Every hands-on session is a Jupyter notebook that opens in **Google Colab** with one click
