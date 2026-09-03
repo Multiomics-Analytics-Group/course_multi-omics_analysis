@@ -90,7 +90,7 @@ real data traps the class will meet — is in [`material/datasets.md`](material/
 
 | Time | Session |
 |---|---|
-| 9:00–10:00 | [Omics: Proteomics and Metabolomics](slides/04_Omics_Proteomics_and_Metabolomics.pptx) |
+| 9:00–10:00 | [Omics: Proteomics and Metabolomics](https://docs.google.com/presentation/d/1JGzXKnw9qvj_kBcWL6BQXxT4A7shBGtPo1gYBrGSUnU/edit?usp=drive_link) |
 | 10:00–10:30 | ☕ Coffee break |
 | 10:30–12:00 | [Preprocessing Proteomics with quantms/DIA-NN](https://colab.research.google.com/github/Multiomics-Analytics-Group/course_multi-omics_analysis/blob/main/proteomics/notebooks/01_proteomics_preprocessing_quantmsdiann.ipynb) |
 | 12:00–13:00 | 🍽️ Lunch |
