@@ -110,10 +110,15 @@ real data traps the class will meet — is in [`material/datasets.md`](material/
 | 13:30–14:30 | [Multi-omics II — Networks and pathways](https://colab.research.google.com/github/Multiomics-Analytics-Group/course_multi-omics_analysis/blob/main/multiomics/notebooks/02_multiomics_networks.ipynb) |
 | 14:30–15:00 | ☕ Coffee break |
 | 15:00-16:00 | Questions |
-||
-|Additional material |
+
+
+
+**Additional material**
+
 [Visualising Networks — Cytoscape](material/cytoscape.md)
- [Networks in Python](https://colab.research.google.com/github/Multiomics-Analytics-Group/course_multi-omics_analysis/blob/main/notebooks/05_Visualising_Networks/03_nx.ipynb)
+
+[Networks in Python](https://colab.research.google.com/github/Multiomics-Analytics-Group/course_multi-omics_analysis/blob/main/notebooks/05_Visualising_Networks/03_nx.ipynb)
+
 [Networks in Python — Co-abundance Practical](https://colab.research.google.com/github/Multiomics-Analytics-Group/course_multi-omics_analysis/blob/main/notebooks/05_Visualising_Networks/04_nxpandas.ipynb)
 
 ## 💻 How to run the notebooks
